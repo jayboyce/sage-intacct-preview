@@ -1,0 +1,408 @@
+<svg width="1440" height="920" viewBox="0 0 1440 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6206_47124)">
+<rect width="1440" height="920" rx="20" fill="white"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#F2F5F6"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#F2F5F6"/>
+<g clip-path="url(#clip1_6206_47124)">
+<rect width="1440" height="69.3333" fill="black"/>
+</g>
+<line y1="68.6668" x2="1440" y2="68.6668" stroke="#D9E0E4" stroke-width="1.33333"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.407 21.8499C38.3184 17.282 34.3793 14 29.5459 14C24.7076 14 21 17.5486 21 22.0721C21 27.0835 24.5726 28.9027 28.8683 30.4138C32.7118 31.7452 34.5655 32.9422 34.5655 35.7808C34.5655 38.0869 32.7118 39.9941 29.9084 39.9941C27.24 39.9941 24.8888 38.1758 24.8888 35.3373C24.8888 34.4213 25.141 33.9003 25.3564 33.4554C25.5169 33.1236 25.6571 32.834 25.6571 32.4543C25.6571 31.4301 24.9341 30.6766 23.758 30.6766C22.4017 30.6766 21 32.6726 21 35.5111C21 40.079 25.0278 43.4499 29.9084 43.4479C34.8817 43.4479 38.4544 39.8548 38.4544 35.3758C38.4544 30.2311 34.7015 28.5007 30.5861 27.037C26.7396 25.6642 24.8888 24.4691 24.8868 21.762C24.8868 19.278 26.8806 17.4598 29.4986 17.4598C32.3029 17.4598 34.5182 19.3709 34.5635 21.9388C34.6088 23.1368 35.4678 23.8459 36.4626 23.8459C37.5008 23.8459 38.4524 23.1338 38.407 21.8499ZM40.3262 34.7121C40.3262 39.5911 44.3963 43.4499 49.28 43.4499C51.45 43.4499 53.1235 42.7397 53.1235 41.3649C53.1235 40.3447 52.2193 39.6355 51.3603 39.6355C51.0827 39.6355 50.8399 39.6866 50.5672 39.7439C50.2177 39.8174 49.8189 39.9012 49.2347 39.9012C46.4303 39.9012 44.2151 37.5062 44.2151 34.7121C44.2151 31.6968 46.4767 29.3462 49.3253 29.3462C52.5354 29.3462 54.5705 31.7412 54.5705 35.2444V41.5872C54.5705 42.6953 55.4747 43.4499 56.5602 43.4499C57.5984 43.4499 58.5046 42.6953 58.5046 41.5872V35.1111C58.5046 29.7896 54.7527 25.8864 49.4159 25.8864C44.4416 25.8864 40.3262 29.6563 40.3262 34.7121ZM69.6465 56.6667C64.5815 56.6667 60.3765 53.118 60.3765 48.5057C60.3765 46.9531 61.2828 46.2439 62.321 46.2439C63.3591 46.2439 64.22 46.9096 64.2654 48.1955C64.3107 51.0785 66.6619 53.2069 69.6022 53.2069C72.7237 53.2069 74.7567 51.2553 74.7567 48.7279C74.7567 45.8449 72.4961 44.6469 68.6526 43.4499C64.1757 42.0306 60.3776 40.079 60.3776 34.6676C60.3776 29.7007 64.2664 25.8864 69.3313 25.8864C74.4405 25.8864 78.6455 29.5229 78.6455 34.3131C78.6455 37.2405 77.4251 39.5022 75.7516 39.5022C74.6218 39.5022 73.8525 38.7042 73.8525 37.7244C73.8525 37.2875 74.0187 36.9564 74.2088 36.5777C74.4625 36.0722 74.7587 35.482 74.7587 34.4425C74.7587 31.3807 72.3179 29.3422 69.3786 29.3422C66.529 29.3422 64.2684 31.4706 64.2684 34.2647C64.2684 37.4143 66.5743 38.7447 70.3735 39.9862C74.7587 41.4054 78.6475 43.1793 78.6475 48.3684C78.6475 53.0262 74.8947 56.6647 69.6495 56.6647L69.6465 56.6667ZM80.5175 34.6677C80.5175 39.5467 84.6772 43.4499 89.7421 43.4499H89.7451C92.2776 43.4499 94.3126 42.7842 95.669 41.9418C97.0253 41.0993 97.5681 40.3892 97.5681 39.5911C97.5681 38.7487 96.9317 37.9941 95.7556 37.9941C95.2093 37.9941 94.7043 38.2973 94.088 38.6673C93.1228 39.2468 91.8847 39.9902 89.7874 39.9902C89.0767 39.991 88.3729 39.8535 87.7167 39.5858C87.0605 39.3181 86.4649 38.9253 85.9645 38.4303C85.464 37.9354 85.0686 37.3479 84.8012 36.7021C84.5337 36.0562 84.3995 35.3648 84.4063 34.6677C84.4063 31.7413 86.7575 29.3018 89.6515 29.3018C92.772 29.3018 94.4445 31.2998 94.4445 32.5837C94.4445 32.9383 94.1736 33.1161 93.8111 33.1161H89.9223C88.8791 33.1161 88.1098 33.8232 88.1098 34.7121C88.1098 35.6435 88.8832 36.3536 89.9223 36.3536H95.1232C97.1129 36.3536 98.3333 35.3334 98.3333 33.6484C98.3333 29.3018 94.5351 25.8865 89.5155 25.8865C88.3361 25.8809 87.1672 26.1038 86.0759 26.5426C84.9846 26.9814 83.9923 27.6273 83.1563 28.4432C82.3202 29.2592 81.6567 30.2291 81.2038 31.2973C80.751 32.3654 80.5177 33.5108 80.5175 34.6677Z" fill="#00D639"/>
+<line x1="120.331" y1="14" x2="120.331" y2="56.6667" stroke="#5E5E5E" stroke-width="1.33333"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="139" y="42.8">Intacct</tspan></text>
+<path d="M1305.38 34.1L1303.27 34.75C1302.52 34.98 1301.94 35.57 1301.71 36.31L1301.06 38.42C1300.68 39.67 1298.91 39.67 1298.53 38.42L1297.88 36.31C1297.65 35.56 1297.06 34.98 1296.32 34.75L1294.21 34.1C1292.96 33.72 1292.96 31.95 1294.21 31.57L1296.32 30.92C1297.07 30.69 1297.65 30.1 1297.88 29.36L1298.53 27.25C1298.91 26 1300.68 26 1301.06 27.25L1301.71 29.36C1301.94 30.11 1302.53 30.69 1303.27 30.92L1305.38 31.57C1306.63 31.95 1306.63 33.72 1305.38 34.1Z" fill="url(#paint0_radial_6206_47124)"/>
+<path d="M1280.62 15.79C1286.81 15.79 1291.85 20.07 1291.96 26.03C1292.02 27.71 1290.8 28.63 1289.47 28.63C1288.14 28.63 1287.1 27.7 1287.04 26.14C1286.98 22.78 1284.15 20.29 1280.56 20.29C1277.2 20.29 1274.66 22.66 1274.66 25.9C1274.66 29.43 1277.03 30.99 1281.95 32.79C1287.22 34.7 1292.02 36.96 1292.02 43.67C1292.02 49.52 1287.45 54.2 1281.08 54.2C1274.71 54.2 1269.68 49.8 1269.68 43.84C1269.68 40.14 1271.47 37.53 1273.21 37.53C1274.72 37.53 1275.64 38.51 1275.64 39.84C1275.64 41 1274.66 41.52 1274.66 43.6C1274.66 47.3 1277.67 49.68 1281.08 49.68C1284.67 49.68 1287.04 47.19 1287.04 44.18C1287.04 40.48 1284.67 38.91 1279.75 37.18C1274.25 35.21 1269.68 32.84 1269.68 26.3C1269.68 20.4 1274.42 15.77 1280.62 15.77V15.79Z" fill="url(#paint1_linear_6206_47124)"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="1316" y="43.3">Copilot</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="20" letter-spacing="0px"><tspan x="234.023" y="42.08">Budgeting and Planning</tspan></text>
+<rect x="26.368" y="171.368" width="1388.26" height="697.264" rx="3.89518" fill="white"/>
+<rect x="26.368" y="171.368" width="1388.26" height="697.264" rx="3.89518" stroke="#CCD6DB" stroke-width="0.735937"/>
+<rect x="26" y="250" width="1387" height="619" fill="#F2F5F6"/>
+<rect x="55.9922" y="204.009" width="70.0204" height="8.40244" rx="4.20122" fill="#CCD6DB"/>
+<rect x="1330.84" y="206.997" width="25.2073" height="7.00204" rx="3.50102" fill="#CCD6DB"/>
+<rect x="954.533" y="271.535" width="403.934" height="547.934" fill="white" stroke="#E6EBED" stroke-width="1.06579"/>
+<rect x="975.672" y="300.11" width="362.191" height="492.02" fill="white" stroke="#E6EBED" stroke-width="0.62621"/>
+<rect x="1338.18" y="486.979" width="126.319" height="362.817" transform="rotate(90 1338.18 486.979)" fill="#F2F5F6"/>
+<rect x="1338.18" y="642.006" width="125.171" height="362.817" transform="rotate(90 1338.18 642.006)" fill="#F2F5F6"/>
+<rect x="1338.18" y="333.102" width="125.171" height="362.817" transform="rotate(90 1338.18 333.102)" fill="#F2F5F6"/>
+<rect x="586.984" y="394.289" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="56.5329" y="271.535" width="403.934" height="547.934" fill="white" stroke="#E6EBED" stroke-width="1.06579"/>
+<rect x="73.2812" y="336.725" width="256.848" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="389.058" width="120.118" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="427.434" width="348.854" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="471.047" width="253.015" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="514.655" width="184.011" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="558.269" width="106.062" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="596.648" width="136.73" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="640.257" width="71.5597" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="683.866" width="40.8913" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="727.479" width="71.5597" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<rect x="73.2812" y="771.088" width="95.8389" height="12.2111" rx="6.10557" fill="#E6EBED"/>
+<g clip-path="url(#clip2_6206_47124)">
+<rect x="505" y="271.002" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect width="405" height="42.5863" transform="translate(505 272.254)" fill="#E6EBED"/>
+<rect x="908.748" y="272.254" width="1.25254" height="42.5863" fill="#CCD6DB"/>
+<rect x="505" y="314.841" width="405" height="1.25254" fill="#CCD6DB"/>
+<g clip-path="url(#clip3_6206_47124)">
+<rect x="505" y="316.093" width="405" height="37.5761" fill="white"/>
+<rect x="505" y="353.669" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="354.922" width="405" height="37.5761" fill="#FAFBFB"/>
+<rect x="505" y="392.498" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="393.75" width="405" height="37.5761" fill="white"/>
+<rect x="505" y="431.327" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="432.58" width="405" height="37.5761" fill="#FAFBFB"/>
+<rect x="505" y="470.156" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="471.408" width="405" height="37.5761" fill="white"/>
+<rect x="505" y="508.984" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="510.237" width="405" height="37.5761" fill="#FAFBFB"/>
+<rect x="505" y="547.813" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="549.065" width="405" height="37.5761" fill="white"/>
+<rect x="505" y="586.642" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="587.894" width="405" height="37.5761" fill="#FAFBFB"/>
+<rect x="505" y="625.47" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="626.723" width="405" height="37.5761" fill="white"/>
+<rect x="505" y="664.299" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="665.551" width="405" height="37.5761" fill="#FAFBFB"/>
+<rect x="505" y="703.127" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="704.38" width="405" height="37.5761" fill="white"/>
+<rect x="505" y="741.957" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="743.209" width="405" height="37.5761" fill="#FAFBFB"/>
+<rect x="505" y="780.785" width="405" height="1.25254" fill="#CCD6DB"/>
+<rect x="505" y="782.038" width="405" height="37.5761" fill="white"/>
+<rect x="505" y="819.614" width="405" height="1.25254" fill="#CCD6DB"/>
+</g>
+</g>
+<rect x="525" y="325.213" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="442.846" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="639.002" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="364.424" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="482.057" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="678.213" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="560.479" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="756.635" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="403.635" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="521.268" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="717.424" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="599.689" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="795.846" width="71.5597" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect x="525" y="286.002" width="99.6725" height="12.2111" rx="6.10557" fill="#CCD6DB"/>
+<rect width="1440" height="851" transform="translate(0 69)" fill="#282828" fill-opacity="0.4"/>
+<g filter="url(#filter0_d_6206_47124)">
+<rect x="597" y="101" width="825" height="739" rx="4" fill="white"/>
+</g>
+<g clip-path="url(#clip4_6206_47124)">
+<g clip-path="url(#clip5_6206_47124)">
+<g clip-path="url(#clip6_6206_47124)">
+<rect width="825" height="35.1863" transform="translate(597 101)" fill="white"/>
+<rect width="825" height="703.814" transform="translate(597 136.187)" fill="white"/>
+</g>
+<rect x="597.419" y="101.419" width="824.162" height="738.162" rx="6.28327" stroke="#CCD6DB" stroke-width="0.837769"/>
+<rect x="597" y="206" width="275" height="544" fill="#F2F5F6"/>
+<path d="M597 206L1422 206" stroke="#CCD6DB"/>
+<path d="M872 206L872 750" stroke="#CCD6DB"/>
+<path d="M897 270L897 595" stroke="#CCD6DB"/>
+<path d="M931 314V349.5H954.5" stroke="#CCD6DB"/>
+<path d="M931 453V488.5H954.5" stroke="#CCD6DB"/>
+<path d="M961 505V540.5H984.5" stroke="#CCD6DB"/>
+<path d="M1422 705L872 705" stroke="#CCD6DB"/>
+<path d="M598 750L1423 750" stroke="#CCD6DB"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="33.7953" letter-spacing="0px"><tspan x="639" y="168.242">Your budget structure</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="20.2222" letter-spacing="0px"><tspan x="639" y="250.111">Available dimensions:</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="925" y="302.547">Revenues</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="926" y="398.547">Cost of Revenue</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="926" y="588.547">Other</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="926" y="440.547">Operating Expenses</tspan></text>
+<text fill="#00324C" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="1027" y="302.518">113 lines</tspan></text>
+<text fill="#00324C" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="1085" y="398.354">15 lines</tspan></text>
+<text fill="#00324C" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="994" y="589.354">5 lines</tspan></text>
+<text fill="#00324C" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="1119" y="441.354">546 lines</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.3136" letter-spacing="0px"><tspan x="894" y="249.02">SAGE INTACCT</tspan></text>
+<text fill="#00A06B" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14.5876" letter-spacing="0px"><tspan x="895" y="730.929">ESTIMATED BUDGET LINES: 680</tspan></text>
+<path d="M1021 289L1021 305" stroke="#CCD6DB"/>
+<path d="M1078 384L1078 400" stroke="#CCD6DB"/>
+<path d="M987 575L987 591" stroke="#CCD6DB"/>
+<path d="M1111 427L1111 443" stroke="#CCD6DB"/>
+<path d="M917 296H897" stroke="#CCD6DB"/>
+<path d="M917 392H897" stroke="#CCD6DB"/>
+<path d="M917 435H897" stroke="#CCD6DB"/>
+<path d="M917 583H897" stroke="#CCD6DB"/>
+<rect x="954.5" y="332.5" width="331" height="35" rx="3.5" fill="white"/>
+<rect x="954.5" y="332.5" width="331" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="954" y="332" width="15" height="36" fill="#00A06B"/>
+<rect x="958" y="337" width="3" height="3" fill="white"/>
+<rect x="958" y="341" width="3" height="3" fill="white"/>
+<rect x="958" y="345" width="3" height="3" fill="white"/>
+<rect x="958" y="349" width="3" height="3" fill="white"/>
+<rect x="958" y="353" width="3" height="3" fill="white"/>
+<rect x="958" y="357" width="3" height="3" fill="white"/>
+<rect x="958" y="361" width="3" height="3" fill="white"/>
+<rect x="963" y="337" width="3" height="3" fill="white"/>
+<rect x="963" y="341" width="3" height="3" fill="white"/>
+<rect x="963" y="345" width="3" height="3" fill="white"/>
+<rect x="963" y="349" width="3" height="3" fill="white"/>
+<rect x="963" y="353" width="3" height="3" fill="white"/>
+<rect x="963" y="357" width="3" height="3" fill="white"/>
+<rect x="963" y="361" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="980" y="355.547">By locations</tspan></text>
+<rect x="636.5" y="347.5" width="178" height="35" rx="3.5" fill="white"/>
+<rect x="636.5" y="347.5" width="178" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="636" y="347" width="15" height="36" fill="#00A06B"/>
+<rect x="640" y="352" width="3" height="3" fill="white"/>
+<rect x="640" y="356" width="3" height="3" fill="white"/>
+<rect x="640" y="360" width="3" height="3" fill="white"/>
+<rect x="640" y="364" width="3" height="3" fill="white"/>
+<rect x="640" y="368" width="3" height="3" fill="white"/>
+<rect x="640" y="372" width="3" height="3" fill="white"/>
+<rect x="640" y="376" width="3" height="3" fill="white"/>
+<rect x="645" y="352" width="3" height="3" fill="white"/>
+<rect x="645" y="356" width="3" height="3" fill="white"/>
+<rect x="645" y="360" width="3" height="3" fill="white"/>
+<rect x="645" y="364" width="3" height="3" fill="white"/>
+<rect x="645" y="368" width="3" height="3" fill="white"/>
+<rect x="645" y="372" width="3" height="3" fill="white"/>
+<rect x="645" y="376" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="662" y="370.547">Departments</tspan></text>
+<rect x="636.5" y="387.5" width="178" height="35" rx="3.5" fill="white"/>
+<rect x="636.5" y="387.5" width="178" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="636" y="387" width="15" height="36" fill="#00A06B"/>
+<rect x="640" y="392" width="3" height="3" fill="white"/>
+<rect x="640" y="396" width="3" height="3" fill="white"/>
+<rect x="640" y="400" width="3" height="3" fill="white"/>
+<rect x="640" y="404" width="3" height="3" fill="white"/>
+<rect x="640" y="408" width="3" height="3" fill="white"/>
+<rect x="640" y="412" width="3" height="3" fill="white"/>
+<rect x="640" y="416" width="3" height="3" fill="white"/>
+<rect x="645" y="392" width="3" height="3" fill="white"/>
+<rect x="645" y="396" width="3" height="3" fill="white"/>
+<rect x="645" y="400" width="3" height="3" fill="white"/>
+<rect x="645" y="404" width="3" height="3" fill="white"/>
+<rect x="645" y="408" width="3" height="3" fill="white"/>
+<rect x="645" y="412" width="3" height="3" fill="white"/>
+<rect x="645" y="416" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="662" y="410.547">Sub departments</tspan></text>
+<rect x="636.5" y="427.5" width="178" height="35" rx="3.5" fill="white"/>
+<rect x="636.5" y="427.5" width="178" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="636" y="427" width="15" height="36" fill="#00A06B"/>
+<rect x="640" y="432" width="3" height="3" fill="white"/>
+<rect x="640" y="436" width="3" height="3" fill="white"/>
+<rect x="640" y="440" width="3" height="3" fill="white"/>
+<rect x="640" y="444" width="3" height="3" fill="white"/>
+<rect x="640" y="448" width="3" height="3" fill="white"/>
+<rect x="640" y="452" width="3" height="3" fill="white"/>
+<rect x="640" y="456" width="3" height="3" fill="white"/>
+<rect x="645" y="432" width="3" height="3" fill="white"/>
+<rect x="645" y="436" width="3" height="3" fill="white"/>
+<rect x="645" y="440" width="3" height="3" fill="white"/>
+<rect x="645" y="444" width="3" height="3" fill="white"/>
+<rect x="645" y="448" width="3" height="3" fill="white"/>
+<rect x="645" y="452" width="3" height="3" fill="white"/>
+<rect x="645" y="456" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="662" y="450.547">Locations</tspan></text>
+<rect x="636.5" y="467.5" width="178" height="35" rx="3.5" fill="white"/>
+<rect x="636.5" y="467.5" width="178" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="636" y="467" width="15" height="36" fill="#00A06B"/>
+<rect x="640" y="472" width="3" height="3" fill="white"/>
+<rect x="640" y="476" width="3" height="3" fill="white"/>
+<rect x="640" y="480" width="3" height="3" fill="white"/>
+<rect x="640" y="484" width="3" height="3" fill="white"/>
+<rect x="640" y="488" width="3" height="3" fill="white"/>
+<rect x="640" y="492" width="3" height="3" fill="white"/>
+<rect x="640" y="496" width="3" height="3" fill="white"/>
+<rect x="645" y="472" width="3" height="3" fill="white"/>
+<rect x="645" y="476" width="3" height="3" fill="white"/>
+<rect x="645" y="480" width="3" height="3" fill="white"/>
+<rect x="645" y="484" width="3" height="3" fill="white"/>
+<rect x="645" y="488" width="3" height="3" fill="white"/>
+<rect x="645" y="492" width="3" height="3" fill="white"/>
+<rect x="645" y="496" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="662" y="490.547">Sub locations</tspan></text>
+<rect x="636.5" y="507.5" width="178" height="35" rx="3.5" fill="white"/>
+<rect x="636.5" y="507.5" width="178" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="636" y="507" width="15" height="36" fill="#00A06B"/>
+<rect x="640" y="512" width="3" height="3" fill="white"/>
+<rect x="640" y="516" width="3" height="3" fill="white"/>
+<rect x="640" y="520" width="3" height="3" fill="white"/>
+<rect x="640" y="524" width="3" height="3" fill="white"/>
+<rect x="640" y="528" width="3" height="3" fill="white"/>
+<rect x="640" y="532" width="3" height="3" fill="white"/>
+<rect x="640" y="536" width="3" height="3" fill="white"/>
+<rect x="645" y="512" width="3" height="3" fill="white"/>
+<rect x="645" y="516" width="3" height="3" fill="white"/>
+<rect x="645" y="520" width="3" height="3" fill="white"/>
+<rect x="645" y="524" width="3" height="3" fill="white"/>
+<rect x="645" y="528" width="3" height="3" fill="white"/>
+<rect x="645" y="532" width="3" height="3" fill="white"/>
+<rect x="645" y="536" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="662" y="530.547">Projects</tspan></text>
+<rect x="636.5" y="547.5" width="178" height="35" rx="3.5" fill="white"/>
+<rect x="636.5" y="547.5" width="178" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="636" y="547" width="15" height="36" fill="#00A06B"/>
+<rect x="640" y="552" width="3" height="3" fill="white"/>
+<rect x="640" y="556" width="3" height="3" fill="white"/>
+<rect x="640" y="560" width="3" height="3" fill="white"/>
+<rect x="640" y="564" width="3" height="3" fill="white"/>
+<rect x="640" y="568" width="3" height="3" fill="white"/>
+<rect x="640" y="572" width="3" height="3" fill="white"/>
+<rect x="640" y="576" width="3" height="3" fill="white"/>
+<rect x="645" y="552" width="3" height="3" fill="white"/>
+<rect x="645" y="556" width="3" height="3" fill="white"/>
+<rect x="645" y="560" width="3" height="3" fill="white"/>
+<rect x="645" y="564" width="3" height="3" fill="white"/>
+<rect x="645" y="568" width="3" height="3" fill="white"/>
+<rect x="645" y="572" width="3" height="3" fill="white"/>
+<rect x="645" y="576" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="662" y="570.547">Sub projects</tspan></text>
+<rect x="636.5" y="587.5" width="178" height="35" rx="3.5" fill="white"/>
+<rect x="636.5" y="587.5" width="178" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="636" y="587" width="15" height="36" fill="#00A06B"/>
+<rect x="640" y="592" width="3" height="3" fill="white"/>
+<rect x="640" y="596" width="3" height="3" fill="white"/>
+<rect x="640" y="600" width="3" height="3" fill="white"/>
+<rect x="640" y="604" width="3" height="3" fill="white"/>
+<rect x="640" y="608" width="3" height="3" fill="white"/>
+<rect x="640" y="612" width="3" height="3" fill="white"/>
+<rect x="640" y="616" width="3" height="3" fill="white"/>
+<rect x="645" y="592" width="3" height="3" fill="white"/>
+<rect x="645" y="596" width="3" height="3" fill="white"/>
+<rect x="645" y="600" width="3" height="3" fill="white"/>
+<rect x="645" y="604" width="3" height="3" fill="white"/>
+<rect x="645" y="608" width="3" height="3" fill="white"/>
+<rect x="645" y="612" width="3" height="3" fill="white"/>
+<rect x="645" y="616" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="662" y="610.547">Customers</tspan></text>
+<rect x="636.5" y="627.5" width="178" height="35" rx="3.5" fill="white"/>
+<rect x="636.5" y="627.5" width="178" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="636" y="627" width="15" height="36" fill="#00A06B"/>
+<rect x="640" y="632" width="3" height="3" fill="white"/>
+<rect x="640" y="636" width="3" height="3" fill="white"/>
+<rect x="640" y="640" width="3" height="3" fill="white"/>
+<rect x="640" y="644" width="3" height="3" fill="white"/>
+<rect x="640" y="648" width="3" height="3" fill="white"/>
+<rect x="640" y="652" width="3" height="3" fill="white"/>
+<rect x="640" y="656" width="3" height="3" fill="white"/>
+<rect x="645" y="632" width="3" height="3" fill="white"/>
+<rect x="645" y="636" width="3" height="3" fill="white"/>
+<rect x="645" y="640" width="3" height="3" fill="white"/>
+<rect x="645" y="644" width="3" height="3" fill="white"/>
+<rect x="645" y="648" width="3" height="3" fill="white"/>
+<rect x="645" y="652" width="3" height="3" fill="white"/>
+<rect x="645" y="656" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="662" y="650.547">Vendors</tspan></text>
+<rect x="954.5" y="470.5" width="331" height="35" rx="3.5" fill="white"/>
+<rect x="954.5" y="470.5" width="331" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="954" y="470" width="15" height="36" fill="#00A06B"/>
+<rect x="958" y="475" width="3" height="3" fill="white"/>
+<rect x="958" y="479" width="3" height="3" fill="white"/>
+<rect x="958" y="483" width="3" height="3" fill="white"/>
+<rect x="958" y="487" width="3" height="3" fill="white"/>
+<rect x="958" y="491" width="3" height="3" fill="white"/>
+<rect x="958" y="495" width="3" height="3" fill="white"/>
+<rect x="958" y="499" width="3" height="3" fill="white"/>
+<rect x="963" y="475" width="3" height="3" fill="white"/>
+<rect x="963" y="479" width="3" height="3" fill="white"/>
+<rect x="963" y="483" width="3" height="3" fill="white"/>
+<rect x="963" y="487" width="3" height="3" fill="white"/>
+<rect x="963" y="491" width="3" height="3" fill="white"/>
+<rect x="963" y="495" width="3" height="3" fill="white"/>
+<rect x="963" y="499" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="980" y="493.547">By departments</tspan></text>
+<rect x="985.5" y="523.5" width="331" height="35" rx="3.5" fill="white"/>
+<rect x="985.5" y="523.5" width="331" height="35" rx="3.5" stroke="#CCD6DB"/>
+<rect x="985" y="523" width="15" height="36" fill="#00A06B"/>
+<rect x="989" y="528" width="3" height="3" fill="white"/>
+<rect x="989" y="532" width="3" height="3" fill="white"/>
+<rect x="989" y="536" width="3" height="3" fill="white"/>
+<rect x="989" y="540" width="3" height="3" fill="white"/>
+<rect x="989" y="544" width="3" height="3" fill="white"/>
+<rect x="989" y="548" width="3" height="3" fill="white"/>
+<rect x="989" y="552" width="3" height="3" fill="white"/>
+<rect x="994" y="528" width="3" height="3" fill="white"/>
+<rect x="994" y="532" width="3" height="3" fill="white"/>
+<rect x="994" y="536" width="3" height="3" fill="white"/>
+<rect x="994" y="540" width="3" height="3" fill="white"/>
+<rect x="994" y="544" width="3" height="3" fill="white"/>
+<rect x="994" y="548" width="3" height="3" fill="white"/>
+<rect x="994" y="552" width="3" height="3" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="1011" y="546.547">By projects</tspan></text>
+<path d="M638 795L805 795" stroke="#00A06B"/>
+<path d="M830 795L966 795" stroke="#00C1AE"/>
+<rect x="1293.5" y="773.5" width="107" height="46" rx="3.5" stroke="#006819"/>
+<text transform="translate(1217 788) rotate(90)" fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="20.972" letter-spacing="0px"><tspan x="0.44625" y="18.3505">angle-down</tspan></text>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.5259" letter-spacing="0px"><tspan x="639" y="292.43">Drag and drop dimensions&#10;</tspan><tspan x="639" y="320.337">into your budget structure</tspan></text>
+</g>
+<text fill="#B3C2C9" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21" letter-spacing="0px"><tspan x="826" y="373.375">info-circle</tspan></text>
+<text fill="#B3C2C9" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21" letter-spacing="0px"><tspan x="826" y="413.375">info-circle</tspan></text>
+<text fill="#B3C2C9" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21" letter-spacing="0px"><tspan x="826" y="453.375">info-circle</tspan></text>
+<text fill="#B3C2C9" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21" letter-spacing="0px"><tspan x="826" y="493.375">info-circle</tspan></text>
+<text fill="#B3C2C9" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21" letter-spacing="0px"><tspan x="826" y="533.375">info-circle</tspan></text>
+<text fill="#B3C2C9" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21" letter-spacing="0px"><tspan x="826" y="573.375">info-circle</tspan></text>
+<text fill="#B3C2C9" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21" letter-spacing="0px"><tspan x="826" y="613.375">info-circle</tspan></text>
+<text fill="#B3C2C9" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21" letter-spacing="0px"><tspan x="826" y="653.375">info-circle</tspan></text>
+<circle cx="649.5" cy="794.5" r="13.5" fill="#00A06B"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="16" letter-spacing="0px"><tspan x="642" y="801">check</tspan></text>
+<circle cx="682.5" cy="794.5" r="13.5" fill="#00A06B"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="16" letter-spacing="0px"><tspan x="675" y="801">check</tspan></text>
+<circle cx="716.5" cy="794.5" r="13.5" fill="#00A06B"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="16" letter-spacing="0px"><tspan x="709" y="801">check</tspan></text>
+<circle cx="750.5" cy="794.5" r="13.5" fill="#00A06B"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="16" letter-spacing="0px"><tspan x="743" y="801">check</tspan></text>
+<circle cx="784.5" cy="794.5" r="13.5" fill="#00A06B"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="16" letter-spacing="0px"><tspan x="777" y="801">check</tspan></text>
+<circle cx="817.5" cy="794.5" r="13" stroke="#00A06B"/>
+<circle cx="851.5" cy="794.5" r="13" fill="white" stroke="#00C1AE"/>
+<circle cx="885.5" cy="794.5" r="13" fill="white" stroke="#00C1AE"/>
+<circle cx="919.5" cy="794.5" r="13" fill="white" stroke="#00C1AE"/>
+<circle cx="952.5" cy="794.5" r="13" fill="white" stroke="#00C1AE"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="814" y="799.354">6</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="848" y="799.354">7</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="882" y="799.354">8</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="916" y="799.354">9</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.4276" letter-spacing="0px"><tspan x="945" y="799.354">10</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="1327" y="803.547">Next</tspan></text>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="18.6494" letter-spacing="0px"><tspan x="1219" y="801.547">Back</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="18" letter-spacing="0px"><tspan x="1393.25" y="128.75">Times</tspan></text>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_6206_47124" x="555.448" y="84.3794" width="908.103" height="822.103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="24.9309"/>
+<feGaussianBlur stdDeviation="20.7758"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_6206_47124"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_6206_47124" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_6206_47124" cx="0" cy="0" r="1" gradientTransform="matrix(10.5 9.5 -7.88115 9.9214 1295.5 28)" gradientUnits="userSpaceOnUse">
+<stop offset="0.341666" stop-color="#9D60FF"/>
+<stop offset="0.72" stop-color="#00D6DE"/>
+<stop offset="0.896666" stop-color="#00D639"/>
+</radialGradient>
+<linearGradient id="paint1_linear_6206_47124" x1="1282.5" y1="54" x2="1294.47" y2="25.5352" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00D639"/>
+<stop offset="0.4" stop-color="#00D6DE"/>
+<stop offset="0.9" stop-color="#9D60FF"/>
+</linearGradient>
+<clipPath id="clip0_6206_47124">
+<rect width="1440" height="920" rx="20" fill="white"/>
+</clipPath>
+<clipPath id="clip1_6206_47124">
+<rect width="1440" height="69.3333" fill="white"/>
+</clipPath>
+<clipPath id="clip2_6206_47124">
+<rect width="405" height="549" fill="white" transform="translate(505 271.002)"/>
+</clipPath>
+<clipPath id="clip3_6206_47124">
+<rect width="405" height="503.909" fill="white" transform="translate(505 316.093)"/>
+</clipPath>
+<clipPath id="clip4_6206_47124">
+<rect width="825" height="739" fill="white" transform="translate(597 101)"/>
+</clipPath>
+<clipPath id="clip5_6206_47124">
+<rect width="825" height="739" fill="white" transform="translate(597 101)"/>
+</clipPath>
+<clipPath id="clip6_6206_47124">
+<rect x="597" y="101" width="825" height="739" rx="6.70215" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,315 @@
+<svg width="1440" height="920" viewBox="0 0 1440 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6206_45036)">
+<rect width="1440" height="920" rx="20" fill="white"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#F2F5F6"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#E6EBED"/>
+<g clip-path="url(#clip1_6206_45036)">
+<rect width="1440" height="69.3333" fill="black"/>
+</g>
+<line y1="68.6668" x2="1440" y2="68.6668" stroke="#D9E0E4" stroke-width="1.33333"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.407 21.8499C38.3184 17.282 34.3793 14 29.5459 14C24.7076 14 21 17.5486 21 22.0721C21 27.0835 24.5726 28.9027 28.8683 30.4138C32.7118 31.7452 34.5655 32.9422 34.5655 35.7808C34.5655 38.0869 32.7118 39.9941 29.9084 39.9941C27.24 39.9941 24.8888 38.1758 24.8888 35.3373C24.8888 34.4213 25.141 33.9003 25.3564 33.4554C25.5169 33.1236 25.6571 32.834 25.6571 32.4543C25.6571 31.4301 24.9341 30.6766 23.758 30.6766C22.4017 30.6766 21 32.6726 21 35.5111C21 40.079 25.0278 43.4499 29.9084 43.4479C34.8817 43.4479 38.4544 39.8548 38.4544 35.3758C38.4544 30.2311 34.7015 28.5007 30.5861 27.037C26.7396 25.6642 24.8888 24.4691 24.8868 21.762C24.8868 19.278 26.8806 17.4598 29.4986 17.4598C32.3029 17.4598 34.5182 19.3709 34.5635 21.9388C34.6088 23.1368 35.4678 23.8459 36.4626 23.8459C37.5008 23.8459 38.4524 23.1338 38.407 21.8499ZM40.3262 34.7121C40.3262 39.5911 44.3963 43.4499 49.28 43.4499C51.45 43.4499 53.1235 42.7397 53.1235 41.3649C53.1235 40.3447 52.2193 39.6355 51.3603 39.6355C51.0827 39.6355 50.8399 39.6866 50.5672 39.7439C50.2177 39.8174 49.8189 39.9012 49.2347 39.9012C46.4303 39.9012 44.2151 37.5062 44.2151 34.7121C44.2151 31.6968 46.4767 29.3462 49.3253 29.3462C52.5354 29.3462 54.5705 31.7412 54.5705 35.2444V41.5872C54.5705 42.6953 55.4747 43.4499 56.5602 43.4499C57.5984 43.4499 58.5046 42.6953 58.5046 41.5872V35.1111C58.5046 29.7896 54.7527 25.8864 49.4159 25.8864C44.4416 25.8864 40.3262 29.6563 40.3262 34.7121ZM69.6465 56.6667C64.5815 56.6667 60.3765 53.118 60.3765 48.5057C60.3765 46.9531 61.2828 46.2439 62.321 46.2439C63.3591 46.2439 64.22 46.9096 64.2654 48.1955C64.3107 51.0785 66.6619 53.2069 69.6022 53.2069C72.7237 53.2069 74.7567 51.2553 74.7567 48.7279C74.7567 45.8449 72.4961 44.6469 68.6526 43.4499C64.1757 42.0306 60.3776 40.079 60.3776 34.6676C60.3776 29.7007 64.2664 25.8864 69.3313 25.8864C74.4405 25.8864 78.6455 29.5229 78.6455 34.3131C78.6455 37.2405 77.4251 39.5022 75.7516 39.5022C74.6218 39.5022 73.8525 38.7042 73.8525 37.7244C73.8525 37.2875 74.0187 36.9564 74.2088 36.5777C74.4625 36.0722 74.7587 35.482 74.7587 34.4425C74.7587 31.3807 72.3179 29.3422 69.3786 29.3422C66.529 29.3422 64.2684 31.4706 64.2684 34.2647C64.2684 37.4143 66.5743 38.7447 70.3735 39.9862C74.7587 41.4054 78.6475 43.1793 78.6475 48.3684C78.6475 53.0262 74.8947 56.6647 69.6495 56.6647L69.6465 56.6667ZM80.5175 34.6677C80.5175 39.5467 84.6772 43.4499 89.7421 43.4499H89.7451C92.2776 43.4499 94.3126 42.7842 95.669 41.9418C97.0253 41.0993 97.5681 40.3892 97.5681 39.5911C97.5681 38.7487 96.9317 37.9941 95.7556 37.9941C95.2093 37.9941 94.7043 38.2973 94.088 38.6673C93.1228 39.2468 91.8847 39.9902 89.7874 39.9902C89.0767 39.991 88.3729 39.8535 87.7167 39.5858C87.0605 39.3181 86.4649 38.9253 85.9645 38.4303C85.464 37.9354 85.0686 37.3479 84.8012 36.7021C84.5337 36.0562 84.3995 35.3648 84.4063 34.6677C84.4063 31.7413 86.7575 29.3018 89.6515 29.3018C92.772 29.3018 94.4445 31.2998 94.4445 32.5837C94.4445 32.9383 94.1736 33.1161 93.8111 33.1161H89.9223C88.8791 33.1161 88.1098 33.8232 88.1098 34.7121C88.1098 35.6435 88.8832 36.3536 89.9223 36.3536H95.1232C97.1129 36.3536 98.3333 35.3334 98.3333 33.6484C98.3333 29.3018 94.5351 25.8865 89.5155 25.8865C88.3361 25.8809 87.1672 26.1038 86.0759 26.5426C84.9846 26.9814 83.9923 27.6273 83.1563 28.4432C82.3202 29.2592 81.6567 30.2291 81.2038 31.2973C80.751 32.3654 80.5177 33.5108 80.5175 34.6677Z" fill="#00D639"/>
+<line x1="120.331" y1="14" x2="120.331" y2="56.6667" stroke="#5E5E5E" stroke-width="1.33333"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="139" y="42.8">Intacct</tspan></text>
+<path d="M1305.38 34.1L1303.27 34.75C1302.52 34.98 1301.94 35.57 1301.71 36.31L1301.06 38.42C1300.68 39.67 1298.91 39.67 1298.53 38.42L1297.88 36.31C1297.65 35.56 1297.06 34.98 1296.32 34.75L1294.21 34.1C1292.96 33.72 1292.96 31.95 1294.21 31.57L1296.32 30.92C1297.07 30.69 1297.65 30.1 1297.88 29.36L1298.53 27.25C1298.91 26 1300.68 26 1301.06 27.25L1301.71 29.36C1301.94 30.11 1302.53 30.69 1303.27 30.92L1305.38 31.57C1306.63 31.95 1306.63 33.72 1305.38 34.1Z" fill="url(#paint0_radial_6206_45036)"/>
+<path d="M1280.62 15.79C1286.81 15.79 1291.85 20.07 1291.96 26.03C1292.02 27.71 1290.8 28.63 1289.47 28.63C1288.14 28.63 1287.1 27.7 1287.04 26.14C1286.98 22.78 1284.15 20.29 1280.56 20.29C1277.2 20.29 1274.66 22.66 1274.66 25.9C1274.66 29.43 1277.03 30.99 1281.95 32.79C1287.22 34.7 1292.02 36.96 1292.02 43.67C1292.02 49.52 1287.45 54.2 1281.08 54.2C1274.71 54.2 1269.68 49.8 1269.68 43.84C1269.68 40.14 1271.47 37.53 1273.21 37.53C1274.72 37.53 1275.64 38.51 1275.64 39.84C1275.64 41 1274.66 41.52 1274.66 43.6C1274.66 47.3 1277.67 49.68 1281.08 49.68C1284.67 49.68 1287.04 47.19 1287.04 44.18C1287.04 40.48 1284.67 38.91 1279.75 37.18C1274.25 35.21 1269.68 32.84 1269.68 26.3C1269.68 20.4 1274.42 15.77 1280.62 15.77V15.79Z" fill="url(#paint1_linear_6206_45036)"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="1316" y="43.3">Copilot</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="20" letter-spacing="0px"><tspan x="234.023" y="42.08">Budgeting and Planning</tspan></text>
+<rect width="1440" height="53" transform="translate(0 67)" fill="white"/>
+<g clip-path="url(#clip2_6206_45036)">
+<rect width="333.333" height="53.3333" transform="translate(0 66.833)" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="18.6667" letter-spacing="0px"><tspan x="26.666" y="100.322">Exec Dashboard</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="18.6667" letter-spacing="0px"><tspan x="293.499" y="100.333">&#xf107;</tspan></text>
+<path d="M332.667 67.4997V119.532" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+</g>
+<rect x="1134" y="78" width="136.079" height="30.4087" rx="3.04087" fill="#007E45"/>
+<rect width="69.1798" height="15.2044" transform="translate(1163.65 85.6025)" fill="#007E45"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14.8045" letter-spacing="0px"><tspan x="1163.66" y="98.5179">Create Report</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="13.6839" font-weight="900" letter-spacing="0px"><tspan x="1143.9" y="97.3377">copy</tspan></text>
+<rect x="1292.12" y="78" width="120.875" height="30.4087" rx="3.04087" fill="#007E45"/>
+<rect width="69.1798" height="15.2044" transform="translate(1321.77 85.6025)" fill="#007E45"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14.8045" letter-spacing="0px"><tspan x="1321.96" y="98.5179">Add Widget</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="13.6839" font-weight="900" letter-spacing="0px"><tspan x="1302.02" y="97.3357">plus</tspan></text>
+<g clip-path="url(#clip3_6206_45036)">
+<rect x="21" y="225" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="42" y="258.134">Budget highlights</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="175" y="257.62">Jan 2023 - Dec 2023</tspan></text>
+<path d="M21 279.27L714.416 279.269" stroke="#CCD6DB" stroke-width="0.861386"/>
+<path d="M245.555 293.913V495.603" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M415.852 363.093H75.2663" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M415.852 430.148H75.2663" stroke="#CCD6DB" stroke-width="1.06433"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="129.326" y="324.648">Renenues</tspan></text>
+<text fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="129.184" y="340.716">$19.22M</tspan></text>
+<text fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="153.157" y="409.904">9</tspan></text>
+<text fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="129.883" y="477.134">$13.47M</tspan></text>
+<text fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="306.074" y="341.782">$8.47M</tspan></text>
+<text fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="312.691" y="409.904">None</tspan></text>
+<text fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="309.451" y="478.021">$200K</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="127.055" y="393.648">Headcount</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="99.1406" y="459.648">Ending cash Balance</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="281.816" y="461.648">Deferred revenue</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="303.268" y="325.648">Net Profit</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="296.594" y="393.648">End of cash</tspan></text>
+<circle cx="447.387" cy="246.535" r="1.72277" fill="#737373"/>
+<circle cx="447.387" cy="251.703" r="1.72277" fill="#737373"/>
+<circle cx="447.387" cy="256.871" r="1.72277" fill="#737373"/>
+</g>
+<g clip-path="url(#clip4_6206_45036)">
+<rect x="492.18" y="225" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="512.805" y="258.029">Operating expenses as % of revenue</tspan></text>
+<path d="M492.18 279.27L1185.6 279.269" stroke="#CCD6DB" stroke-width="0.861386"/>
+<path d="M889.766 476.525H580.046" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M889.766 446.72H580.046" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M889.766 417.982H580.046" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M889.766 389.248H580.046" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M889.766 359.443H580.046" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M889.766 330.709H580.046" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M889.766 301.976H580.046" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M619.422 330.181L692.328 368.497L772.94 399.582C773.476 399.789 773.975 400.081 774.418 400.447L850.913 463.754" stroke="#00821F" stroke-width="1.06433"/>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="547.664" y="305.697">30%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="547.664" y="334.697">29%</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="611" y="324.697">29%</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="694" y="364.697">27.6%</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="779" y="395.697">26.6%</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="855" y="458.697">24.4%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="547.664" y="363.697">28%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="547.664" y="393.697">27%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="547.664" y="421.697">26%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="547.664" y="450.697">25%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="601.547" y="491.697">2023/Q1</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="670.547" y="491.697">2023/Q2</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="739.547" y="491.697">2023/Q3</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="808.547" y="491.697">2023/Q4</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="547.664" y="480.697">24%</tspan></text>
+<circle cx="918.567" cy="246.535" r="1.72277" fill="#737373"/>
+<circle cx="918.567" cy="251.703" r="1.72277" fill="#737373"/>
+<circle cx="918.567" cy="256.871" r="1.72277" fill="#737373"/>
+</g>
+<g clip-path="url(#clip5_6206_45036)">
+<rect x="963.359" y="225" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+<path d="M963.359 279.27L1656.78 279.269" stroke="#CCD6DB" stroke-width="0.861386"/>
+<g clip-path="url(#clip6_6206_45036)">
+<g clip-path="url(#clip7_6206_45036)">
+<rect x="1129" y="239.645" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</g>
+<rect x="1129.42" y="240.061" width="130.079" height="25.849" rx="2.91843" stroke="#668494" stroke-width="0.833837"/>
+</g>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1136.6" y="257.302">By Category</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="14.5482" letter-spacing="0px"><tspan x="1246.19" y="259.042">angle-down</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="984.031" y="257.642">Operating expenses</tspan></text>
+<path d="M1355.48 463.396H1055.34" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M1355.48 431.467H1055.34" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M1355.48 401.665H1055.34" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M1355.48 370.799H1055.34" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M1355.48 338.866H1055.34" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M1355.48 308.004H1055.34" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M1093.12 367.071L1069.17 327.159V443.703L1109.62 444.767H1142.61L1168.15 441.574L1194.76 443.703L1222.97 441.574H1344.83V363.346L1319.82 366.007L1293.75 326.094L1269.8 363.346H1244.25L1219.24 321.837L1194.76 363.346H1169.22L1143.67 323.433L1118.66 363.346L1093.12 367.071Z" fill="#00D639" stroke="#006819" stroke-width="1.06433"/>
+<path d="M1109.62 444.236L1069.17 443.172V463.394H1344.83V441.043H1222.97L1194.76 443.172L1168.15 441.043L1142.61 444.236H1109.62Z" fill="#0060A7" stroke="#004D2A" stroke-width="1.06433"/>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1010" y="311.697">$500K</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1010" y="343.697">$400K</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1010" y="374.697">$300K</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1010" y="405.697">$200K</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1010" y="436.697">$100K</tspan></text>
+<text transform="translate(1069 471.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">JAN </tspan></text>
+<text transform="translate(1116.04 471.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">MAR </tspan></text>
+<text transform="translate(1166.66 471.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">MAY </tspan></text>
+<text transform="translate(1217.27 471.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">JUL </tspan></text>
+<text transform="translate(1267.88 471.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">SEP </tspan></text>
+<text transform="translate(1318.49 471.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">NOV </tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1032" y="468.697">$0</tspan></text>
+<circle cx="1389.75" cy="246.535" r="1.72277" fill="#737373"/>
+<circle cx="1389.75" cy="251.703" r="1.72277" fill="#737373"/>
+<circle cx="1389.75" cy="256.871" r="1.72277" fill="#737373"/>
+</g>
+<g clip-path="url(#clip8_6206_45036)">
+<rect x="21" y="529.93" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+<path d="M21 584.199L714.416 584.199" stroke="#CCD6DB" stroke-width="0.861386"/>
+<path d="M381.742 765.939H106.081" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M381.742 726.558H106.081" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M381.742 687.183H106.081" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M381.742 647.804H106.081" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M381.742 608.419H106.081" stroke="#CCD6DB" stroke-width="1.06433"/>
+<rect x="112.461" y="655.249" width="10.6433" height="110.69" fill="#00A06B"/>
+<rect x="134.82" y="654.186" width="10.6433" height="111.755" fill="#00A06B"/>
+<rect x="158.234" y="650.996" width="10.6433" height="114.948" fill="#00A06B"/>
+<rect x="180.586" y="644.604" width="10.6433" height="121.334" fill="#00A06B"/>
+<rect x="204" y="647.804" width="10.6433" height="118.141" fill="#00A06B"/>
+<rect x="227.414" y="638.22" width="10.6433" height="127.719" fill="#00A06B"/>
+<rect x="250.828" y="640.352" width="10.6433" height="125.591" fill="#00A06B"/>
+<rect x="273.18" y="638.22" width="10.6433" height="127.719" fill="#00A06B"/>
+<rect x="296.594" y="633.96" width="10.6433" height="131.977" fill="#00A06B"/>
+<rect x="318.945" y="631.836" width="10.6433" height="134.105" fill="#00A06B"/>
+<rect x="342.359" y="628.646" width="10.6433" height="137.298" fill="#00A06B"/>
+<rect x="364.711" y="626.516" width="10.6433" height="139.427" fill="#00A06B"/>
+<path d="M140.672 700.481C169.409 697.825 177.188 663.761 185.906 663.761C194.386 663.761 203.49 749.373 208.878 754.032C209.129 754.249 209.511 754.294 209.769 754.086C216.021 749.057 225.998 619.843 232.736 620.656C239.638 621.489 246.04 752.105 256.684 752.105C266.795 752.105 271.584 688.778 296.596 685.58C304.726 684.131 308.989 685.95 320.059 697.753C321.05 698.81 322.426 699.439 323.874 699.47L371.099 700.481" stroke="#0060A7" stroke-width="1.06433"/>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="71.2109" y="613.697">$2M</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="392.383" y="613.539">9%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="61.2031" y="652.697">$1.5M</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="392.383" y="652.917">6%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="71.2109" y="691.697">$1M</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="392.383" y="691.231">3%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="60.3242" y="731.697">$500K</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="392.383" y="731.682">0%</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="81.6641" y="769.697">$0</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="392" y="769.697">-3%</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="41.6719" y="562.958">Revenue growth</tspan></text>
+<circle cx="447.387" cy="551.468" r="1.72277" fill="#737373"/>
+<circle cx="447.387" cy="556.636" r="1.72277" fill="#737373"/>
+<circle cx="447.387" cy="561.804" r="1.72277" fill="#737373"/>
+<text transform="translate(108 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">JAN </tspan></text>
+<text transform="translate(152.953 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">MAR </tspan></text>
+<text transform="translate(201.484 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">MAY </tspan></text>
+<text transform="translate(250.008 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">JUL </tspan></text>
+<text transform="translate(298.531 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">SEP </tspan></text>
+<text transform="translate(347.062 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">NOV </tspan></text>
+</g>
+<g clip-path="url(#clip9_6206_45036)">
+<rect x="492.18" y="529.93" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+<path d="M492.18 584.199L1185.6 584.199" stroke="#CCD6DB" stroke-width="0.861386"/>
+<path d="M885.562 765.939H575.843" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M886 727H576" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M886 690H576" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M886 652H576" stroke="#CCD6DB" stroke-width="1.06433"/>
+<path d="M886 613H576" stroke="#CCD6DB" stroke-width="1.06433"/>
+<rect x="581" y="659" width="12" height="15" fill="#00A06B"/>
+<rect x="608" y="657" width="11" height="16" fill="#00A06B"/>
+<rect x="633" y="644" width="12" height="30" fill="#00A06B"/>
+<rect x="659" y="644" width="12" height="30" fill="#00A06B"/>
+<rect x="685" y="629" width="12" height="30" fill="#00A06B"/>
+<rect x="711" y="629" width="12" height="30" fill="#00A06B"/>
+<rect x="762" y="629" width="12" height="30" fill="#00A06B"/>
+<rect x="788" y="629" width="11" height="30" fill="#00A06B"/>
+<rect x="813" y="629" width="12" height="30" fill="#00A06B"/>
+<rect x="839" y="629" width="11" height="30" fill="#00A06B"/>
+<rect x="864" y="629" width="12" height="30" fill="#00A06B"/>
+<rect x="737" y="613" width="11" height="46" fill="#00A06B"/>
+<rect x="581" y="674" width="12" height="31" fill="#0060A7"/>
+<rect x="608" y="673" width="11" height="32" fill="#0060A7"/>
+<rect x="633" y="674" width="12" height="31" fill="#0060A7"/>
+<rect x="659" y="674" width="12" height="31" fill="#0060A7"/>
+<rect x="685" y="659" width="12" height="30" fill="#0060A7"/>
+<rect x="711" y="659" width="12" height="30" fill="#0060A7"/>
+<rect x="762" y="659" width="12" height="31" fill="#0060A7"/>
+<rect x="788" y="659" width="11" height="31" fill="#0060A7"/>
+<rect x="813" y="659" width="12" height="31" fill="#0060A7"/>
+<rect x="839" y="659" width="11" height="31" fill="#0060A7"/>
+<rect x="864" y="659" width="12" height="31" fill="#0060A7"/>
+<rect x="737" y="659" width="11" height="30" fill="#0060A7"/>
+<rect x="581" y="705" width="12" height="61" fill="#FF4800"/>
+<rect x="608" y="705" width="11" height="61" fill="#FF4800"/>
+<rect x="633" y="705" width="12" height="61" fill="#FF4800"/>
+<rect x="659" y="705" width="12" height="61" fill="#FF4800"/>
+<rect x="685" y="689" width="12" height="77" fill="#FF4800"/>
+<rect x="711" y="689" width="12" height="77" fill="#FF4800"/>
+<rect x="762" y="690" width="12" height="76" fill="#FF4800"/>
+<rect x="788" y="690" width="11" height="76" fill="#FF4800"/>
+<rect x="813" y="690" width="12" height="76" fill="#FF4800"/>
+<rect x="839" y="690" width="11" height="76" fill="#FF4800"/>
+<rect x="864" y="690" width="12" height="76" fill="#FF4800"/>
+<rect x="737" y="689" width="11" height="77" fill="#FF4800"/>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="554.555" y="616.697">10</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="552.43" y="656.697">7.5</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="559.875" y="692.697">5</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="552.43" y="728.697">2.5</tspan></text>
+<text fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="559.875" y="769.996">0</tspan></text>
+<g clip-path="url(#clip10_6206_45036)">
+<g clip-path="url(#clip11_6206_45036)">
+<rect x="608" y="543.715" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</g>
+<rect x="608.417" y="544.132" width="130.079" height="25.849" rx="2.91843" stroke="#668494" stroke-width="0.833837"/>
+</g>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="615.453" y="562.302">By Department</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="14.5482" letter-spacing="0px"><tspan x="725.188" y="563.12">angle-down</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="512.852" y="561.709">Headcount</tspan></text>
+<circle cx="918.567" cy="551.468" r="1.72277" fill="#737373"/>
+<circle cx="918.567" cy="556.636" r="1.72277" fill="#737373"/>
+<circle cx="918.567" cy="561.804" r="1.72277" fill="#737373"/>
+<text transform="translate(579 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">JAN </tspan></text>
+<text transform="translate(630.953 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">MAR </tspan></text>
+<text transform="translate(686.484 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">MAY </tspan></text>
+<text transform="translate(742.008 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">JUL </tspan></text>
+<text transform="translate(797.531 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">SEP </tspan></text>
+<text transform="translate(853.062 776.254) rotate(-0.419614)" fill="#B3B3B3" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="0" y="10.1972">NOV </tspan></text>
+</g>
+<g clip-path="url(#clip12_6206_45036)">
+<rect x="963.359" y="529.93" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+<path d="M963.359 584.199L1656.78 584.199" stroke="#CCD6DB" stroke-width="0.861386"/>
+<path d="M1133.8 608.096C1150.21 608.096 1166.32 612.43 1180.52 620.66C1194.71 628.889 1206.48 640.723 1214.63 654.961C1222.78 669.2 1227.02 685.34 1226.93 701.746C1226.84 718.152 1222.41 734.243 1214.1 748.39C1205.79 762.536 1193.89 774.237 1179.61 782.307C1165.33 790.378 1149.16 794.531 1132.76 794.347C1116.35 794.164 1100.29 789.649 1086.19 781.261C1072.09 772.873 1060.45 760.909 1052.46 746.58L1133.8 701.224V608.096Z" fill="#00B000"/>
+<path d="M1052.48 746.628C1044.56 732.439 1040.49 716.423 1040.67 700.172C1040.85 683.921 1045.29 668.002 1053.53 653.996C1061.77 639.99 1073.54 628.384 1087.66 620.333C1101.77 612.282 1117.75 608.065 1134 608.102L1133.79 701.23L1052.48 746.628Z" fill="#0060A7"/>
+<circle cx="1268.83" cy="667.193" r="8.51463" fill="#00B000"/>
+<circle cx="1268.83" cy="723.608" r="8.51463" fill="#0073C2"/>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.5726" letter-spacing="0px"><tspan x="1286.49" y="685.927">66.67%</tspan></text>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.5726" letter-spacing="0px"><tspan x="1286.49" y="745.533">33.33%</tspan></text>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="1285.43" y="727.386">Gnrl &#38; Admin</tspan></text>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="1287.22" y="666.886">Marketing</tspan></text>
+<g clip-path="url(#clip13_6206_45036)">
+<g clip-path="url(#clip14_6206_45036)">
+<rect x="1065.98" y="543.714" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</g>
+<rect x="1066.4" y="544.131" width="130.079" height="25.849" rx="2.91843" stroke="#668494" stroke-width="0.833837"/>
+</g>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1073.44" y="561.302">By Department</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="14.5482" letter-spacing="0px"><tspan x="1183.18" y="563.119">angle-down</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="984.031" y="561.709">New hires</tspan></text>
+<circle cx="1389.75" cy="551.468" r="1.72277" fill="#737373"/>
+<circle cx="1389.75" cy="556.636" r="1.72277" fill="#737373"/>
+<circle cx="1389.75" cy="561.804" r="1.72277" fill="#737373"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_6206_45036" cx="0" cy="0" r="1" gradientTransform="matrix(10.5 9.5 -7.88115 9.9214 1295.5 28)" gradientUnits="userSpaceOnUse">
+<stop offset="0.341666" stop-color="#9D60FF"/>
+<stop offset="0.72" stop-color="#00D6DE"/>
+<stop offset="0.896666" stop-color="#00D639"/>
+</radialGradient>
+<linearGradient id="paint1_linear_6206_45036" x1="1282.5" y1="54" x2="1294.47" y2="25.5352" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00D639"/>
+<stop offset="0.4" stop-color="#00D6DE"/>
+<stop offset="0.9" stop-color="#9D60FF"/>
+</linearGradient>
+<clipPath id="clip0_6206_45036">
+<rect width="1440" height="920" rx="20" fill="white"/>
+</clipPath>
+<clipPath id="clip1_6206_45036">
+<rect width="1440" height="69.3333" fill="white"/>
+</clipPath>
+<clipPath id="clip2_6206_45036">
+<rect width="333.333" height="53.3333" fill="white" transform="translate(0 66.833)"/>
+</clipPath>
+<clipPath id="clip3_6206_45036">
+<rect x="21" y="225" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+</clipPath>
+<clipPath id="clip4_6206_45036">
+<rect x="492.18" y="225" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+</clipPath>
+<clipPath id="clip5_6206_45036">
+<rect x="963.359" y="225" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+</clipPath>
+<clipPath id="clip6_6206_45036">
+<rect x="1129" y="239.645" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</clipPath>
+<clipPath id="clip7_6206_45036">
+<rect x="1129" y="239.645" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</clipPath>
+<clipPath id="clip8_6206_45036">
+<rect x="21" y="529.93" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+</clipPath>
+<clipPath id="clip9_6206_45036">
+<rect x="492.18" y="529.93" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+</clipPath>
+<clipPath id="clip10_6206_45036">
+<rect x="608" y="543.715" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</clipPath>
+<clipPath id="clip11_6206_45036">
+<rect x="608" y="543.715" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</clipPath>
+<clipPath id="clip12_6206_45036">
+<rect x="963.359" y="529.93" width="449.644" height="285.119" rx="2.93182" fill="white"/>
+</clipPath>
+<clipPath id="clip13_6206_45036">
+<rect x="1065.98" y="543.714" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</clipPath>
+<clipPath id="clip14_6206_45036">
+<rect x="1065.98" y="543.714" width="130.912" height="26.6828" rx="3.33535" fill="white"/>
+</clipPath>
+</defs>
+</svg>

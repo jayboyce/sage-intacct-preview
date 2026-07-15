@@ -1,0 +1,234 @@
+<svg width="1440" height="920" viewBox="0 0 1440 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6206_46231)">
+<rect width="1440" height="920" rx="20" fill="white"/>
+<g clip-path="url(#clip1_6206_46231)">
+<rect width="1440" height="69.3333" fill="black"/>
+</g>
+<line y1="68.6668" x2="1440" y2="68.6668" stroke="#D9E0E4" stroke-width="1.33333"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.407 21.8499C38.3184 17.282 34.3793 14 29.5459 14C24.7076 14 21 17.5486 21 22.0721C21 27.0835 24.5726 28.9027 28.8683 30.4138C32.7118 31.7452 34.5655 32.9422 34.5655 35.7808C34.5655 38.0869 32.7118 39.9941 29.9084 39.9941C27.24 39.9941 24.8888 38.1758 24.8888 35.3373C24.8888 34.4213 25.141 33.9003 25.3564 33.4554C25.5169 33.1236 25.6571 32.834 25.6571 32.4543C25.6571 31.4301 24.9341 30.6766 23.758 30.6766C22.4017 30.6766 21 32.6726 21 35.5111C21 40.079 25.0278 43.4499 29.9084 43.4479C34.8817 43.4479 38.4544 39.8548 38.4544 35.3758C38.4544 30.2311 34.7015 28.5007 30.5861 27.037C26.7396 25.6642 24.8888 24.4691 24.8868 21.762C24.8868 19.278 26.8806 17.4598 29.4986 17.4598C32.3029 17.4598 34.5182 19.3709 34.5635 21.9388C34.6088 23.1368 35.4678 23.8459 36.4626 23.8459C37.5008 23.8459 38.4524 23.1338 38.407 21.8499ZM40.3262 34.7121C40.3262 39.5911 44.3963 43.4499 49.28 43.4499C51.45 43.4499 53.1235 42.7397 53.1235 41.3649C53.1235 40.3447 52.2193 39.6355 51.3603 39.6355C51.0827 39.6355 50.8399 39.6866 50.5672 39.7439C50.2177 39.8174 49.8189 39.9012 49.2347 39.9012C46.4303 39.9012 44.2151 37.5062 44.2151 34.7121C44.2151 31.6968 46.4767 29.3462 49.3253 29.3462C52.5354 29.3462 54.5705 31.7412 54.5705 35.2444V41.5872C54.5705 42.6953 55.4747 43.4499 56.5602 43.4499C57.5984 43.4499 58.5046 42.6953 58.5046 41.5872V35.1111C58.5046 29.7896 54.7527 25.8864 49.4159 25.8864C44.4416 25.8864 40.3262 29.6563 40.3262 34.7121ZM69.6465 56.6667C64.5815 56.6667 60.3765 53.118 60.3765 48.5057C60.3765 46.9531 61.2828 46.2439 62.321 46.2439C63.3591 46.2439 64.22 46.9096 64.2654 48.1955C64.3107 51.0785 66.6619 53.2069 69.6022 53.2069C72.7237 53.2069 74.7567 51.2553 74.7567 48.7279C74.7567 45.8449 72.4961 44.6469 68.6526 43.4499C64.1757 42.0306 60.3776 40.079 60.3776 34.6676C60.3776 29.7007 64.2664 25.8864 69.3313 25.8864C74.4405 25.8864 78.6455 29.5229 78.6455 34.3131C78.6455 37.2405 77.4251 39.5022 75.7516 39.5022C74.6218 39.5022 73.8525 38.7042 73.8525 37.7244C73.8525 37.2875 74.0187 36.9564 74.2088 36.5777C74.4625 36.0722 74.7587 35.482 74.7587 34.4425C74.7587 31.3807 72.3179 29.3422 69.3786 29.3422C66.529 29.3422 64.2684 31.4706 64.2684 34.2647C64.2684 37.4143 66.5743 38.7447 70.3735 39.9862C74.7587 41.4054 78.6475 43.1793 78.6475 48.3684C78.6475 53.0262 74.8947 56.6647 69.6495 56.6647L69.6465 56.6667ZM80.5175 34.6677C80.5175 39.5467 84.6772 43.4499 89.7421 43.4499H89.7451C92.2776 43.4499 94.3126 42.7842 95.669 41.9418C97.0253 41.0993 97.5681 40.3892 97.5681 39.5911C97.5681 38.7487 96.9317 37.9941 95.7556 37.9941C95.2093 37.9941 94.7043 38.2973 94.088 38.6673C93.1228 39.2468 91.8847 39.9902 89.7874 39.9902C89.0767 39.991 88.3729 39.8535 87.7167 39.5858C87.0605 39.3181 86.4649 38.9253 85.9645 38.4303C85.464 37.9354 85.0686 37.3479 84.8012 36.7021C84.5337 36.0562 84.3995 35.3648 84.4063 34.6677C84.4063 31.7413 86.7575 29.3018 89.6515 29.3018C92.772 29.3018 94.4445 31.2998 94.4445 32.5837C94.4445 32.9383 94.1736 33.1161 93.8111 33.1161H89.9223C88.8791 33.1161 88.1098 33.8232 88.1098 34.7121C88.1098 35.6435 88.8832 36.3536 89.9223 36.3536H95.1232C97.1129 36.3536 98.3333 35.3334 98.3333 33.6484C98.3333 29.3018 94.5351 25.8865 89.5155 25.8865C88.3361 25.8809 87.1672 26.1038 86.0759 26.5426C84.9846 26.9814 83.9923 27.6273 83.1563 28.4432C82.3202 29.2592 81.6567 30.2291 81.2038 31.2973C80.751 32.3654 80.5177 33.5108 80.5175 34.6677Z" fill="#00D639"/>
+<line x1="120.331" y1="14" x2="120.331" y2="56.6667" stroke="#5E5E5E" stroke-width="1.33333"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="139" y="42.8">Intacct</tspan></text>
+<path d="M1305.38 34.1L1303.27 34.75C1302.52 34.98 1301.94 35.57 1301.71 36.31L1301.06 38.42C1300.68 39.67 1298.91 39.67 1298.53 38.42L1297.88 36.31C1297.65 35.56 1297.06 34.98 1296.32 34.75L1294.21 34.1C1292.96 33.72 1292.96 31.95 1294.21 31.57L1296.32 30.92C1297.07 30.69 1297.65 30.1 1297.88 29.36L1298.53 27.25C1298.91 26 1300.68 26 1301.06 27.25L1301.71 29.36C1301.94 30.11 1302.53 30.69 1303.27 30.92L1305.38 31.57C1306.63 31.95 1306.63 33.72 1305.38 34.1Z" fill="url(#paint0_radial_6206_46231)"/>
+<path d="M1280.62 15.79C1286.81 15.79 1291.85 20.07 1291.96 26.03C1292.02 27.71 1290.8 28.63 1289.47 28.63C1288.14 28.63 1287.1 27.7 1287.04 26.14C1286.98 22.78 1284.15 20.29 1280.56 20.29C1277.2 20.29 1274.66 22.66 1274.66 25.9C1274.66 29.43 1277.03 30.99 1281.95 32.79C1287.22 34.7 1292.02 36.96 1292.02 43.67C1292.02 49.52 1287.45 54.2 1281.08 54.2C1274.71 54.2 1269.68 49.8 1269.68 43.84C1269.68 40.14 1271.47 37.53 1273.21 37.53C1274.72 37.53 1275.64 38.51 1275.64 39.84C1275.64 41 1274.66 41.52 1274.66 43.6C1274.66 47.3 1277.67 49.68 1281.08 49.68C1284.67 49.68 1287.04 47.19 1287.04 44.18C1287.04 40.48 1284.67 38.91 1279.75 37.18C1274.25 35.21 1269.68 32.84 1269.68 26.3C1269.68 20.4 1274.42 15.77 1280.62 15.77V15.79Z" fill="url(#paint1_linear_6206_46231)"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="1316" y="43.3">Copilot</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="20" letter-spacing="0px"><tspan x="234.023" y="42.08">Budgeting and Planning</tspan></text>
+<g clip-path="url(#clip2_6206_46231)">
+<rect width="1440" height="53" transform="translate(0 67)" fill="white"/>
+<g clip-path="url(#clip3_6206_46231)">
+<rect width="333.333" height="53.3333" transform="translate(0 66.8335)" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="18.6667" letter-spacing="0px"><tspan x="26.666" y="100.323">Standard Products Model</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="18.6667" letter-spacing="0px"><tspan x="293.499" y="100.333">&#xf107;</tspan></text>
+<path d="M332.667 67.5002V119.532" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+</g>
+<path d="M0 120H1440.5" stroke="#668494" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect width="232" height="800" transform="translate(0 120)" fill="#D9E0E4"/>
+<rect width="232" height="800" transform="translate(0 120)" fill="#D9E0E4"/>
+<rect y="168.082" width="232" height="40.9207" fill="#00A06B"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.2475" letter-spacing="0px"><tspan x="47" y="188.592">Standard Products&#10;</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="10" letter-spacing="0px"><tspan x="47" y="200.151">Model</tspan></text>
+<rect x="183" y="442.25" width="38" height="25.5754" rx="4" fill="#B3C2C9"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.81296" letter-spacing="0px"><tspan x="192" y="459.176">New</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.075" letter-spacing="0px"><tspan x="31" y="157.054">SPC-Central Revenue Model</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="14" letter-spacing="0px"><tspan x="15.7969" y="158.411">angle-down</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.075" letter-spacing="0px"><tspan x="31" y="351.43">Travel by Department</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.075" letter-spacing="0px"><tspan x="47" y="233.783">Premium Products</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.075" letter-spacing="0px"><tspan x="47" y="386.212">Sales: Travel Expense</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.075" letter-spacing="0px"><tspan x="47" y="270.611">SPC-Central Total Sales</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.075" letter-spacing="0px"><tspan x="47" y="423.041">Mrktg: Travel Expense</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.075" letter-spacing="0px"><tspan x="47" y="307.44">Employee Global Assumption</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.075" letter-spacing="0px"><tspan x="47" y="459.87">Total Travel Expense</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="14" letter-spacing="0px"><tspan x="15.7969" y="354.411">angle-down</tspan></text>
+<g clip-path="url(#clip4_6206_46231)">
+<rect width="1208" height="782" transform="translate(232 129)" fill="white"/>
+<rect x="304" y="300" width="150" height="33" rx="4" fill="#00A06B"/>
+<rect opacity="0.25" x="232" y="740" width="1208" height="77" fill="#FF4800"/>
+<rect opacity="0.25" x="232" y="663" width="1208" height="77" fill="#00A06B"/>
+<rect opacity="0.25" x="232" y="586" width="1208" height="77" fill="#007E45"/>
+<path d="M309.5 418H793" stroke="#CCD6DB"/>
+<path d="M435 551L435 817" stroke="#B3B3B3"/>
+<path d="M1250 551L1250 817" stroke="#B3B3B3"/>
+<path d="M232 551L1440 551" stroke="#CCD6DB"/>
+<path d="M228 663H1392" stroke="#B3B3B3"/>
+<path d="M232 625H1440" stroke="#B3B3B3"/>
+<path d="M228 702H1440" stroke="#B3B3B3"/>
+<path d="M228 740H1440" stroke="#B3B3B3"/>
+<path d="M228 779H1440" stroke="#B3B3B3"/>
+<path d="M228 817H1440" stroke="#B3B3B3"/>
+<path d="M228 586H1440" stroke="#B3B3B3"/>
+<path d="M823.5 418H1307" stroke="#CCD6DB"/>
+<path d="M309.5 384H793" stroke="#CCD6DB"/>
+<path d="M823.5 384H1307" stroke="#CCD6DB"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="23.968" letter-spacing="0px"><tspan x="283" y="199.74">Standard Products</tspan></text>
+<text fill="#00A06B" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.1904" letter-spacing="0px"><tspan x="308" y="285.448">FIXED ASSUMPTIONS (2)</tspan></text>
+<text fill="#00A06B" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.1904" letter-spacing="0px"><tspan x="304" y="475.112">MODEL LINE</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="453.551" y="169.688">Standard Products</tspan></text>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="285" y="169.688">SPC-Central Revenue Model &#62; </tspan></text>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="309" y="372.816">Name   </tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="360.897" y="372.816">Item-102 List Price</tspan></text>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.544" letter-spacing="0px"><tspan x="465" y="573.333">JAN 2023</tspan></text>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.544" letter-spacing="0px"><tspan x="572" y="573.333">FEB 2023</tspan></text>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.544" letter-spacing="0px"><tspan x="688" y="573.333">MAR 2023</tspan></text>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.544" letter-spacing="0px"><tspan x="808" y="573.333">APR 2023</tspan></text>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.544" letter-spacing="0px"><tspan x="923" y="573.333">MAY 2023</tspan></text>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.544" letter-spacing="0px"><tspan x="1040" y="573.333">JUN 2023</tspan></text>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.544" letter-spacing="0px"><tspan x="1159" y="573.333">JUL 2023</tspan></text>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.544" letter-spacing="0px"><tspan x="1326" y="573.333">TOTAL</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="254" y="609.948">Item-101 # Units</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="487.266" y="609.948">75</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="592.337" y="609.948">76.5</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="703.22" y="609.948">78.03</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="822.22" y="609.948">79.59</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="938.22" y="609.948">81.18</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1057.22" y="609.948">82.81</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1172.22" y="609.948">84.46</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1330.22" y="609.948">1,006</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="254" y="648.948">Item-101 Sales</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="471.485" y="648.948">$60,000</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="581.485" y="648.948">$61,200</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="696.485" y="648.948">$62,424</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="815.485" y="648.948">$63,672</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="931.485" y="648.948">$64,946</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1050.49" y="648.948">$66,245</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1165.49" y="648.948">$67,570</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1319.37" y="648.948">$804,726</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="254" y="725.948">Item-102 Sales</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="471.485" y="725.948">$80,000</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="581.485" y="725.948">$81,600</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="696.485" y="725.948">$83,232</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="815.485" y="725.948">$84,897</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="931.485" y="725.948">$86,595</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1050.49" y="725.948">$88,326</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1165.49" y="725.948">$90,093</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1314.44" y="725.948">$1,072,968</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="254" y="763.948">Total Stnd Prdct UNITS</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="484.148" y="763.948">155</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="588.22" y="763.948">158.1</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="700.102" y="763.948">161.26</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="819.102" y="763.948">164.49</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="935.102" y="763.948">167.78</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1054.1" y="763.948">171.13</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1169.1" y="763.948">174.56</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1330.22" y="763.948">2,079</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="254" y="802.948">Total Stnd Prdct SALES</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="467.368" y="802.948">$140,000</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="577.368" y="802.948">$142,800</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="692.368" y="802.948">$145,656</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="811.368" y="802.948">$148,569</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="927.368" y="802.948">$151,541</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1046.37" y="802.948">$154,571</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1161.37" y="802.948">$157,663</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1314.44" y="802.948">$1,877,694</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="254" y="686.948">Item-102 # Units</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="487.266" y="686.948">80</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="592.337" y="686.948">81.6</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="703.22" y="686.948">83.23</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="826.337" y="686.948">84.9</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="938.22" y="686.948">86.59</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1057.22" y="686.948">88.33</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1172.22" y="686.948">90.09</tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.0193" letter-spacing="0px"><tspan x="1330.22" y="686.948">1,073</tspan></text>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="823" y="372.816">Value   </tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="871.318" y="372.816">800</tspan></text>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="309" y="406.816">Name   </tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="360.897" y="406.816">Item-102 List Price</tspan></text>
+<text fill="#595959" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="823" y="406.816">Value   </tspan></text>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="871.318" y="406.816">1,000</tspan></text>
+<text fill="#00A06B" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="14" letter-spacing="0px"><tspan x="291.672" y="288.25">angle-down</tspan></text>
+<rect x="304" y="300" width="150" height="33" rx="4" fill="#00A06B"/>
+<rect x="364" y="595" width="52" height="21" rx="4" fill="#007E45"/>
+<rect x="364" y="672" width="52" height="21" rx="4" fill="#007E45"/>
+<rect x="304" y="488.664" width="150" height="33" rx="4" fill="#00A06B"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.2475" letter-spacing="0px"><tspan x="324" y="321.175">+ Add Assumption</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.2475" letter-spacing="0px"><tspan x="376" y="610.175">Input</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.2475" letter-spacing="0px"><tspan x="376" y="687.175">Input</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="13.2475" letter-spacing="0px"><tspan x="326" y="509.839">+ Add Model Line</tspan></text>
+</g>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#282828" fill-opacity="0.4"/>
+<g filter="url(#filter0_d_6206_46231)">
+<rect x="822" y="136" width="508" height="306.89" rx="4" fill="white"/>
+</g>
+<g clip-path="url(#clip5_6206_46231)">
+<rect x="822" y="136" width="508" height="306.892" rx="4" fill="white"/>
+<rect x="822" y="136" width="508" height="263" fill="#F2F5F6"/>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="9.33333" letter-spacing="0px"><tspan x="832.5" y="158.167">Times</tspan></text>
+<rect x="850.5" y="150.5" width="426" height="38" rx="2.5" stroke="#CCD6DB"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="1140" y="253.316">1    2     3&#10;</tspan><tspan x="1140" y="266.939">&#10;</tspan><tspan x="1140" y="280.562">4    5     6&#10;</tspan><tspan x="1140" y="294.185">&#10;</tspan><tspan x="1140" y="307.808">7    8     9&#10;</tspan><tspan x="1140" y="321.431">&#10;</tspan><tspan x="1140" y="335.054">      0     &#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="11.9143" letter-spacing="0px"><tspan x="1132.91" y="359.85">IF  MIN   MAX  SUM</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="11.9143" letter-spacing="0px"><tspan x="1132" y="382.631">SUMTOTAL  ROUND</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.2599" letter-spacing="0px"><tspan x="1220" y="251.789">+    &#62;     =&#10;</tspan><tspan x="1220" y="264.828">&#10;</tspan><tspan x="1220" y="277.867">-    &#60;     &#60;&#62;&#10;</tspan><tspan x="1220" y="290.906">&#10;</tspan><tspan x="1220" y="303.945">x    &#62;=     &#10;</tspan><tspan x="1220" y="316.984">&#10;</tspan><tspan x="1220" y="330.023">      &#60;=     &#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.2599" letter-spacing="0px"><tspan x="1220" y="326.445">_</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.2599" letter-spacing="0px"><tspan x="1221.91" y="326.445">.</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.2599" letter-spacing="0px"><tspan x="1221.91" y="331.229">.</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14.8984" letter-spacing="0px"><tspan x="1140" y="225.316">C    (      )</tspan></text>
+<path d="M1230 219.5H1219.5" stroke="#00141E"/>
+<path d="M1225 214L1219.5 219.5L1225 225" stroke="#00141E"/>
+<rect x="1265.61" y="407.608" width="55.7849" height="26.7849" rx="3.03763" stroke="#00A06B" stroke-width="1.21505"/>
+<rect x="994" y="161" width="105" height="16" rx="3" fill="#00A06B"/>
+<rect x="863" y="161" width="121" height="16" rx="3" fill="#00A06B"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12.0723" letter-spacing="0px"><tspan x="1279.48" y="425.608">Done</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1003" y="172.583">Item-101 # Units</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="874" y="172.582">Item-101 List Price</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12.0723" letter-spacing="0px"><tspan x="1209" y="424.393">Cancel</tspan></text>
+<text fill="#00A06B" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="20" letter-spacing="0px"><tspan x="1285" y="176.5">check</tspan></text>
+<path d="M821 399H1330" stroke="#CCD6DB"/>
+<rect x="850" y="209" width="115.915" height="27.7713" rx="2.41489" fill="#D9E0E4"/>
+<rect x="974.367" y="209" width="102.633" height="27.7713" rx="2.41489" fill="#D9E0E4"/>
+<rect x="850" y="247.641" width="115.915" height="27.7713" rx="2.41489" fill="#D9E0E4"/>
+<rect x="850" y="286.277" width="148.516" height="27.7713" rx="2.41489" fill="#D9E0E4"/>
+<rect x="850" y="324.914" width="148.516" height="27.7713" rx="2.41489" fill="#D9E0E4"/>
+<rect x="974.367" y="247.641" width="102.633" height="27.7713" rx="2.41489" fill="#D9E0E4"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="11.9967" letter-spacing="0px"><tspan x="863.281" y="226.97">Item-101 # Units</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="11.9967" letter-spacing="0px"><tspan x="985.234" y="226.97">Item-101 Sales</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="11.9967" letter-spacing="0px"><tspan x="863.281" y="265.607">Item-102 # Units</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="11.9967" letter-spacing="0px"><tspan x="862.078" y="304.247">Total Stnd Prdct UNITS</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="11.9967" letter-spacing="0px"><tspan x="860.867" y="342.884">Total Stnd Prdct SALES</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="11.9967" letter-spacing="0px"><tspan x="985.234" y="265.607">Item-102 Sales</tspan></text>
+<text fill="#00A06B" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12.081" letter-spacing="0px"><tspan x="850" y="380.015">PREMIUM PRODUCTS</tspan></text>
+<rect x="1107.5" y="209.5" width="11" height="152" fill="white" stroke="#E6EBED"/>
+<rect x="1110" y="218" width="6" height="15" rx="3" fill="#B3B3B3"/>
+<text fill="#99ADB7" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="16" letter-spacing="0px"><tspan x="1254" y="175">copy</tspan></text>
+</g>
+<rect x="822.5" y="136.5" width="507" height="305.892" rx="3.5" stroke="#B3C2C9"/>
+</g>
+<defs>
+<filter id="filter0_d_6206_46231" x="780.448" y="119.379" width="591.103" height="389.993" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="24.9309"/>
+<feGaussianBlur stdDeviation="20.7758"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_6206_46231"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_6206_46231" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_6206_46231" cx="0" cy="0" r="1" gradientTransform="matrix(10.5 9.5 -7.88115 9.9214 1295.5 28)" gradientUnits="userSpaceOnUse">
+<stop offset="0.341666" stop-color="#9D60FF"/>
+<stop offset="0.72" stop-color="#00D6DE"/>
+<stop offset="0.896666" stop-color="#00D639"/>
+</radialGradient>
+<linearGradient id="paint1_linear_6206_46231" x1="1282.5" y1="54" x2="1294.47" y2="25.5352" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00D639"/>
+<stop offset="0.4" stop-color="#00D6DE"/>
+<stop offset="0.9" stop-color="#9D60FF"/>
+</linearGradient>
+<clipPath id="clip0_6206_46231">
+<rect width="1440" height="920" rx="20" fill="white"/>
+</clipPath>
+<clipPath id="clip1_6206_46231">
+<rect width="1440" height="69.3333" fill="white"/>
+</clipPath>
+<clipPath id="clip2_6206_46231">
+<rect width="1440" height="53" fill="white" transform="translate(0 67)"/>
+</clipPath>
+<clipPath id="clip3_6206_46231">
+<rect width="333.333" height="53.3333" fill="white" transform="translate(0 66.8335)"/>
+</clipPath>
+<clipPath id="clip4_6206_46231">
+<rect width="1208" height="782" fill="white" transform="translate(232 129)"/>
+</clipPath>
+<clipPath id="clip5_6206_46231">
+<rect x="822" y="136" width="508" height="306.892" rx="4" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,243 @@
+<svg width="1440" height="920" viewBox="0 0 1440 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6206_48579)">
+<rect width="1440" height="920" rx="20" fill="white"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#F2F5F6"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#D9E0E4"/>
+<g clip-path="url(#clip1_6206_48579)">
+<rect width="1440" height="69.3333" fill="black"/>
+</g>
+<line y1="68.6673" x2="1440" y2="68.6673" stroke="#D9E0E4" stroke-width="1.33333"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.407 21.8499C38.3184 17.282 34.3793 14 29.5459 14C24.7076 14 21 17.5486 21 22.0721C21 27.0835 24.5726 28.9027 28.8683 30.4138C32.7118 31.7452 34.5655 32.9422 34.5655 35.7808C34.5655 38.0869 32.7118 39.9941 29.9084 39.9941C27.24 39.9941 24.8888 38.1758 24.8888 35.3373C24.8888 34.4213 25.141 33.9003 25.3564 33.4554C25.5169 33.1236 25.6571 32.834 25.6571 32.4543C25.6571 31.4301 24.9341 30.6766 23.758 30.6766C22.4017 30.6766 21 32.6726 21 35.5111C21 40.079 25.0278 43.4499 29.9084 43.4479C34.8817 43.4479 38.4544 39.8548 38.4544 35.3758C38.4544 30.2311 34.7015 28.5007 30.5861 27.037C26.7396 25.6642 24.8888 24.4691 24.8868 21.762C24.8868 19.278 26.8806 17.4598 29.4986 17.4598C32.3029 17.4598 34.5182 19.3709 34.5635 21.9388C34.6088 23.1368 35.4678 23.8459 36.4626 23.8459C37.5008 23.8459 38.4524 23.1338 38.407 21.8499ZM40.3262 34.7121C40.3262 39.5911 44.3963 43.4499 49.28 43.4499C51.45 43.4499 53.1235 42.7397 53.1235 41.3649C53.1235 40.3447 52.2193 39.6355 51.3603 39.6355C51.0827 39.6355 50.8399 39.6866 50.5672 39.7439C50.2177 39.8174 49.8189 39.9012 49.2347 39.9012C46.4303 39.9012 44.2151 37.5062 44.2151 34.7121C44.2151 31.6968 46.4767 29.3462 49.3253 29.3462C52.5354 29.3462 54.5705 31.7412 54.5705 35.2444V41.5872C54.5705 42.6953 55.4747 43.4499 56.5602 43.4499C57.5984 43.4499 58.5046 42.6953 58.5046 41.5872V35.1111C58.5046 29.7896 54.7527 25.8864 49.4159 25.8864C44.4416 25.8864 40.3262 29.6563 40.3262 34.7121ZM69.6465 56.6667C64.5815 56.6667 60.3765 53.118 60.3765 48.5057C60.3765 46.9531 61.2828 46.2439 62.321 46.2439C63.3591 46.2439 64.22 46.9096 64.2654 48.1955C64.3107 51.0785 66.6619 53.2069 69.6022 53.2069C72.7237 53.2069 74.7567 51.2553 74.7567 48.7279C74.7567 45.8449 72.4961 44.6469 68.6526 43.4499C64.1757 42.0306 60.3776 40.079 60.3776 34.6676C60.3776 29.7007 64.2664 25.8864 69.3313 25.8864C74.4405 25.8864 78.6455 29.5229 78.6455 34.3131C78.6455 37.2405 77.4251 39.5022 75.7516 39.5022C74.6218 39.5022 73.8525 38.7042 73.8525 37.7244C73.8525 37.2875 74.0187 36.9564 74.2088 36.5777C74.4625 36.0722 74.7587 35.482 74.7587 34.4425C74.7587 31.3807 72.3179 29.3422 69.3786 29.3422C66.529 29.3422 64.2684 31.4706 64.2684 34.2647C64.2684 37.4143 66.5743 38.7447 70.3735 39.9862C74.7587 41.4054 78.6475 43.1793 78.6475 48.3684C78.6475 53.0262 74.8947 56.6647 69.6495 56.6647L69.6465 56.6667ZM80.5175 34.6677C80.5175 39.5467 84.6772 43.4499 89.7421 43.4499H89.7451C92.2776 43.4499 94.3126 42.7842 95.669 41.9418C97.0253 41.0993 97.5681 40.3892 97.5681 39.5911C97.5681 38.7487 96.9317 37.9941 95.7556 37.9941C95.2093 37.9941 94.7043 38.2973 94.088 38.6673C93.1228 39.2468 91.8847 39.9902 89.7874 39.9902C89.0767 39.991 88.3729 39.8535 87.7167 39.5858C87.0605 39.3181 86.4649 38.9253 85.9645 38.4303C85.464 37.9354 85.0686 37.3479 84.8012 36.7021C84.5337 36.0562 84.3995 35.3648 84.4063 34.6677C84.4063 31.7413 86.7575 29.3018 89.6515 29.3018C92.772 29.3018 94.4445 31.2998 94.4445 32.5837C94.4445 32.9383 94.1736 33.1161 93.8111 33.1161H89.9223C88.8791 33.1161 88.1098 33.8232 88.1098 34.7121C88.1098 35.6435 88.8832 36.3536 89.9223 36.3536H95.1232C97.1129 36.3536 98.3333 35.3334 98.3333 33.6484C98.3333 29.3018 94.5351 25.8865 89.5155 25.8865C88.3361 25.8809 87.1672 26.1038 86.0759 26.5426C84.9846 26.9814 83.9923 27.6273 83.1563 28.4432C82.3202 29.2592 81.6567 30.2291 81.2038 31.2973C80.751 32.3654 80.5177 33.5108 80.5175 34.6677Z" fill="#00D639"/>
+<line x1="120.331" y1="14" x2="120.331" y2="56.6667" stroke="#5E5E5E" stroke-width="1.33333"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="139" y="42.8">Intacct</tspan></text>
+<path d="M1305.38 34.1L1303.27 34.75C1302.52 34.98 1301.94 35.57 1301.71 36.31L1301.06 38.42C1300.68 39.67 1298.91 39.67 1298.53 38.42L1297.88 36.31C1297.65 35.56 1297.06 34.98 1296.32 34.75L1294.21 34.1C1292.96 33.72 1292.96 31.95 1294.21 31.57L1296.32 30.92C1297.07 30.69 1297.65 30.1 1297.88 29.36L1298.53 27.25C1298.91 26 1300.68 26 1301.06 27.25L1301.71 29.36C1301.94 30.11 1302.53 30.69 1303.27 30.92L1305.38 31.57C1306.63 31.95 1306.63 33.72 1305.38 34.1Z" fill="url(#paint0_radial_6206_48579)"/>
+<path d="M1280.62 15.7895C1286.81 15.7895 1291.85 20.0695 1291.96 26.0295C1292.02 27.7095 1290.8 28.6295 1289.47 28.6295C1288.14 28.6295 1287.1 27.6995 1287.04 26.1395C1286.98 22.7795 1284.15 20.2895 1280.56 20.2895C1277.2 20.2895 1274.66 22.6595 1274.66 25.8995C1274.66 29.4295 1277.03 30.9895 1281.95 32.7895C1287.22 34.6995 1292.02 36.9595 1292.02 43.6695C1292.02 49.5195 1287.45 54.1995 1281.08 54.1995C1274.71 54.1995 1269.68 49.7995 1269.68 43.8395C1269.68 40.1395 1271.47 37.5295 1273.21 37.5295C1274.72 37.5295 1275.64 38.5095 1275.64 39.8395C1275.64 40.9995 1274.66 41.5195 1274.66 43.5995C1274.66 47.2995 1277.67 49.6795 1281.08 49.6795C1284.67 49.6795 1287.04 47.1895 1287.04 44.1795C1287.04 40.4795 1284.67 38.9095 1279.75 37.1795C1274.25 35.2095 1269.68 32.8395 1269.68 26.2995C1269.68 20.3995 1274.42 15.7695 1280.62 15.7695V15.7895Z" fill="url(#paint1_linear_6206_48579)"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="1316" y="43.3">Copilot</tspan></text>
+<rect width="1440" height="53" transform="translate(0 67)" fill="white"/>
+<rect width="65.3333" height="53.3333" transform="translate(0 66.834)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21.3333" font-weight="900" letter-spacing="0px"><tspan x="20" y="101.167">star</tspan></text>
+<path d="M64.6667 67.5007V119.533" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+<rect width="65.3333" height="53.3333" transform="translate(65.3333 66.834)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21.3333" font-weight="900" letter-spacing="0px"><tspan x="85.3333" y="101.167">home</tspan></text>
+<path d="M130 67.5007V119.533" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+<g clip-path="url(#clip2_6206_48579)">
+<rect width="333.333" height="53.3333" transform="translate(130.667 66.834)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="18.6667" letter-spacing="0px"><tspan x="157.333" y="100.323">Outcomes</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="18.6667" letter-spacing="0px"><tspan x="424.167" y="100.333">&#xf107;</tspan></text>
+<path d="M463.333 67.5007V119.533" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+</g>
+<g clip-path="url(#clip3_6206_48579)">
+<g clip-path="url(#clip4_6206_48579)">
+<rect width="298.666" height="35.7379" transform="translate(87 144)" fill="white"/>
+<rect width="298.666" height="97.8537" transform="translate(87 179.738)" fill="white"/>
+</g>
+<rect x="87.4255" y="144.425" width="297.816" height="132.741" rx="6.38176" stroke="#FAFBFB" stroke-width="0.850902"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="104.02" y="166.254"># Projects Reviewed</tspan></text>
+<g clip-path="url(#clip5_6206_48579)">
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="104.02" y="246.224">this year</tspan></text>
+</g>
+<g clip-path="url(#clip6_6206_48579)">
+<text fill="#007E45" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="274.454" y="266.644">+162 vs. prior year</tspan></text>
+</g>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="40.4432" letter-spacing="0px"><tspan x="104.02" y="224.597">1,574</tspan></text>
+<text transform="translate(312.488 179.588)" fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="57.7822" font-weight="900" letter-spacing="0px"><tspan x="0.220306" y="50.5594">arrow-up</tspan></text>
+</g>
+<g clip-path="url(#clip7_6206_48579)">
+<g clip-path="url(#clip8_6206_48579)">
+<rect width="298.666" height="35.7379" transform="translate(409.664 144)" fill="white"/>
+<rect width="298.666" height="97.8537" transform="translate(409.664 179.738)" fill="white"/>
+</g>
+<rect x="410.09" y="144.425" width="297.816" height="132.741" rx="6.38176" stroke="#FAFBFB" stroke-width="0.850902"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="426.68" y="166.254"># Project Under Consideration</tspan></text>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="426.68" y="244.222">this year</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="40.4432" letter-spacing="0px"><tspan x="426.68" y="224.597">90</tspan></text>
+<text transform="translate(635.152 179.59)" fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="57.7822" font-weight="900" letter-spacing="0px"><tspan x="0.220306" y="50.5594">arrow-up</tspan></text>
+<g clip-path="url(#clip9_6206_48579)">
+<text fill="#007E45" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="575.118" y="266.431">+38.46% vs. prior year</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip10_6206_48579)">
+<g clip-path="url(#clip11_6206_48579)">
+<rect width="298.666" height="35.7379" transform="translate(732.332 144)" fill="white"/>
+<rect width="298.666" height="97.8537" transform="translate(732.332 179.738)" fill="white"/>
+</g>
+<rect x="732.757" y="144.425" width="297.816" height="132.741" rx="6.38176" stroke="#FAFBFB" stroke-width="0.850902"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="749.352" y="166.254">Studio Hours</tspan></text>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="749.352" y="244.222">this year</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="40.4432" letter-spacing="0px"><tspan x="749.352" y="224.597">8,584</tspan></text>
+<text transform="translate(1008.82 237.59) rotate(-180)" fill="#CB374A" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="57.7822" font-weight="900" letter-spacing="0px"><tspan x="0.220306" y="50.5594">arrow-up</tspan></text>
+<g clip-path="url(#clip12_6206_48579)">
+<text fill="#007E45" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="908.512" y="266.431">-3.50% vs. prior year</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip13_6206_48579)">
+<g clip-path="url(#clip14_6206_48579)">
+<rect width="298.666" height="35.7379" transform="translate(1055 144)" fill="white"/>
+<rect width="298.666" height="97.8537" transform="translate(1055 179.738)" fill="white"/>
+</g>
+<rect x="1055.43" y="144.425" width="297.816" height="132.741" rx="6.38176" stroke="#FAFBFB" stroke-width="0.850902"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="12" letter-spacing="0px"><tspan x="1072.02" y="166.254">Revenue</tspan></text>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1072.02" y="244.222">this year</tspan></text>
+<g clip-path="url(#clip15_6206_48579)">
+<text fill="#007E45" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="1226.45" y="266.431">+52,450 vs. prior year</tspan></text>
+</g>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="40.4432" letter-spacing="0px"><tspan x="1072.02" y="224.051">$20,632K</tspan></text>
+<text fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="57.7822" font-weight="900" letter-spacing="0px"><tspan x="1280.71" y="230.147">arrow-up</tspan></text>
+</g>
+<g clip-path="url(#clip16_6206_48579)">
+<rect x="23" y="296" width="1392" height="289" rx="10" fill="white"/>
+<rect x="23" y="354" width="1392" height="231" fill="#F2F5F6"/>
+<rect x="57.4255" y="372.425" width="1323.15" height="186.149" fill="white" stroke="#E6EBED" stroke-width="0.850902"/>
+<rect x="1380.16" y="415" width="30" height="1322.32" transform="rotate(90 1380.16 415)" fill="#F2F5F6"/>
+<rect x="1380.16" y="488" width="32" height="1322.32" transform="rotate(90 1380.16 488)" fill="#F2F5F6"/>
+<rect x="80.5352" y="557.436" width="56.651" height="77.1268" transform="rotate(-90 80.5352 557.436)" fill="#C9D800"/>
+<rect x="157.66" y="557.436" width="30.9005" height="77.1268" transform="rotate(-90 157.66 557.436)" fill="#00C1AE"/>
+<rect x="531.582" y="557.434" width="106.001" height="77.1268" transform="rotate(-90 531.582 557.434)" fill="#C9D800"/>
+<rect x="608.707" y="557.434" width="90.8578" height="77.1268" transform="rotate(-90 608.707 557.434)" fill="#00C1AE"/>
+<rect x="756.875" y="557.436" width="78.2316" height="77.1268" transform="rotate(-90 756.875 557.436)" fill="#C9D800"/>
+<rect x="834" y="557.436" width="91.2702" height="77.1268" transform="rotate(-90 834 557.436)" fill="#00C1AE"/>
+<rect x="982.164" y="557.434" width="51.927" height="77.1268" transform="rotate(-90 982.164 557.434)" fill="#C9D800"/>
+<rect x="1059.29" y="557.434" width="60.5815" height="77.1268" transform="rotate(-90 1059.29 557.434)" fill="#00C1AE"/>
+<rect x="1059.29" y="557.434" width="60.5815" height="77.1268" transform="rotate(-90 1059.29 557.434)" fill="#00C1AE"/>
+<rect x="1207.46" y="557.434" width="105.577" height="77.1268" transform="rotate(-90 1207.46 557.434)" fill="#C9D800"/>
+<rect x="1284.58" y="557.434" width="60.5135" height="77.1268" transform="rotate(-90 1284.58 557.434)" fill="#00C1AE"/>
+<rect x="306.297" y="557.434" width="167.378" height="77.1268" transform="rotate(-90 306.297 557.434)" fill="#C9D800"/>
+<rect x="383.422" y="557.434" width="41.2007" height="77.1268" transform="rotate(-90 383.422 557.434)" fill="#00C1AE"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="38.543" y="323.056">Revenue &#38; Expense by Month</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="38.543" y="339.575">Date &#38; Time</tspan></text>
+<rect x="1388" y="327.562" width="36.4605" height="4.37526" rx="2.18763" transform="rotate(-180 1388 327.562)" fill="#CCD6DB"/>
+</g>
+<rect x="965" y="607" width="450" height="289" rx="10" fill="white"/>
+<rect x="965" y="665" width="450" height="231" fill="#F2F5F6"/>
+<circle cx="986.451" cy="635.834" r="5.83367" fill="#B3C2C9"/>
+<rect x="996.66" y="633.646" width="43.7526" height="4.37526" rx="2.18763" fill="#B3C2C9"/>
+<rect x="1046.25" y="633.646" width="36.4605" height="4.37526" rx="2.18763" fill="#CCD6DB"/>
+<rect x="1388" y="638.562" width="36.4605" height="4.37526" rx="2.18763" transform="rotate(-180 1388 638.562)" fill="#CCD6DB"/>
+<path d="M1272.26 780.549C1272.26 795.343 1268.21 809.853 1260.54 822.504C1252.87 835.154 1241.88 845.46 1228.76 852.302C1215.65 859.144 1200.91 862.26 1186.14 861.311C1171.38 860.362 1157.16 855.384 1145.03 846.92L1163.55 820.371C1170.83 825.45 1179.36 828.437 1188.22 829.006C1197.08 829.576 1205.92 827.706 1213.79 823.601C1221.66 819.496 1228.26 813.312 1232.86 805.722C1237.46 798.132 1239.89 789.425 1239.89 780.549H1272.26Z" fill="#00C1AE"/>
+<path d="M1131.18 726.41C1142.15 714.222 1156.56 705.655 1172.51 701.841C1188.46 698.027 1205.19 699.148 1220.48 705.054C1235.78 710.961 1248.92 721.374 1258.17 734.915C1267.41 748.457 1272.33 764.487 1272.26 780.884L1239.89 780.751C1239.93 770.912 1236.98 761.294 1231.43 753.169C1225.88 745.044 1218 738.796 1208.82 735.253C1199.64 731.709 1189.61 731.036 1180.04 733.325C1170.47 735.613 1161.82 740.753 1155.24 748.066L1131.18 726.41Z" fill="#C9D800"/>
+<path d="M1145.16 847.012C1133.5 838.913 1124.18 827.891 1118.13 815.051C1112.08 802.211 1109.51 788.006 1110.69 773.86L1142.95 776.536C1142.24 785.023 1143.78 793.546 1147.41 801.25C1151.04 808.954 1156.64 815.568 1163.63 820.427L1145.16 847.012Z" fill="#EF6700"/>
+<path d="M1110.67 774.003C1112.11 756.257 1119.37 739.481 1131.31 726.274L1155.32 747.985C1148.15 755.909 1143.8 765.974 1142.94 776.622L1110.67 774.003Z" fill="#FFB500"/>
+<path d="M1230.8 728.699H1321.13" stroke="#99ADB7" stroke-width="0.652212"/>
+<path d="M1221.66 840.227H1285.58" stroke="#99ADB7" stroke-width="0.652212"/>
+<path d="M1072 810L1135.57 810.226" stroke="#99ADB7" stroke-width="0.652212"/>
+<path d="M1026 757.396L1135.57 757.396" stroke="#99ADB7" stroke-width="0.652212"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#282828" fill-opacity="0.4"/>
+<g clip-path="url(#clip17_6206_48579)">
+<rect x="23" y="607" width="450" height="289" rx="10" fill="white"/>
+<rect x="23" y="665" width="525" height="231" fill="#F2F5F6"/>
+<rect x="23" y="607" width="525.158" height="41.08" fill="white"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="38.543" y="634.056">Profit by Genre</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="38.543" y="650.575">Date &#38; Time</tspan></text>
+<rect x="96.2776" y="679.278" width="352.445" height="184.445" fill="white" stroke="#E6EBED" stroke-width="0.555136"/>
+<rect x="301" y="679" width="68" height="184" fill="#F2F5F6"/>
+<rect x="168" y="679" width="66" height="184" fill="#F2F5F6"/>
+<rect x="96" y="685" width="273" height="37" fill="#C9D800"/>
+<rect x="96" y="731" width="72" height="36" fill="#00C1AE"/>
+<rect x="96" y="776" width="97" height="37" fill="#FFB500"/>
+<rect x="96" y="821" width="228" height="37" fill="#EF6700"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="31.8301" y="709.434">Romance</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="43.0039" y="756.434">History</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="49.6113" y="801.434">Sci Fi</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="46.3848" y="847.434">Action</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="85.2363" y="877.95">0</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="188.998" y="878.434">600</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="319.994" y="878.434">1,200</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="417.994" y="878.434">1,800</tspan></text>
+<rect x="449" y="638.562" width="43.7526" height="4.37526" rx="2.18763" transform="rotate(-180 449 638.562)" fill="#B3C2C9"/>
+<rect x="399.414" y="638.562" width="36.4605" height="4.37526" rx="2.18763" transform="rotate(-180 399.414 638.562)" fill="#CCD6DB"/>
+</g>
+<g clip-path="url(#clip18_6206_48579)">
+<rect x="494" y="607" width="450" height="289" rx="10" fill="white"/>
+<rect x="494" y="665" width="525" height="231" fill="#F2F5F6"/>
+<rect x="494" y="607" width="525.158" height="41.08" fill="white"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="509.543" y="634.056">Expenses by Genre</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="509.543" y="650.575">Date &#38; Time</tspan></text>
+<rect x="567.278" y="679.278" width="352.445" height="184.445" fill="white" stroke="#E6EBED" stroke-width="0.555136"/>
+<rect x="772" y="679" width="68" height="184" fill="#F2F5F6"/>
+<rect x="639" y="679" width="66" height="184" fill="#F2F5F6"/>
+<rect x="567" y="685" width="339" height="37" fill="#C9D800"/>
+<rect x="567" y="731" width="81" height="36" fill="#00C1AE"/>
+<rect x="567" y="776" width="131" height="37" fill="#FFB500"/>
+<rect x="567" y="821" width="92" height="37" fill="#EF6700"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="502.83" y="709.434">Romance</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="514.004" y="756.434">History</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="520.611" y="801.434">Sci Fi</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="517.385" y="847.434">Action</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="556.236" y="877.95">0</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="659.998" y="878.434">360</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="795.998" y="878.434">720</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="12" letter-spacing="0px"><tspan x="893.998" y="878.434">900</tspan></text>
+<rect x="920" y="638.562" width="43.7526" height="4.37526" rx="2.18763" transform="rotate(-180 920 638.562)" fill="#B3C2C9"/>
+<rect x="870.414" y="638.562" width="36.4605" height="4.37526" rx="2.18763" transform="rotate(-180 870.414 638.562)" fill="#CCD6DB"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_6206_48579" cx="0" cy="0" r="1" gradientTransform="matrix(10.5 9.5 -7.88115 9.9214 1295.5 28)" gradientUnits="userSpaceOnUse">
+<stop offset="0.341666" stop-color="#9D60FF"/>
+<stop offset="0.72" stop-color="#00D6DE"/>
+<stop offset="0.896666" stop-color="#00D639"/>
+</radialGradient>
+<linearGradient id="paint1_linear_6206_48579" x1="1282.5" y1="53.9995" x2="1294.47" y2="25.5347" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00D639"/>
+<stop offset="0.4" stop-color="#00D6DE"/>
+<stop offset="0.9" stop-color="#9D60FF"/>
+</linearGradient>
+<clipPath id="clip0_6206_48579">
+<rect width="1440" height="920" rx="20" fill="white"/>
+</clipPath>
+<clipPath id="clip1_6206_48579">
+<rect width="1440" height="69.3333" fill="white"/>
+</clipPath>
+<clipPath id="clip2_6206_48579">
+<rect width="333.333" height="53.3333" fill="white" transform="translate(130.667 66.834)"/>
+</clipPath>
+<clipPath id="clip3_6206_48579">
+<rect x="87" y="144" width="298.666" height="133.592" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip4_6206_48579">
+<rect x="87" y="144" width="298.666" height="133.592" rx="6.80721" fill="white"/>
+</clipPath>
+<clipPath id="clip5_6206_48579">
+<rect width="170.18" height="18" fill="white" transform="translate(104.02 232.855)"/>
+</clipPath>
+<clipPath id="clip6_6206_48579">
+<rect width="170.18" height="18" fill="white" transform="translate(205.273 253.275)"/>
+</clipPath>
+<clipPath id="clip7_6206_48579">
+<rect x="409.664" y="144" width="298.666" height="133.592" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip8_6206_48579">
+<rect x="409.664" y="144" width="298.666" height="133.592" rx="6.80721" fill="white"/>
+</clipPath>
+<clipPath id="clip9_6206_48579">
+<rect width="170.18" height="18" fill="white" transform="translate(527.938 253.062)"/>
+</clipPath>
+<clipPath id="clip10_6206_48579">
+<rect x="732.332" y="144" width="298.666" height="133.592" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip11_6206_48579">
+<rect x="732.332" y="144" width="298.666" height="133.592" rx="6.80721" fill="white"/>
+</clipPath>
+<clipPath id="clip12_6206_48579">
+<rect width="170.18" height="18" fill="white" transform="translate(851.332 253.062)"/>
+</clipPath>
+<clipPath id="clip13_6206_48579">
+<rect x="1055" y="144" width="298.666" height="133.592" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip14_6206_48579">
+<rect x="1055" y="144" width="298.666" height="133.592" rx="6.80721" fill="white"/>
+</clipPath>
+<clipPath id="clip15_6206_48579">
+<rect width="170.18" height="18" fill="white" transform="translate(1173.27 253.062)"/>
+</clipPath>
+<clipPath id="clip16_6206_48579">
+<rect x="23" y="296" width="1392" height="289" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip17_6206_48579">
+<rect x="23" y="607" width="450" height="289" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip18_6206_48579">
+<rect x="494" y="607" width="450" height="289" rx="10" fill="white"/>
+</clipPath>
+</defs>
+</svg>

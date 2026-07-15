@@ -1,0 +1,112 @@
+<svg width="1440" height="920" viewBox="0 0 1440 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6206_42438)">
+<rect width="1440" height="920" rx="20" fill="white"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#F2F5F6"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#F2F5F6"/>
+<g clip-path="url(#clip1_6206_42438)">
+<rect width="1440" height="69.3333" fill="black"/>
+</g>
+<line y1="68.6668" x2="1440" y2="68.6668" stroke="#D9E0E4" stroke-width="1.33333"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.407 21.8499C38.3184 17.282 34.3793 14 29.5459 14C24.7076 14 21 17.5486 21 22.0721C21 27.0835 24.5726 28.9027 28.8683 30.4138C32.7118 31.7452 34.5655 32.9422 34.5655 35.7808C34.5655 38.0869 32.7118 39.9941 29.9084 39.9941C27.24 39.9941 24.8888 38.1758 24.8888 35.3373C24.8888 34.4213 25.141 33.9003 25.3564 33.4554C25.5169 33.1236 25.6571 32.834 25.6571 32.4543C25.6571 31.4301 24.9341 30.6766 23.758 30.6766C22.4017 30.6766 21 32.6726 21 35.5111C21 40.079 25.0278 43.4499 29.9084 43.4479C34.8817 43.4479 38.4544 39.8548 38.4544 35.3758C38.4544 30.2311 34.7015 28.5007 30.5861 27.037C26.7396 25.6642 24.8888 24.4691 24.8868 21.762C24.8868 19.278 26.8806 17.4598 29.4986 17.4598C32.3029 17.4598 34.5182 19.3709 34.5635 21.9388C34.6088 23.1368 35.4678 23.8459 36.4626 23.8459C37.5008 23.8459 38.4524 23.1338 38.407 21.8499ZM40.3262 34.7121C40.3262 39.5911 44.3963 43.4499 49.28 43.4499C51.45 43.4499 53.1235 42.7397 53.1235 41.3649C53.1235 40.3447 52.2193 39.6355 51.3603 39.6355C51.0827 39.6355 50.8399 39.6866 50.5672 39.7439C50.2177 39.8174 49.8189 39.9012 49.2347 39.9012C46.4303 39.9012 44.2151 37.5062 44.2151 34.7121C44.2151 31.6968 46.4767 29.3462 49.3253 29.3462C52.5354 29.3462 54.5705 31.7412 54.5705 35.2444V41.5872C54.5705 42.6953 55.4747 43.4499 56.5602 43.4499C57.5984 43.4499 58.5046 42.6953 58.5046 41.5872V35.1111C58.5046 29.7896 54.7527 25.8864 49.4159 25.8864C44.4416 25.8864 40.3262 29.6563 40.3262 34.7121ZM69.6465 56.6667C64.5815 56.6667 60.3765 53.118 60.3765 48.5057C60.3765 46.9531 61.2828 46.2439 62.321 46.2439C63.3591 46.2439 64.22 46.9096 64.2654 48.1955C64.3107 51.0785 66.6619 53.2069 69.6022 53.2069C72.7237 53.2069 74.7567 51.2553 74.7567 48.7279C74.7567 45.8449 72.4961 44.6469 68.6526 43.4499C64.1757 42.0306 60.3776 40.079 60.3776 34.6676C60.3776 29.7007 64.2664 25.8864 69.3313 25.8864C74.4405 25.8864 78.6455 29.5229 78.6455 34.3131C78.6455 37.2405 77.4251 39.5022 75.7516 39.5022C74.6218 39.5022 73.8525 38.7042 73.8525 37.7244C73.8525 37.2875 74.0187 36.9564 74.2088 36.5777C74.4625 36.0722 74.7587 35.482 74.7587 34.4425C74.7587 31.3807 72.3179 29.3422 69.3786 29.3422C66.529 29.3422 64.2684 31.4706 64.2684 34.2647C64.2684 37.4143 66.5743 38.7447 70.3735 39.9862C74.7587 41.4054 78.6475 43.1793 78.6475 48.3684C78.6475 53.0262 74.8947 56.6647 69.6495 56.6647L69.6465 56.6667ZM80.5175 34.6677C80.5175 39.5467 84.6772 43.4499 89.7421 43.4499H89.7451C92.2776 43.4499 94.3126 42.7842 95.669 41.9418C97.0253 41.0993 97.5681 40.3892 97.5681 39.5911C97.5681 38.7487 96.9317 37.9941 95.7556 37.9941C95.2093 37.9941 94.7043 38.2973 94.088 38.6673C93.1228 39.2468 91.8847 39.9902 89.7874 39.9902C89.0767 39.991 88.3729 39.8535 87.7167 39.5858C87.0605 39.3181 86.4649 38.9253 85.9645 38.4303C85.464 37.9354 85.0686 37.3479 84.8012 36.7021C84.5337 36.0562 84.3995 35.3648 84.4063 34.6677C84.4063 31.7413 86.7575 29.3018 89.6515 29.3018C92.772 29.3018 94.4445 31.2998 94.4445 32.5837C94.4445 32.9383 94.1736 33.1161 93.8111 33.1161H89.9223C88.8791 33.1161 88.1098 33.8232 88.1098 34.7121C88.1098 35.6435 88.8832 36.3536 89.9223 36.3536H95.1232C97.1129 36.3536 98.3333 35.3334 98.3333 33.6484C98.3333 29.3018 94.5351 25.8865 89.5155 25.8865C88.3361 25.8809 87.1672 26.1038 86.0759 26.5426C84.9846 26.9814 83.9923 27.6273 83.1563 28.4432C82.3202 29.2592 81.6567 30.2291 81.2038 31.2973C80.751 32.3654 80.5177 33.5108 80.5175 34.6677Z" fill="#00D639"/>
+<line x1="120.331" y1="14" x2="120.331" y2="56.6667" stroke="#5E5E5E" stroke-width="1.33333"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="139" y="42.8">Intacct</tspan></text>
+<path d="M1305.38 34.1L1303.27 34.75C1302.52 34.98 1301.94 35.57 1301.71 36.31L1301.06 38.42C1300.68 39.67 1298.91 39.67 1298.53 38.42L1297.88 36.31C1297.65 35.56 1297.06 34.98 1296.32 34.75L1294.21 34.1C1292.96 33.72 1292.96 31.95 1294.21 31.57L1296.32 30.92C1297.07 30.69 1297.65 30.1 1297.88 29.36L1298.53 27.25C1298.91 26 1300.68 26 1301.06 27.25L1301.71 29.36C1301.94 30.11 1302.53 30.69 1303.27 30.92L1305.38 31.57C1306.63 31.95 1306.63 33.72 1305.38 34.1Z" fill="url(#paint0_radial_6206_42438)"/>
+<path d="M1280.62 15.79C1286.81 15.79 1291.85 20.07 1291.96 26.03C1292.02 27.71 1290.8 28.63 1289.47 28.63C1288.14 28.63 1287.1 27.7 1287.04 26.14C1286.98 22.78 1284.15 20.29 1280.56 20.29C1277.2 20.29 1274.66 22.66 1274.66 25.9C1274.66 29.43 1277.03 30.99 1281.95 32.79C1287.22 34.7 1292.02 36.96 1292.02 43.67C1292.02 49.52 1287.45 54.2 1281.08 54.2C1274.71 54.2 1269.68 49.8 1269.68 43.84C1269.68 40.14 1271.47 37.53 1273.21 37.53C1274.72 37.53 1275.64 38.51 1275.64 39.84C1275.64 41 1274.66 41.52 1274.66 43.6C1274.66 47.3 1277.67 49.68 1281.08 49.68C1284.67 49.68 1287.04 47.19 1287.04 44.18C1287.04 40.48 1284.67 38.91 1279.75 37.18C1274.25 35.21 1269.68 32.84 1269.68 26.3C1269.68 20.4 1274.42 15.77 1280.62 15.77V15.79Z" fill="url(#paint1_linear_6206_42438)"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="1316" y="43.3">Copilot</tspan></text>
+<rect width="1440" height="53" transform="translate(0 67)" fill="white"/>
+<rect width="65.3333" height="53.3333" transform="translate(0 66.8335)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21.3333" font-weight="900" letter-spacing="0px"><tspan x="20" y="101.167">star</tspan></text>
+<path d="M64.6667 67.5002V119.532" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+<rect width="65.3333" height="53.3333" transform="translate(65.3335 66.8335)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21.3333" font-weight="900" letter-spacing="0px"><tspan x="85.3335" y="101.167">home</tspan></text>
+<path d="M130 67.5002V119.532" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+<g clip-path="url(#clip2_6206_42438)">
+<rect width="333.333" height="53.3333" transform="translate(130.667 66.8335)" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="18.6667" letter-spacing="0px"><tspan x="157.333" y="100.323">Consolidation Dashboard</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="18.6667" letter-spacing="0px"><tspan x="424.166" y="100.333">&#xf107;</tspan></text>
+<path d="M463.333 67.5002V119.532" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+</g>
+<g clip-path="url(#clip3_6206_42438)">
+<rect width="1392" height="39.0421" transform="translate(24 144)" fill="white"/>
+<rect width="1392" height="568.958" transform="translate(24 183.042)" fill="white"/>
+<path d="M24 183.042L24 642.159" stroke="#737373" stroke-width="1.26131"/>
+<path d="M24 183.042L24 642.159" stroke="#737373" stroke-width="1.26131"/>
+<path d="M24 183.042L24 642.159" stroke="#737373" stroke-width="1.26131"/>
+</g>
+<rect x="24.4648" y="144.465" width="1391.07" height="607.07" rx="9.53521" stroke="#CCD6DB" stroke-width="0.929574"/>
+<rect x="50" y="265" width="1340" height="71" fill="#F2F5F6"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.6584" letter-spacing="0px"><tspan x="81" y="437.651">   Total Revenue - Licenses&#10;</tspan><tspan x="81" y="459.093">     </tspan><tspan x="81" y="501.978">   Total Revenue - Maintenances&#10;</tspan><tspan x="81" y="523.42">Total Revenue&#10;</tspan><tspan x="81" y="544.862">Gross Profit&#10;</tspan><tspan x="81" y="652.074">           Total Other Operating Expense&#10;</tspan><tspan x="81" y="673.516">       Total Operating and Maintenance Expenses&#10;</tspan><tspan x="81" y="694.959">&#10;</tspan><tspan x="81" y="716.401">&#10;</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="105.573" y="416.209">4010 - Revenue - Products&#10;</tspan><tspan x="110.488" y="480.536">4020 - Revenue - Maintenance&#10;</tspan><tspan x="81" y="566.305">Operating Expenses&#10;</tspan><tspan x="149.806" y="630.632">6120 - Office Expense - Other&#10;</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.6584" letter-spacing="0px"><tspan x="81" y="373.324">Revenue&#10;</tspan><tspan x="81" y="394.766">   Revenue - Licenses&#10;</tspan><tspan x="81" y="416.209">     </tspan><tspan x="105.573" y="459.093">Revenue - Maintenances&#10;</tspan><tspan x="81" y="480.536">      </tspan><tspan x="81" y="587.747">      Operating and Maintenance Expanses&#10;</tspan><tspan x="81" y="609.189">          Other Operating Expenses&#10;</tspan><tspan x="81" y="630.632">              </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.6584" letter-spacing="0px"><tspan x="565.285" y="293.863">100-France&#10;</tspan><tspan x="561.68" y="315.305">Year Ending</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.6584" letter-spacing="0px"><tspan x="712.007" y="293.863">200-GERMANY&#10;</tspan><tspan x="741.426" y="315.305">Year Ending</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="576.987" y="374.175">&#10;</tspan><tspan x="645.689" y="438.502">&#10;</tspan><tspan x="645.689" y="545.714">&#x2028;</tspan><tspan x="645.689" y="567.156">&#10;</tspan><tspan x="645.689" y="588.598">&#10;</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="576.987" y="395.618">1,415.42&#10;</tspan><tspan x="542.636" y="459.944">1,415,156.96&#10;</tspan><tspan x="611.338" y="610.041">0.00&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="576.987" y="417.06">1,415.42&#10;</tspan><tspan x="542.636" y="481.387">1,415,156.96&#10;</tspan><tspan x="542.636" y="502.829">1,416,572.38&#10;</tspan><tspan x="542.636" y="524.271">1,416,572.38&#10;</tspan><tspan x="611.338" y="631.483">0.00&#10;</tspan><tspan x="611.338" y="652.925">0.00&#10;</tspan><tspan x="611.338" y="674.368">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="784.209" y="374.175">&#10;</tspan><tspan x="818.56" y="438.502">&#10;</tspan><tspan x="818.56" y="545.714">&#x2028;</tspan><tspan x="818.56" y="567.156">&#10;</tspan><tspan x="818.56" y="588.598">&#10;</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="784.209" y="395.618">0.00&#10;</tspan><tspan x="715.507" y="459.944">1,732,320.88&#10;</tspan><tspan x="784.209" y="610.041">0.00&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="784.209" y="417.06">0.00&#10;</tspan><tspan x="715.507" y="502.829">1,732,320.88&#10;</tspan><tspan x="715.507" y="524.271">1,732,320.88&#10;</tspan><tspan x="784.209" y="631.483">0.00&#10;</tspan><tspan x="784.209" y="652.925">0.00&#10;</tspan><tspan x="784.209" y="674.368">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="715.507" y="481.387">1,732,320.88&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="921.792" y="374.175">&#10;</tspan><tspan x="1000.31" y="438.502">&#10;</tspan><tspan x="1000.31" y="545.714">&#x2028;</tspan><tspan x="1000.31" y="567.156">&#10;</tspan><tspan x="1000.31" y="588.598">&#10;</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="921.792" y="395.618">16,472.10&#10;</tspan><tspan x="897.253" y="459.944">1,440,973.42&#10;</tspan><tspan x="946.331" y="610.041">713.90&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="921.792" y="417.06">16,472.10&#10;</tspan><tspan x="897.253" y="502.829">1,457,445.52&#10;</tspan><tspan x="897.253" y="524.271">1,457,445.52&#10;</tspan><tspan x="946.331" y="631.483">713.90&#10;</tspan><tspan x="946.331" y="652.925">713.90&#10;</tspan><tspan x="946.331" y="674.368">713.90</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="897.253" y="481.387">1,440,973.42&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1103.41" y="374.175">&#10;</tspan><tspan x="1181.92" y="438.502">&#10;</tspan><tspan x="1181.92" y="545.714">&#x2028;</tspan><tspan x="1181.92" y="567.156">&#10;</tspan><tspan x="1181.92" y="588.598">&#10;</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1103.41" y="395.618">64,420.40&#10;</tspan><tspan x="1069.06" y="459.944">16,707,083.91&#10;</tspan><tspan x="1113.22" y="610.041">9,636.05&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1103.41" y="417.06">64,420.40&#10;</tspan><tspan x="1069.06" y="502.829">16,771,504.31&#10;</tspan><tspan x="1069.06" y="524.271">16,771,504.31&#10;</tspan><tspan x="1113.22" y="631.483">9,636.05&#10;</tspan><tspan x="1113.22" y="652.925">9,636.05&#10;</tspan><tspan x="1113.22" y="674.368">9,636.05</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1069.06" y="481.387">16,707,083.91&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1276.8" y="374.175">&#10;</tspan><tspan x="1355.31" y="438.502">&#10;</tspan><tspan x="1355.31" y="545.714">&#x2028;</tspan><tspan x="1355.31" y="567.156">&#10;</tspan><tspan x="1355.31" y="588.598">&#10;</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1276.8" y="395.618">82,307.92&#10;</tspan><tspan x="1242.45" y="459.944">21,295,535.17&#10;</tspan><tspan x="1276.8" y="610.041">10,349.95&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1276.8" y="417.06">82,307.92&#10;</tspan><tspan x="1242.45" y="502.829">21,377,843.09&#10;</tspan><tspan x="1242.45" y="524.271">21,377,843.09&#10;</tspan><tspan x="1276.8" y="631.483">10,349.95&#10;</tspan><tspan x="1276.8" y="652.925">10,349.95&#10;</tspan><tspan x="1276.8" y="674.368">10,349.95</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1242.45" y="481.387">21,295,535.17&#10;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.6584" letter-spacing="0px"><tspan x="958.324" y="293.863">300-UK&#10;</tspan><tspan x="924.956" y="315.305">Year Ending</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1128.3" y="293.863">500-US&#10;</tspan><tspan x="1094.61" y="315.305">Year Ending</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="17.6584" letter-spacing="0px"><tspan x="1265.9" y="293.863">All Locations&#10;</tspan><tspan x="1273.09" y="315.305">Year Ending</tspan></text>
+<path d="M50 336L1390 336" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 400H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 422H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 465H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 615H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M682 265.264L682 724.381" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 265.264L492 724.381" stroke="#737373" stroke-width="1.26131"/>
+<path d="M871 265.264L871 724.381" stroke="#737373" stroke-width="1.26131"/>
+<path d="M1046 265.264L1046 724.381" stroke="#737373" stroke-width="1.26131"/>
+<path d="M1218 265.264L1218 724.381" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 486H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 636H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 507H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 658H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 529H1390" stroke="#737373" stroke-width="1.26131"/>
+<path d="M492 679H1390" stroke="#737373" stroke-width="1.26131"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="18.5915" letter-spacing="0px"><tspan x="44" y="185.44">Profit and Loss - CY - Global</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="13.014" letter-spacing="0px"><tspan x="44" y="206.529">Date &#38; Time</tspan></text>
+<path d="M24 233.582L1416 234.679" stroke="#CCD6DB" stroke-width="1.09246"/>
+<rect x="50.6307" y="265.631" width="1338.74" height="457.739" stroke="#737373" stroke-width="1.26131"/>
+<rect x="1225.91" y="191.363" width="73.2857" height="7.32857" rx="3.66428" fill="#B3C2C9"/>
+<rect x="1308.97" y="191.363" width="61.0714" height="7.32857" rx="3.66428" fill="#CCD6DB"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_6206_42438" cx="0" cy="0" r="1" gradientTransform="matrix(10.5 9.5 -7.88115 9.9214 1295.5 28)" gradientUnits="userSpaceOnUse">
+<stop offset="0.341666" stop-color="#9D60FF"/>
+<stop offset="0.72" stop-color="#00D6DE"/>
+<stop offset="0.896666" stop-color="#00D639"/>
+</radialGradient>
+<linearGradient id="paint1_linear_6206_42438" x1="1282.5" y1="54" x2="1294.47" y2="25.5352" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00D639"/>
+<stop offset="0.4" stop-color="#00D6DE"/>
+<stop offset="0.9" stop-color="#9D60FF"/>
+</linearGradient>
+<clipPath id="clip0_6206_42438">
+<rect width="1440" height="920" rx="20" fill="white"/>
+</clipPath>
+<clipPath id="clip1_6206_42438">
+<rect width="1440" height="69.3333" fill="white"/>
+</clipPath>
+<clipPath id="clip2_6206_42438">
+<rect width="333.333" height="53.3333" fill="white" transform="translate(130.667 66.8335)"/>
+</clipPath>
+<clipPath id="clip3_6206_42438">
+<rect x="24" y="144" width="1392" height="608" rx="10" fill="white"/>
+</clipPath>
+</defs>
+</svg>

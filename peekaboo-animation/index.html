@@ -1,0 +1,515 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Peekaboo Product Tour — Motion Mock</title>
+<style>
+  /* ---- brand fonts you provided ---- */
+  @font-face{font-family:'Sage UI';src:url('images/SageUI-Regular.otf');font-weight:400;font-display:swap}
+  @font-face{font-family:'Sage UI';src:url('images/SageUI-Medium.otf');font-weight:500;font-display:swap}
+  @font-face{font-family:'Sage UI';src:url('images/SageUI-Bold.otf');font-weight:700;font-display:swap}
+  @font-face{font-family:'Sage Headline';src:url('images/SageHeadline-Black.ttf');font-weight:900;font-display:swap}
+  @font-face{font-family:'Sage Text';src:url('images/SageText-Regular.ttf');font-weight:400;font-display:swap}
+  @font-face{font-family:'Sage Text';src:url('images/SageText-Medium.ttf');font-weight:500;font-display:swap}
+  @font-face{font-family:'Sage Text';src:url('images/SageText-Bold.ttf');font-weight:700;font-display:swap}
+
+  :root{
+    --sage:#0d7a45;
+    --sage-deep:#0d5c34;
+    --muted:#5c6b66;
+    --shadow:0 24px 60px -18px rgba(10,30,20,.35);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;overflow:hidden}
+  .stage{
+    min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:22px;
+    padding:0;
+    background:transparent;
+    font-family:'Sage Text',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:#0e1512;
+  }
+
+  /* ---- browser frame holding YOUR svg ---- */
+  .frame{position:relative;width:min(980px,94vw);aspect-ratio:1109/709;
+    border-radius:16px;overflow:hidden;background:#000;box-shadow:var(--shadow);isolation:isolate;}
+  .app{position:absolute;inset:0;transition:filter .7s ease, transform .7s ease;}
+  .app svg{width:100%;height:100%;display:block;}
+  .app.recede{filter:blur(3px) saturate(.9) brightness(.95);transform:scale(.985);}
+
+  /* ---- initial hidden state (pre-JS flash guard) ---- */
+  /* The reveal animates each bar's WIDTH 0→full (see motion.js), which grows strictly
+     left→right. We can't scaleX SVG rects from the left because SVG transform-origin
+     defaults to the root (x=0), which slides bars off-position. */
+  #dash [data-bar]{visibility:hidden;}
+  #dash #donut{opacity:0;}
+  #dash #donutAnno{opacity:0;} /* leader lines + labels fade in after the ring draws */
+
+  /* ---- dim veil ---- */
+  .veil{position:absolute;inset:0;background:rgba(12,20,16,.34);opacity:0;
+    transition:opacity .6s ease;pointer-events:none;z-index:5;}
+  .veil.on{opacity:1;}
+
+  /* ---- gate modal (matches frame 4) ---- */
+  /* wrapper centers the form in the frame; GSAP animates the gate's own translateY */
+  .gate-wrap{position:absolute;inset:0;z-index:10;display:flex;align-items:center;justify-content:center;
+    pointer-events:none;}
+  .gate{width:min(60%,540px);pointer-events:auto;
+    background:#f4f7f5;border-radius:16px;box-shadow:0 30px 70px -20px rgba(8,24,16,.6);
+    padding:clamp(16px,2.6vw,26px);font-family:'Sage Text',sans-serif;opacity:0;}
+  .gate h2{margin:0;font-family:'Sage Headline','Sage Text',sans-serif;font-weight:900;
+    font-size:clamp(15px,2.2vw,23px);color:#3a453f;letter-spacing:-.2px;}
+  .gate p{margin:7px 0 0;font-size:clamp(10px,1.3vw,13px);color:var(--muted);line-height:1.45;}
+  .rule{height:1px;background:#dbe2de;margin:15px 0;}
+  .steps{display:flex;gap:9px;align-items:center;font-size:clamp(10px,1.25vw,13px);
+    color:#aeb9b4;font-weight:700;margin-bottom:15px}
+  .steps b{color:#3a453f}
+  .steps .sep{color:#c8d0cc;font-weight:400}
+  .flabel{font-size:clamp(11px,1.3vw,13px);font-weight:700;color:#3a453f}
+  .field{margin-top:7px;height:clamp(34px,5vw,46px);border-radius:10px;border:1.5px solid #cdd6d1;
+    background:#fff;display:flex;align-items:center;padding:0 13px;}
+  .field .caret{width:1.5px;height:52%;background:var(--sage);animation:blink 1.1s step-end infinite}
+  @keyframes blink{50%{opacity:0}}
+  .continue{margin-top:15px;height:clamp(38px,5vw,50px);border-radius:28px;background:var(--sage);color:#fff;
+    font-family:'Sage Headline','Sage Text',sans-serif;font-weight:900;font-size:clamp(12px,1.5vw,15px);
+    display:flex;align-items:center;justify-content:center;width:46%;
+    box-shadow:0 8px 18px -6px rgba(13,122,69,.55);}
+
+  /* ---- controls ---- */
+  .controls{display:flex;gap:10px;align-items:center}
+  .btn{border:1px solid #c5d0cb;background:#fff;color:#33413c;border-radius:20px;padding:7px 16px;
+    font-size:12.5px;font-weight:600;cursor:pointer;transition:.15s;font-family:inherit}
+  .btn:hover{background:#f2f6f4;border-color:#a9b8b2}
+  .btn:focus-visible{outline:2px solid var(--sage);outline-offset:2px}
+  .continue{cursor:pointer}
+
+  /* ---- product-tour slide layer ---- */
+  .tour{position:absolute;inset:0;z-index:20;background:#000;opacity:0;visibility:hidden;
+    transition:opacity .6s ease;display:flex;align-items:center;justify-content:center;}
+  .tour.on{opacity:1;visibility:visible;}
+  /* stage carries the design's native aspect ratio, centered in the frame, so the
+     slides and the hotspot % share one coordinate space (= the Figma design coords).
+     --tour-ar is set from the uploaded SVG's viewBox. */
+  .tour-stage{position:relative;width:100%;aspect-ratio:var(--tour-ar,1440/753);max-height:100%;}
+  .tour-slide{position:absolute;inset:0;opacity:0;visibility:hidden;transition:opacity .45s ease;}
+  .tour-slide.show{opacity:1;visibility:visible;}
+  .tour-img{width:100%;height:100%;display:block;object-fit:fill;}
+
+  /* invisible clickable hotspots over the baked Back/Next coach-mark buttons.
+     Positioned per active step; percentages are relative to the .tour-stage box.
+     Tuned against the real SVGs in the preview. */
+  .hot{position:absolute;z-index:25;border:0;background:transparent;cursor:pointer;padding:0;
+    width:6%;height:6%;/* placeholder box until tuned */}
+  .hot:focus-visible{outline:2px solid #fff;outline-offset:2px}
+  /* default (overridden per step) */
+  .hot-back{left:60%;top:80%}
+  .hot-next{left:70%;top:80%}
+  /* per-step positions — TODO tune once SVGs are uploaded */
+  .tour[data-step="1"] .hot-back{left:64.8%;top:80.2%} .tour[data-step="1"] .hot-next{left:71.8%;top:80.2%}
+  .tour[data-step="2"] .hot-back{left:47.3%;top:54.5%} .tour[data-step="2"] .hot-next{left:53.7%;top:54.5%}
+  .tour[data-step="3"] .hot-back{left:47.0%;top:29.5%} .tour[data-step="3"] .hot-next{left:53.5%;top:29.5%}
+  .tour[data-step="4"] .hot-back{left:69.5%;top:77.5%} .tour[data-step="4"] .hot-next{left:75.8%;top:77.5%}
+  /* Next is disabled/hidden on the last step; Back returns to the form on step 1 */
+  .tour[data-step="4"] .hot-next{display:none}
+
+  /* ---- embedded "tour only" mode (?tour=1): fill the iframe, drop the chrome ---- */
+  body.tour-only{background:transparent}
+  body.tour-only .stage{min-height:100vh;gap:0;padding:0}
+  body.tour-only .stage>*:not(#frame){display:none}
+  body.tour-only .frame{width:100%;max-width:none;height:100vh;aspect-ratio:auto;border-radius:0;box-shadow:none;background:transparent}
+  body.tour-only .tour{border-radius:0}
+  body.tour-only .tour-stage{width:100%;height:100%;max-height:none;aspect-ratio:auto}
+
+  @media (prefers-reduced-motion: reduce){
+    .app,.veil,.gate{transition:none!important;animation:none!important}
+  }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="frame" id="frame">
+    <div class="app" id="app">
+<svg id="dash" width="1109" height="709" viewBox="0 0 1109 709" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_581_26995)">
+<rect width="1108.83" height="708.419" rx="15.4004" fill="white"/>
+<rect width="1108.83" height="616.017" transform="translate(0 92.4023)" fill="#F2F5F6"/>
+<rect width="1108.83" height="616.017" transform="translate(0 92.4023)" fill="#D9E0E4"/>
+<g clip-path="url(#clip1_581_26995)">
+<rect width="1108.83" height="53.3881" fill="black"/>
+</g>
+<line y1="52.8743" x2="1108.83" y2="52.8743" stroke="#D9E0E4" stroke-width="1.02669"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.5757 16.8248C29.5074 13.3075 26.4742 10.7803 22.7524 10.7803C19.0268 10.7803 16.1719 13.5128 16.1719 16.996C16.1719 20.8548 18.9229 22.2557 22.2306 23.4193C25.1902 24.4444 26.6176 25.3662 26.6176 27.5519C26.6176 29.3277 25.1902 30.7963 23.0316 30.7963C20.9768 30.7963 19.1663 29.3962 19.1663 27.2104C19.1663 26.5051 19.3605 26.104 19.5264 25.7613C19.65 25.5058 19.758 25.2828 19.758 24.9905C19.758 24.2018 19.2012 23.6216 18.2956 23.6216C17.2512 23.6216 16.1719 25.1586 16.1719 27.3443C16.1719 30.8617 19.2733 33.4573 23.0316 33.4558C26.8611 33.4558 29.6121 30.689 29.6121 27.2401C29.6121 23.2786 26.7223 21.9462 23.5534 20.8191C20.5915 19.762 19.1663 18.8417 19.1648 16.7572C19.1648 14.8445 20.7 13.4444 22.716 13.4444C24.8754 13.4444 26.5812 14.916 26.6161 16.8933C26.651 17.8158 27.3124 18.3618 28.0784 18.3618C28.8778 18.3618 29.6105 17.8135 29.5757 16.8248ZM31.0535 26.729C31.0535 30.486 34.1875 33.4573 37.9481 33.4573C39.619 33.4573 40.9076 32.9105 40.9076 31.8518C40.9076 31.0662 40.2114 30.5202 39.55 30.5202C39.3362 30.5202 39.1493 30.5595 38.9392 30.6036C38.6701 30.6602 38.3631 30.7248 37.9132 30.7248C35.7538 30.7248 34.048 28.8805 34.048 26.729C34.048 24.4072 35.7894 22.5971 37.9829 22.5971C40.4548 22.5971 42.0218 24.4414 42.0218 27.1389V32.023C42.0218 32.8763 42.7181 33.4573 43.554 33.4573C44.3534 33.4573 45.0512 32.8763 45.0512 32.023V27.0363C45.0512 22.9386 42.1622 19.9331 38.0527 19.9331C34.2224 19.9331 31.0535 22.8359 31.0535 26.729ZM53.6307 43.6345C49.7306 43.6345 46.4926 40.902 46.4926 37.3504C46.4926 36.1548 47.1905 35.6088 47.9899 35.6088C48.7893 35.6088 49.4522 36.1214 49.4871 37.1116C49.522 39.3315 51.3325 40.9704 53.5966 40.9704C56.0002 40.9704 57.5657 39.4676 57.5657 37.5215C57.5657 35.3015 55.825 34.379 52.8654 33.4573C49.4181 32.3644 46.4934 30.8617 46.4934 26.6948C46.4934 22.8702 49.4879 19.9331 53.388 19.9331C57.3222 19.9331 60.5601 22.7333 60.5601 26.4218C60.5601 28.6759 59.6204 30.4175 58.3317 30.4175C57.4618 30.4175 56.8694 29.803 56.8694 29.0486C56.8694 28.7121 56.9974 28.4571 57.1437 28.1656C57.3391 27.7763 57.5672 27.3219 57.5672 26.5214C57.5672 24.1638 55.6877 22.5941 53.4244 22.5941C51.2301 22.5941 49.4894 24.233 49.4894 26.3845C49.4894 28.8098 51.265 29.8342 54.1905 30.7902C57.5672 31.883 60.5617 33.2489 60.5617 37.2447C60.5617 40.8312 57.6719 43.633 53.633 43.633L53.6307 43.6345ZM62.0016 26.6948C62.0016 30.4518 65.2046 33.4573 69.1047 33.4573H69.107C71.0571 33.4573 72.6241 32.9447 73.6685 32.296C74.713 31.6473 75.1309 31.1005 75.1309 30.486C75.1309 29.8373 74.6408 29.2562 73.7352 29.2562C73.3146 29.2562 72.9257 29.4897 72.4511 29.7746C71.708 30.2208 70.7546 30.7932 69.1396 30.7932C68.5923 30.7939 68.0504 30.688 67.5451 30.4819C67.0398 30.2757 66.5812 29.9733 66.1959 29.5921C65.8105 29.211 65.5061 28.7587 65.3001 28.2614C65.0942 27.764 64.9908 27.2316 64.996 26.6948C64.996 24.4414 66.8065 22.5629 69.0349 22.5629C71.4378 22.5629 72.7257 24.1015 72.7257 25.0901C72.7257 25.3632 72.5171 25.5001 72.238 25.5001H69.2435C68.4402 25.5001 67.8478 26.0446 67.8478 26.7291C67.8478 27.4462 68.4433 27.993 69.2435 27.993H73.2483C74.7804 27.993 75.7202 27.2074 75.7202 25.91C75.7202 22.5629 72.7955 19.9331 68.9303 19.9331C68.0221 19.9288 67.122 20.1005 66.2816 20.4384C65.4413 20.7762 64.6773 21.2736 64.0335 21.9019C63.3897 22.5302 62.8788 23.277 62.5301 24.0995C62.1814 24.922 62.0018 25.804 62.0016 26.6948Z" fill="#00D639"/>
+<line x1="92.6579" y1="10.7803" x2="92.6579" y2="43.6345" stroke="#5E5E5E" stroke-width="1.02669"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="18.4805" font-weight="500" letter-spacing="0px"><tspan x="107.031" y="32.9569">Intacct</tspan></text>
+<path d="M1004.97 26.2583L1003.35 26.7588C1002.77 26.9359 1002.32 27.3902 1002.15 27.96L1001.64 29.5847C1001.35 30.5473 999.989 30.5473 999.697 29.5847L999.196 27.96C999.019 27.3825 998.565 26.9359 997.995 26.7588L996.37 26.2583C995.408 25.9656 995.408 24.6027 996.37 24.3101L997.995 23.8096C998.573 23.6325 999.019 23.1782 999.196 22.6084L999.697 20.9836C999.989 20.0211 1001.35 20.0211 1001.64 20.9836L1002.15 22.6084C1002.32 23.1859 1002.78 23.6325 1003.35 23.8096L1004.97 24.3101C1005.93 24.6027 1005.93 25.9656 1004.97 26.2583Z" fill="url(#paint0_radial_581_26995)"/>
+<path d="M985.904 12.159C990.671 12.159 994.552 15.4546 994.637 20.044C994.683 21.3376 993.743 22.046 992.719 22.046C991.695 22.046 990.894 21.3299 990.848 20.1287C990.802 17.5414 988.623 15.624 985.858 15.624C983.271 15.624 981.315 17.449 981.315 19.9439C981.315 22.662 983.14 23.8633 986.929 25.2493C990.987 26.72 994.683 28.4603 994.683 33.6271C994.683 38.1318 991.164 41.7355 986.259 41.7355C981.354 41.7355 977.48 38.3474 977.48 33.758C977.48 30.909 978.859 28.8992 980.199 28.8992C981.361 28.8992 982.07 29.6538 982.07 30.678C982.07 31.5712 981.315 31.9716 981.315 33.5732C981.315 36.4223 983.633 38.255 986.259 38.255C989.023 38.255 990.848 36.3376 990.848 34.0198C990.848 31.1708 989.023 29.9618 985.235 28.6297C980.999 27.1128 977.48 25.2878 977.48 20.2519C977.48 15.7088 981.13 12.1436 985.904 12.1436V12.159Z" fill="url(#paint1_linear_581_26995)"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="18.4805" font-weight="500" letter-spacing="0px"><tspan x="1013.15" y="33.3875">Copilot</tspan></text>
+<rect width="1108.83" height="40.8111" transform="translate(0 51.5918)" fill="white"/>
+<rect width="50.8275" height="41.0678" transform="translate(0 51.4639)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="16.4271" font-weight="900" letter-spacing="0px"><tspan x="15.6621" y="77.8718">star</tspan></text>
+<path d="M50.3141 51.9772V92.0432" stroke="#595959" stroke-width="1.02669" stroke-linecap="square"/>
+<rect width="50.8275" height="41.0678" transform="translate(50.8281 51.4639)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="16.4271" font-weight="900" letter-spacing="0px"><tspan x="66.4902" y="77.8718">home</tspan></text>
+<path d="M101.142 51.9772V92.0432" stroke="#595959" stroke-width="1.02669" stroke-linecap="square"/>
+<g clip-path="url(#clip2_581_26995)">
+<rect width="256.674" height="41.0678" transform="translate(101.656 51.4639)" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14.3737" letter-spacing="0px"><tspan x="122.191" y="77.0319">CFO - Daily View</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="14.3737" letter-spacing="0px"><tspan x="327.778" y="77.0751">&#xf107;</tspan></text>
+<path d="M357.814 51.9772V92.0432" stroke="#595959" stroke-width="1.02669" stroke-linecap="square"/>
+</g>
+<g clip-path="url(#clip3_581_26995)">
+<g clip-path="url(#clip4_581_26995)">
+<rect width="229.979" height="27.5189" transform="translate(66.9922 110.884)" fill="white"/>
+<rect width="229.979" height="75.3494" transform="translate(66.9922 138.402)" fill="white"/>
+</g>
+<rect x="67.3198" y="111.211" width="229.324" height="102.213" rx="4.91409" stroke="#FAFBFB" stroke-width="0.655212"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="9.24025" letter-spacing="0px"><tspan x="80.0977" y="128.021">Assets</tspan></text>
+<g clip-path="url(#clip5_581_26995)">
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="80.0977" y="189.526">this month</tspan></text>
+</g>
+<g clip-path="url(#clip6_581_26995)">
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.17297" letter-spacing="0px"><tspan x="180.109" y="205.227">+$387,918 vs. prior month</tspan></text>
+</g>
+<text data-num="assets" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="31.1421" letter-spacing="0px"><tspan x="80.0977" y="172.525">$17,791K</tspan></text>
+<text transform="translate(240.621 138.288)" fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="44.4935" font-weight="900" letter-spacing="0px"><tspan x="0.0341091" y="38.9318">arrow-up</tspan></text>
+</g>
+<g clip-path="url(#clip7_581_26995)">
+<g clip-path="url(#clip8_581_26995)">
+<rect width="229.979" height="27.5189" transform="translate(315.449 110.884)" fill="white"/>
+<rect width="229.979" height="75.3494" transform="translate(315.449 138.402)" fill="white"/>
+</g>
+<rect x="315.777" y="111.211" width="229.324" height="102.213" rx="4.91409" stroke="#FAFBFB" stroke-width="0.655212"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="9.24025" letter-spacing="0px"><tspan x="328.551" y="128.021">Revenue</tspan></text>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="328.551" y="188.057">this month</tspan></text>
+<text data-num="revenue" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="31.1421" letter-spacing="0px"><tspan x="328.551" y="172.525">$503,118</tspan></text>
+<text transform="translate(489.078 138.288)" fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="44.4935" font-weight="900" letter-spacing="0px"><tspan x="0.0341091" y="38.9318">arrow-up</tspan></text>
+<g clip-path="url(#clip9_581_26995)">
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.17297" letter-spacing="0px"><tspan x="433.562" y="205.063">+$90,747 vs. prior month</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip10_581_26995)">
+<g clip-path="url(#clip11_581_26995)">
+<rect width="229.979" height="27.5189" transform="translate(563.91 110.884)" fill="white"/>
+<rect width="229.979" height="75.3494" transform="translate(563.91 138.402)" fill="white"/>
+</g>
+<rect x="564.238" y="111.211" width="229.324" height="102.213" rx="4.91409" stroke="#FAFBFB" stroke-width="0.655212"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="9.24025" letter-spacing="0px"><tspan x="577.016" y="128.021">Net Income</tspan></text>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="577.016" y="188.057">this month</tspan></text>
+<text data-num="netincome" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="31.1421" letter-spacing="0px"><tspan x="577.016" y="172.525">$277,475</tspan></text>
+<text transform="translate(737.793 138.288)" fill="#00821F" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="44.4935" font-weight="900" letter-spacing="0px"><tspan x="0.0341091" y="38.9318">arrow-up</tspan></text>
+<g clip-path="url(#clip12_581_26995)">
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.17297" letter-spacing="0px"><tspan x="682.582" y="205.063">+$85,704 vs. prior month</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip13_581_26995)">
+<g clip-path="url(#clip14_581_26995)">
+<rect width="229.979" height="27.5189" transform="translate(812.371 110.884)" fill="white"/>
+<rect width="229.979" height="75.3494" transform="translate(812.371 138.402)" fill="white"/>
+</g>
+<rect x="812.699" y="111.211" width="229.324" height="102.213" rx="4.91409" stroke="#FAFBFB" stroke-width="0.655212"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="9.24025" letter-spacing="0px"><tspan x="825.477" y="128.021">Expenses</tspan></text>
+<text fill="#737373" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="825.477" y="188.057">this month</tspan></text>
+<g clip-path="url(#clip15_581_26995)">
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.17297" letter-spacing="0px"><tspan x="936.488" y="205.063">+$5,043 vs. prior month</tspan></text>
+</g>
+<text data-num="expenses" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="31.1421" letter-spacing="0px"><tspan x="825.477" y="172.525">$225,643</tspan></text>
+<text transform="translate(986.258 138.288)" fill="#CB374A" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="44.4935" font-weight="900" letter-spacing="0px"><tspan x="0.0341091" y="38.9318">arrow-up</tspan></text>
+</g>
+<g clip-path="url(#clip16_581_26995)">
+<rect x="563.656" y="232.547" width="526.694" height="341.119" rx="11.8166" fill="white"/>
+<rect x="563.656" y="301.078" width="526.694" height="272.587" fill="#F2F5F6"/>
+<rect x="1071.83" y="269.844" width="43.0838" height="5.17006" rx="2.58503" transform="rotate(-180 1071.83 269.844)" fill="#CCD6DB"/>
+<g id="donut" mask="url(#donutMask)">
+<path d="M922.36 437.87C922.36 455.351 917.569 472.497 908.507 487.445C899.444 502.394 886.458 514.572 870.959 522.657C855.46 530.742 838.041 534.424 820.597 533.302C803.152 532.181 786.348 526.299 772.012 516.297L793.899 484.926C802.501 490.927 812.583 494.456 823.05 495.129C833.517 495.802 843.968 493.593 853.268 488.742C862.567 483.891 870.359 476.584 875.796 467.615C881.234 458.646 884.109 448.358 884.109 437.87H922.36Z" fill="#00C1AE"/>
+<path d="M755.646 373.894C768.608 359.492 785.639 349.368 804.483 344.862C823.327 340.356 843.096 341.68 861.171 348.659C879.246 355.638 894.774 367.943 905.7 383.945C916.625 399.946 922.433 418.889 922.353 438.264L884.101 438.106C884.149 426.481 880.665 415.115 874.109 405.514C867.554 395.914 858.237 388.531 847.392 384.343C836.547 380.155 824.686 379.361 813.379 382.065C802.073 384.769 791.854 390.843 784.077 399.484L755.646 373.894Z" fill="#C9D800"/>
+<path d="M772.172 516.406C758.397 506.836 747.382 493.811 740.231 478.639C733.081 463.467 730.046 446.68 731.433 429.965L769.554 433.127C768.722 443.156 770.542 453.228 774.833 462.331C779.123 471.435 785.732 479.25 793.997 484.992L772.172 516.406Z" fill="#EF6700"/>
+<path d="M731.417 430.134C733.119 409.164 741.689 389.34 755.799 373.734L784.173 399.389C775.707 408.752 770.565 420.646 769.543 433.228L731.417 430.134Z" fill="#FFB500"/>
+</g>
+<g id="donutAnno">
+<path d="M884.137 376.353H990.878" stroke="#99ADB7" stroke-width="0.770692"/>
+<path d="M873.348 508.142H948.875" stroke="#99ADB7" stroke-width="0.770692"/>
+<path d="M680.691 472.69H756.219" stroke="#99ADB7" stroke-width="0.770692"/>
+<path d="M626.738 410.264L756.215 410.264" stroke="#99ADB7" stroke-width="0.770692"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="997.695" y="380.065">Texas</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="956.88" y="511.738">Maine</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="581.809" y="413.946">California</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="646.181" y="476.317">Florida</tspan></text>
+</g>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="13.1042" letter-spacing="0px"><tspan x="581.367" y="266.317">Net Income by Location</tspan></text>
+</g>
+<g clip-path="url(#clip17_581_26995)">
+<rect x="18.4805" y="592.917" width="526.694" height="341.119" rx="11.8166" fill="white"/>
+<rect x="18.4805" y="661.448" width="526.694" height="272.587" fill="#F2F5F6"/>
+<rect x="36.9219" y="626.301" width="51.6556" height="5.16556" rx="2.58278" fill="#B3C2C9"/>
+<rect x="95.4648" y="626.301" width="43.0463" height="5.16556" rx="2.58278" fill="#CCD6DB"/>
+<rect x="67.3198" y="688.727" width="447.497" height="217.261" fill="white" stroke="#E6EBED" stroke-width="0.655212"/>
+<rect x="515.145" y="707.649" width="80.8522" height="448.152" transform="rotate(90 515.145 707.649)" fill="#F2F5F6"/>
+<rect x="42.6719" y="695.215" width="11.1137" height="5.38415" rx="2.69207" fill="#CCD6DB"/>
+<rect x="457.395" y="627.595" width="40.0411" height="3.8501" rx="1.92505" fill="#CCD6DB"/>
+<rect x="510.848" y="627.368" width="15.4967" height="4.30463" rx="2.15232" fill="#CCD6DB"/>
+</g>
+<g clip-path="url(#clip18_581_26995)">
+<rect x="563.656" y="592.917" width="526.694" height="341.119" rx="11.8166" fill="white"/>
+<rect x="563.656" y="661.448" width="526.694" height="272.587" fill="#F2F5F6"/>
+<rect x="586.316" y="689.497" width="238.051" height="215.721" fill="white" stroke="#E6EBED" stroke-width="0.655212"/>
+<rect x="595.477" y="700.72" width="152.544" height="5.39015" rx="2.69507" fill="#E6EBED"/>
+<g clip-path="url(#clip19_581_26995)">
+<rect x="850.105" y="689.169" width="217.916" height="0.770021" fill="#CCD6DB"/>
+<rect width="217.916" height="26.1807" transform="translate(850.105 689.939)" fill="#E6EBED"/>
+<rect x="1067.25" y="689.939" width="0.770021" height="26.1807" fill="#CCD6DB"/>
+</g>
+<rect x="864.137" y="700.72" width="59.1962" height="5.39015" rx="2.69507" fill="#B3C2C9"/>
+<rect x="582.094" y="626.301" width="43.0463" height="5.16556" rx="2.58278" fill="#CCD6DB"/>
+<rect x="1056.43" y="628.138" width="15.4967" height="4.30463" rx="2.15232" fill="#CCD6DB"/>
+</g>
+<g clip-path="url(#clip20_581_26995)">
+<rect x="18.4805" y="232.547" width="526.694" height="341.119" rx="11.8166" fill="white"/>
+<rect x="18.4805" y="301.078" width="534.394" height="272.587" fill="#F2F5F6"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="13.1042" letter-spacing="0px"><tspan x="36.1914" y="266.317">Revenue per Retail Hour by Location</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="36.1914" y="280.565">Date &#38; Time</tspan></text>
+<rect x="103.512" y="317.577" width="419.775" height="218.03" fill="white" stroke="#E6EBED" stroke-width="0.65598"/>
+<rect x="354.211" y="317.249" width="83.1622" height="217.916" fill="#F2F5F6"/>
+<rect x="190.965" y="317.249" width="82.3922" height="217.916" fill="#F2F5F6"/>
+<rect data-bar="texas" x="103.184" y="324.949" width="322.639" height="43.1212" fill="#C9D800"/>
+<rect data-bar="maine" x="103.184" y="378.851" width="371.92" height="43.1212" fill="#00C1AE"/>
+<rect data-bar="california" x="103.184" y="431.982" width="284.138" height="43.8912" fill="#FFB500"/>
+<rect data-bar="florida" x="103.184" y="485.113" width="200.205" height="43.8912" fill="#EF6700"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="62.8899" y="349.263">Texas</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="61.3448" y="404.705">Maine</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="45.8758" y="458.607">California</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="57.8843" y="511.738">Florida</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="101.379" y="548.118">$0</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="221.892" y="550.239">$500</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="379.875" y="547.929">$1000</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="9.24025" letter-spacing="0px"><tspan x="495.248" y="547.929">$1,500</tspan></text>
+<rect x="526.66" y="269.844" width="43.0838" height="5.17006" rx="2.58503" transform="rotate(-180 526.66 269.844)" fill="#CCD6DB"/>
+</g>
+</g>
+<defs>
+<!-- Radial "draw-around" reveal for the donut: a thick white stroked circle riding the
+     ring's mid-radius. Animating stroke-dashoffset (480.66 → 0) sweeps the mask clockwise
+     from 12 o'clock, revealing each ring segment radially as it passes. -->
+<mask id="donutMask">
+  <circle id="donutMaskCircle" cx="826.73" cy="437.87" r="76.5" fill="none" stroke="white"
+          stroke-width="40" stroke-dasharray="480.66" stroke-dashoffset="480.66"
+          transform="rotate(-90 826.73 437.87)"/>
+</mask>
+<radialGradient id="paint0_radial_581_26995" cx="0" cy="0" r="1" gradientTransform="matrix(8.08522 7.3152 -6.06865 7.63969 997.364 21.5611)" gradientUnits="userSpaceOnUse">
+<stop offset="0.341666" stop-color="#9D60FF"/>
+<stop offset="0.72" stop-color="#00D6DE"/>
+<stop offset="0.896666" stop-color="#00D639"/>
+</radialGradient>
+<linearGradient id="paint1_linear_581_26995" x1="987.352" y1="41.5815" x2="996.571" y2="19.663" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00D639"/>
+<stop offset="0.4" stop-color="#00D6DE"/>
+<stop offset="0.9" stop-color="#9D60FF"/>
+</linearGradient>
+<clipPath id="clip0_581_26995"><rect width="1108.83" height="708.419" rx="15.4004" fill="white"/></clipPath>
+<clipPath id="clip1_581_26995"><rect width="1108.83" height="53.3881" fill="white"/></clipPath>
+<clipPath id="clip2_581_26995"><rect width="256.674" height="41.0678" fill="white" transform="translate(101.656 51.4639)"/></clipPath>
+<clipPath id="clip3_581_26995"><rect x="66.9922" y="110.884" width="229.979" height="102.868" rx="7.70021" fill="white"/></clipPath>
+<clipPath id="clip4_581_26995"><rect x="66.9922" y="110.884" width="229.979" height="102.868" rx="5.24169" fill="white"/></clipPath>
+<clipPath id="clip5_581_26995"><rect width="131.042" height="14" fill="white" transform="translate(80.0977 179.232)"/></clipPath>
+<clipPath id="clip6_581_26995"><rect width="131.042" height="14" fill="white" transform="translate(158.066 194.958)"/></clipPath>
+<clipPath id="clip7_581_26995"><rect x="315.449" y="110.884" width="229.979" height="102.868" rx="7.70021" fill="white"/></clipPath>
+<clipPath id="clip8_581_26995"><rect x="315.449" y="110.884" width="229.979" height="102.868" rx="5.24169" fill="white"/></clipPath>
+<clipPath id="clip9_581_26995"><rect width="131.042" height="14" fill="white" transform="translate(406.52 194.794)"/></clipPath>
+<clipPath id="clip10_581_26995"><rect x="563.91" y="110.884" width="229.979" height="102.868" rx="7.70021" fill="white"/></clipPath>
+<clipPath id="clip11_581_26995"><rect x="563.91" y="110.884" width="229.979" height="102.868" rx="5.24169" fill="white"/></clipPath>
+<clipPath id="clip12_581_26995"><rect width="131.042" height="14" fill="white" transform="translate(655.539 194.794)"/></clipPath>
+<clipPath id="clip13_581_26995"><rect x="812.371" y="110.884" width="229.979" height="102.868" rx="7.70021" fill="white"/></clipPath>
+<clipPath id="clip14_581_26995"><rect x="812.371" y="110.884" width="229.979" height="102.868" rx="5.24169" fill="white"/></clipPath>
+<clipPath id="clip15_581_26995"><rect width="131.042" height="14" fill="white" transform="translate(903.445 194.794)"/></clipPath>
+<clipPath id="clip16_581_26995"><rect x="563.656" y="232.547" width="526.694" height="341.119" rx="11.8166" fill="white"/></clipPath>
+<clipPath id="clip17_581_26995"><rect x="18.4805" y="592.917" width="526.694" height="341.119" rx="11.8166" fill="white"/></clipPath>
+<clipPath id="clip18_581_26995"><rect x="563.656" y="592.917" width="526.694" height="341.119" rx="11.8166" fill="white"/></clipPath>
+<clipPath id="clip19_581_26995"><rect width="217.916" height="216.376" fill="white" transform="translate(850.105 689.169)"/></clipPath>
+<clipPath id="clip20_581_26995"><rect x="18.4805" y="232.547" width="526.694" height="341.119" rx="11.8166" fill="white"/></clipPath>
+</defs>
+</svg>
+    </div>
+
+    <div class="veil" id="veil"></div>
+
+    <div class="gate-wrap">
+      <div class="gate" id="gate">
+        <h2>Take a self-led product tour</h2>
+        <p>Explore the key features of Sage Intacct at your own pace, from reporting to month-end close.</p>
+        <div class="rule"></div>
+        <div class="steps"><b>Step 1</b><span class="sep">&rsaquo;</span>Step 2<span class="sep">&rsaquo;</span>Step 3</div>
+        <div class="flabel">Email address</div>
+        <div class="field"><span class="caret"></span></div>
+        <div class="continue" id="continueBtn" role="button" tabindex="0">Continue</div>
+      </div>
+    </div>
+
+    <!-- ---- product-tour slides (SVG designs from Figma) ---- -->
+    <div class="tour" id="tour" aria-hidden="true">
+      <!-- stage carries the design's native aspect ratio so hotspot % map exactly -->
+      <div class="tour-stage" id="tourStage">
+        <div class="tour-slide" data-slide="1">
+          <img class="tour-img" src="images/tour/slide-1.svg" alt="Accounts Payable — never key in a bill again">
+        </div>
+        <div class="tour-slide" data-slide="2">
+          <img class="tour-img" src="images/tour/slide-2.svg" alt="Reconcile bank account — automate reconciliations">
+        </div>
+        <div class="tour-slide" data-slide="3">
+          <img class="tour-img" src="images/tour/slide-3.svg" alt="Close checklist — close the books up to 90% faster">
+        </div>
+        <div class="tour-slide" data-slide="4">
+          <img class="tour-img" src="images/tour/slide-4.svg" alt="Close dashboard — a complete picture of your close">
+        </div>
+        <!-- invisible hotspots layered over each slide's baked Back/Next coach-mark buttons;
+             positions tuned per step in .tour[data-step=N] rules below -->
+        <button class="hot hot-back" id="tourBack" aria-label="Previous step"></button>
+        <button class="hot hot-next" id="tourNext" aria-label="Next step"></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="vendor/gsap.min.js"></script>
+<script src="lib/motion.js"></script>
+<script>
+(function(){
+  const svg=document.getElementById('dash'), app=document.getElementById('app'),
+        veil=document.getElementById('veil'), gate=document.getElementById('gate');
+  const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ---------- 1. normalize fonts + Font Awesome icons in YOUR svg ---------- */
+  const FA_MAP={'arrow-up':'↑','star':'★','home':'⌂','':'▾'};
+  svg.querySelectorAll('text').forEach(t=>{
+    const ff=t.getAttribute('font-family')||'';
+    const tspan=t.querySelector('tspan');
+    if(/Font Awesome/i.test(ff)){
+      const key=(tspan?tspan.textContent:'').trim();
+      if(tspan) tspan.textContent = (FA_MAP[key]!==undefined ? FA_MAP[key] : '▾');  // unknown glyph -> chevron
+      t.setAttribute('font-family',"'Sage UI',-apple-system,Arial,sans-serif");
+    }else if(/Helvetica/i.test(ff)){
+      t.setAttribute('font-family',"'Helvetica Neue',Helvetica,Arial,sans-serif");
+    }
+  });
+
+  /* ---------- 2. drive the reveal through the Sage motion system (GSAP) ---------- */
+  const M=window.SageMotion;
+  const bars=Array.from(svg.querySelectorAll('[data-bar]'));
+  // Cache each bar's target width up front — the reveal animates width 0→full
+  // (grows left→right), so we must remember the full value before it's zeroed.
+  bars.forEach(b=>{ b.dataset.fullw = b.getBBox().width; });
+  const donut=svg.querySelector('#donut');
+  const donutMask=svg.querySelector('#donutMaskCircle');
+  const DONUT_LEN=parseFloat(donutMask.getAttribute('stroke-dasharray'));
+  const donutAnno=svg.querySelector('#donutAnno'); // leader lines + city labels
+
+  function hideAll(){
+    gsap.killTweensOf(bars); gsap.killTweensOf(donut); gsap.killTweensOf(donutAnno); gsap.killTweensOf(gate);
+    bars.forEach(b=>{ b.style.visibility='visible'; b.style.transform='none'; b.setAttribute('width', 0); });
+    // donut is revealed by its mask sweep, not by scale — keep it opaque and reset the sweep
+    gsap.set(donut, { opacity:1 });
+    donutMask.setAttribute('stroke-dashoffset', DONUT_LEN);
+    gsap.set(donutAnno, { opacity:0 });
+    gsap.set(gate,  { opacity:0, y:16 });
+    app.classList.remove('recede'); veil.classList.remove('on');
+  }
+
+  if(reduce){
+    bars.forEach(b=>{ b.style.visibility='visible'; b.style.transform='none'; b.setAttribute('width', b.dataset.fullw); });
+    gsap.set(donut,{opacity:1}); donutMask.setAttribute('stroke-dashoffset', 0);
+    gsap.set(donutAnno,{opacity:1}); gsap.set(gate,{opacity:1,y:0});
+    app.classList.add('recede'); veil.classList.add('on');
+    return;
+  }
+
+  hideAll();
+  const tl=gsap.timeline({ repeat:0 });
+  tl.call(hideAll, null, 0);
+  // 1 — bars and ring draw in together, with just a slight stagger between them
+  //     (bars: barGrowFromLeft cascade; ring: radial mask sweep — both finish ~1.25s)
+  tl.call(()=> M.barGrowFromLeft(bars, { stagger: M.STAGGERS.loose }), null, 0.2);
+  tl.call(()=> M.ringDraw(donutMask, { duration: M.DURATIONS.long }), null, 0.35);
+  //     ...then, once the ring is complete, the leader lines + labels fade in
+  tl.call(()=> gsap.to(donutAnno, { opacity:1, duration: M.DURATIONS.base, ease: M.EASINGS.standard }), null, 1.1);
+  // 2 — dashboard dims back (starts right as the graphs/labels settle)
+  tl.call(()=>{ app.classList.add('recede'); veil.classList.add('on'); }, null, 2.0);
+  // 3 — the form comes in  →  fadeUp (Entrance — the standard reveal)
+  tl.call(()=> M.fadeUp(gate, {}), null, 2.4);
+  // hold on the form
+  tl.to({}, { duration: 3.6 }, 2.4);
+
+  const toggle=document.getElementById('toggle');
+  const replay=document.getElementById('replay');
+  if(replay) replay.onclick=()=>{ tl.restart(); if(toggle) toggle.textContent='Pause'; };
+  if(toggle) toggle.onclick=()=>{
+    if(tl.paused()){ tl.play(); toggle.textContent='Pause'; }
+    else { tl.pause(); toggle.textContent='Play'; }
+  };
+
+  /* ---------- product tour: Continue → slides 1–4 ---------- */
+  const tour   = document.getElementById('tour');
+  const slides = Array.from(tour.querySelectorAll('.tour-slide'));
+  const gateWrap = document.querySelector('.gate-wrap');
+  const continueBtn = document.getElementById('continueBtn');
+  const tourNext = document.getElementById('tourNext');
+  const tourBack = document.getElementById('tourBack');
+  const LAST = slides.length;              // 4
+  let step = 0;                            // 0 = form, 1..4 = slides
+  // "?tour=1" embeds the tour on its own (e.g. the v2 industry panel): skip the
+  // intro animation + sign-up form and open the product tour immediately.
+  const tourOnly = new URLSearchParams(location.search).has('tour');
+
+  // Derive the true aspect ratio from the first SVG's intrinsic size so the
+  // hotspot percentages map exactly onto the design coordinates.
+  const firstImg = slides[0].querySelector('.tour-img');
+  const applyAR = () => {
+    const w = firstImg.naturalWidth, h = firstImg.naturalHeight;
+    if (w && h) tour.style.setProperty('--tour-ar', w + ' / ' + h);
+  };
+  if (firstImg.complete) applyAR(); else firstImg.addEventListener('load', applyAR);
+
+  function showSlide(n){
+    slides.forEach(s => s.classList.toggle('show', +s.dataset.slide === n));
+    tour.setAttribute('data-step', n);
+  }
+  function openTour(){
+    step = 1;
+    // dim/blur already applied; fade the frame content out under the tour
+    gsap.to([app, gateWrap], { opacity:0, duration:.5, ease:'power2.out',
+      onComplete:()=>{ gsap.set([app, gateWrap], { pointerEvents:'none' }); } });
+    veil.classList.remove('on');
+    showSlide(1);
+    tour.classList.add('on');
+    tour.setAttribute('aria-hidden','false');
+  }
+  function closeTour(){
+    // step 1 "Back" → return to the sign-up form
+    step = 0;
+    tour.classList.remove('on');
+    tour.setAttribute('aria-hidden','true');
+    slides.forEach(s => s.classList.remove('show'));
+    gsap.set([app, gateWrap], { pointerEvents:'auto' });
+    gsap.to([app, gateWrap], { opacity:1, duration:.5, ease:'power2.out' });
+    veil.classList.add('on');
+  }
+  function goNext(){ if(step < LAST){ step++; showSlide(step); } }
+  function goBack(){ if(step > 1){ step--; showSlide(step); } else if(!tourOnly){ closeTour(); } }
+
+  if(continueBtn){
+    continueBtn.addEventListener('click', openTour);
+    continueBtn.addEventListener('keydown', e=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); openTour(); } });
+  }
+  if(tourNext) tourNext.addEventListener('click', goNext);
+  if(tourBack) tourBack.addEventListener('click', goBack);
+
+  if(tourOnly){
+    // Jump straight to slide 1 of the product tour — no intro, no form, no fade.
+    document.body.classList.add('tour-only');
+    gsap.set([app, gateWrap], { opacity:0, pointerEvents:'none' });
+    veil.classList.remove('on');
+    showSlide(1); step = 1;
+    tour.classList.add('on');
+    tour.setAttribute('aria-hidden','false');
+  }
+})();
+</script>
+</body>
+</html>

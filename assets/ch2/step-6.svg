@@ -1,0 +1,354 @@
+<svg width="1440" height="920" viewBox="0 0 1440 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6206_44244)">
+<rect width="1440" height="920" rx="20" fill="white"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#F2F5F6"/>
+<rect width="1440" height="800" transform="translate(0 120)" fill="#F2F5F6"/>
+<g clip-path="url(#clip1_6206_44244)">
+<rect width="1440" height="69.3333" fill="black"/>
+</g>
+<line y1="68.6663" x2="1440" y2="68.6663" stroke="#D9E0E4" stroke-width="1.33333"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.407 21.8499C38.3184 17.282 34.3793 14 29.5459 14C24.7076 14 21 17.5486 21 22.0721C21 27.0835 24.5726 28.9027 28.8683 30.4138C32.7118 31.7452 34.5655 32.9422 34.5655 35.7808C34.5655 38.0869 32.7118 39.9941 29.9084 39.9941C27.24 39.9941 24.8888 38.1758 24.8888 35.3373C24.8888 34.4213 25.141 33.9003 25.3564 33.4554C25.5169 33.1236 25.6571 32.834 25.6571 32.4543C25.6571 31.4301 24.9341 30.6766 23.758 30.6766C22.4017 30.6766 21 32.6726 21 35.5111C21 40.079 25.0278 43.4499 29.9084 43.4479C34.8817 43.4479 38.4544 39.8548 38.4544 35.3758C38.4544 30.2311 34.7015 28.5007 30.5861 27.037C26.7396 25.6642 24.8888 24.4691 24.8868 21.762C24.8868 19.278 26.8806 17.4598 29.4986 17.4598C32.3029 17.4598 34.5182 19.3709 34.5635 21.9388C34.6088 23.1368 35.4678 23.8459 36.4626 23.8459C37.5008 23.8459 38.4524 23.1338 38.407 21.8499ZM40.3262 34.7121C40.3262 39.5911 44.3963 43.4499 49.28 43.4499C51.45 43.4499 53.1235 42.7397 53.1235 41.3649C53.1235 40.3447 52.2193 39.6355 51.3603 39.6355C51.0827 39.6355 50.8399 39.6866 50.5672 39.7439C50.2177 39.8174 49.8189 39.9012 49.2347 39.9012C46.4303 39.9012 44.2151 37.5062 44.2151 34.7121C44.2151 31.6968 46.4767 29.3462 49.3253 29.3462C52.5354 29.3462 54.5705 31.7412 54.5705 35.2444V41.5872C54.5705 42.6953 55.4747 43.4499 56.5602 43.4499C57.5984 43.4499 58.5046 42.6953 58.5046 41.5872V35.1111C58.5046 29.7896 54.7527 25.8864 49.4159 25.8864C44.4416 25.8864 40.3262 29.6563 40.3262 34.7121ZM69.6465 56.6667C64.5815 56.6667 60.3765 53.118 60.3765 48.5057C60.3765 46.9531 61.2828 46.2439 62.321 46.2439C63.3591 46.2439 64.22 46.9096 64.2654 48.1955C64.3107 51.0785 66.6619 53.2069 69.6022 53.2069C72.7237 53.2069 74.7567 51.2553 74.7567 48.7279C74.7567 45.8449 72.4961 44.6469 68.6526 43.4499C64.1757 42.0306 60.3776 40.079 60.3776 34.6676C60.3776 29.7007 64.2664 25.8864 69.3313 25.8864C74.4405 25.8864 78.6455 29.5229 78.6455 34.3131C78.6455 37.2405 77.4251 39.5022 75.7516 39.5022C74.6218 39.5022 73.8525 38.7042 73.8525 37.7244C73.8525 37.2875 74.0187 36.9564 74.2088 36.5777C74.4625 36.0722 74.7587 35.482 74.7587 34.4425C74.7587 31.3807 72.3179 29.3422 69.3786 29.3422C66.529 29.3422 64.2684 31.4706 64.2684 34.2647C64.2684 37.4143 66.5743 38.7447 70.3735 39.9862C74.7587 41.4054 78.6475 43.1793 78.6475 48.3684C78.6475 53.0262 74.8947 56.6647 69.6495 56.6647L69.6465 56.6667ZM80.5175 34.6677C80.5175 39.5467 84.6772 43.4499 89.7421 43.4499H89.7451C92.2776 43.4499 94.3126 42.7842 95.669 41.9418C97.0253 41.0993 97.5681 40.3892 97.5681 39.5911C97.5681 38.7487 96.9317 37.9941 95.7556 37.9941C95.2093 37.9941 94.7043 38.2973 94.088 38.6673C93.1228 39.2468 91.8847 39.9902 89.7874 39.9902C89.0767 39.991 88.3729 39.8535 87.7167 39.5858C87.0605 39.3181 86.4649 38.9253 85.9645 38.4303C85.464 37.9354 85.0686 37.3479 84.8012 36.7021C84.5337 36.0562 84.3995 35.3648 84.4063 34.6677C84.4063 31.7413 86.7575 29.3018 89.6515 29.3018C92.772 29.3018 94.4445 31.2998 94.4445 32.5837C94.4445 32.9383 94.1736 33.1161 93.8111 33.1161H89.9223C88.8791 33.1161 88.1098 33.8232 88.1098 34.7121C88.1098 35.6435 88.8832 36.3536 89.9223 36.3536H95.1232C97.1129 36.3536 98.3333 35.3334 98.3333 33.6484C98.3333 29.3018 94.5351 25.8865 89.5155 25.8865C88.3361 25.8809 87.1672 26.1038 86.0759 26.5426C84.9846 26.9814 83.9923 27.6273 83.1563 28.4432C82.3202 29.2592 81.6567 30.2291 81.2038 31.2973C80.751 32.3654 80.5177 33.5108 80.5175 34.6677Z" fill="#00D639"/>
+<line x1="120.331" y1="14" x2="120.331" y2="56.6667" stroke="#5E5E5E" stroke-width="1.33333"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="139" y="42.8">Intacct</tspan></text>
+<path d="M1305.38 34.1L1303.27 34.75C1302.52 34.98 1301.94 35.57 1301.71 36.31L1301.06 38.42C1300.68 39.67 1298.91 39.67 1298.53 38.42L1297.88 36.31C1297.65 35.56 1297.06 34.98 1296.32 34.75L1294.21 34.1C1292.96 33.72 1292.96 31.95 1294.21 31.57L1296.32 30.92C1297.07 30.69 1297.65 30.1 1297.88 29.36L1298.53 27.25C1298.91 26 1300.68 26 1301.06 27.25L1301.71 29.36C1301.94 30.11 1302.53 30.69 1303.27 30.92L1305.38 31.57C1306.63 31.95 1306.63 33.72 1305.38 34.1Z" fill="url(#paint0_radial_6206_44244)"/>
+<path d="M1280.62 15.7895C1286.81 15.7895 1291.85 20.0695 1291.96 26.0295C1292.02 27.7095 1290.8 28.6295 1289.47 28.6295C1288.14 28.6295 1287.1 27.6995 1287.04 26.1395C1286.98 22.7795 1284.15 20.2895 1280.56 20.2895C1277.2 20.2895 1274.66 22.6595 1274.66 25.8995C1274.66 29.4295 1277.03 30.9895 1281.95 32.7895C1287.22 34.6995 1292.02 36.9595 1292.02 43.6695C1292.02 49.5195 1287.45 54.1995 1281.08 54.1995C1274.71 54.1995 1269.68 49.7995 1269.68 43.8395C1269.68 40.1395 1271.47 37.5295 1273.21 37.5295C1274.72 37.5295 1275.64 38.5095 1275.64 39.8395C1275.64 40.9995 1274.66 41.5195 1274.66 43.5995C1274.66 47.2995 1277.67 49.6795 1281.08 49.6795C1284.67 49.6795 1287.04 47.1895 1287.04 44.1795C1287.04 40.4795 1284.67 38.9095 1279.75 37.1795C1274.25 35.2095 1269.68 32.8395 1269.68 26.2995C1269.68 20.3995 1274.42 15.7695 1280.62 15.7695V15.7895Z" fill="url(#paint1_linear_6206_44244)"/>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="24" font-weight="500" letter-spacing="0px"><tspan x="1316" y="43.3">Copilot</tspan></text>
+<rect width="1440" height="53" transform="translate(0 67)" fill="white"/>
+<rect width="65.3333" height="53.3333" transform="translate(0 66.833)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21.3333" font-weight="900" letter-spacing="0px"><tspan x="20" y="101.167">star</tspan></text>
+<path d="M64.6667 67.4997V119.532" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+<rect width="65.3333" height="53.3333" transform="translate(65.3335 66.833)" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="21.3333" font-weight="900" letter-spacing="0px"><tspan x="85.3335" y="101.167">home</tspan></text>
+<path d="M130 67.4997V119.532" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+<g clip-path="url(#clip2_6206_44244)">
+<rect width="333.333" height="53.3333" transform="translate(130.667 66.833)" fill="white"/>
+<text fill="#00141E" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="18.6667" letter-spacing="0px"><tspan x="157.333" y="100.323">Inter-Entity Account Mapping</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Font Awesome 5 Pro" font-size="18.6667" letter-spacing="0px"><tspan x="424.166" y="100.333">&#xf107;</tspan></text>
+<path d="M463.333 67.4997V119.532" stroke="#595959" stroke-width="1.33333" stroke-linecap="square"/>
+</g>
+<g clip-path="url(#clip3_6206_44244)">
+<rect width="1392" height="35.1863" transform="translate(24 184)" fill="white"/>
+<rect width="1392" height="636.814" transform="translate(24 219.187)" fill="white"/>
+</g>
+<rect x="24.4189" y="184.419" width="1391.16" height="671.162" rx="6.28327" stroke="#CCD6DB" stroke-width="0.837769"/>
+<rect x="64.5" y="407.5" width="15" height="15" rx="3.5" fill="white" stroke="#668494"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14" letter-spacing="0px"><tspan x="93" y="419.923">Include inactive entities</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="14" letter-spacing="0px"><tspan x="65" y="335.673">With the Advanced inter-entity mapping plan, you map relationships between pairs of entities </tspan><tspan x="65" y="356.673">as you choose. You can use any combination of inter-entity receivable (IER) and inter-entity </tspan><tspan x="65" y="377.673">payable (IEP) accounts, used to post inter-entity transactions (IETs), for each pair of entities.</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="14" letter-spacing="0px"><tspan x="65" y="305.617">Advanced</tspan></text>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="17.018" letter-spacing="0px"><tspan x="43" y="224.856">IET account mapping plan</tspan></text>
+<path d="M24 248L1416 248" stroke="#CCD6DB"/>
+<g clip-path="url(#clip4_6206_44244)">
+<rect x="87" y="491.001" width="127" height="1.30286" fill="#CCD6DB"/>
+<rect width="127" height="83.3827" transform="translate(87 492.304)" fill="#E6EBED"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="16.9371" letter-spacing="0px"><tspan x="97.4229" y="520.346">Entity A</tspan></text>
+<g clip-path="url(#clip5_6206_44244)">
+<g clip-path="url(#clip6_6206_44244)">
+<rect x="97.4229" y="531.39" width="94" height="33.8742" rx="5.21142" fill="white"/>
+</g>
+<rect x="98.0743" y="532.041" width="92.6972" height="32.5714" rx="4.55999" stroke="#668494" stroke-width="1.30286"/>
+</g>
+<rect x="212.697" y="492.304" width="1.30286" height="83.3827" fill="#CCD6DB"/>
+<rect x="87" y="575.687" width="127" height="1.30286" fill="#CCD6DB"/>
+<g clip-path="url(#clip7_6206_44244)">
+<rect x="87" y="576.989" width="270.994" height="39.0857" fill="white"/>
+<rect x="87" y="616.075" width="270.994" height="1.30286" fill="#D9E0E4"/>
+<rect x="87" y="617.378" width="270.994" height="39.0857" fill="#FAFBFB"/>
+<rect x="87" y="656.464" width="270.994" height="1.30286" fill="#D9E0E4"/>
+<rect x="87" y="657.767" width="270.994" height="39.0857" fill="white"/>
+<rect x="87" y="696.853" width="270.994" height="1.30286" fill="#D9E0E4"/>
+<rect x="87" y="698.155" width="270.994" height="39.0857" fill="#FAFBFB"/>
+<rect x="87" y="737.241" width="270.994" height="1.30286" fill="#D9E0E4"/>
+<rect x="87" y="738.543" width="270.994" height="39.0857" fill="white"/>
+<rect x="87" y="777.629" width="270.994" height="1.30286" fill="#D9E0E4"/>
+<rect x="87" y="778.932" width="270.994" height="39.0857" fill="#FAFBFB"/>
+<rect x="87" y="818.018" width="270.994" height="1.30286" fill="#D9E0E4"/>
+</g>
+<g clip-path="url(#clip8_6206_44244)">
+<g clip-path="url(#clip9_6206_44244)">
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="16.9371" letter-spacing="0px"><tspan x="97.4229" y="602.791">10--Texas&#10;</tspan><tspan x="97.4229" y="643.18">10--Texas&#10;</tspan><tspan x="97.4229" y="683.568">10--Texas&#10;</tspan><tspan x="97.4229" y="723.957">20--Maine&#10;</tspan><tspan x="97.4229" y="764.345">20--Maine&#10;</tspan><tspan x="97.4229" y="804.734">30--California&#10;</tspan></text>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip10_6206_44244)">
+<rect x="214" y="491" width="140" height="1.30286" fill="#CCD6DB"/>
+<rect width="140" height="83.3827" transform="translate(214 492.303)" fill="#E6EBED"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="16.9371" letter-spacing="0px"><tspan x="224.423" y="520.345">Entity B</tspan></text>
+<g clip-path="url(#clip11_6206_44244)">
+<g clip-path="url(#clip12_6206_44244)">
+<rect x="224.423" y="531.389" width="121" height="33.8742" rx="5.21142" fill="white"/>
+</g>
+<rect x="225.074" y="532.04" width="119.697" height="32.5714" rx="4.55999" stroke="#668494" stroke-width="1.30286"/>
+</g>
+<rect x="352.697" y="492.303" width="1.30286" height="83.3827" fill="#CCD6DB"/>
+<rect x="214" y="575.686" width="140" height="1.30286" fill="#CCD6DB"/>
+<g clip-path="url(#clip13_6206_44244)">
+<rect x="214" y="576.988" width="259.268" height="39.0857" fill="white"/>
+<rect x="214" y="616.074" width="259.268" height="1.30286" fill="#D9E0E4"/>
+<rect x="214" y="617.377" width="259.268" height="39.0857" fill="#FAFBFB"/>
+<rect x="214" y="656.463" width="259.268" height="1.30286" fill="#D9E0E4"/>
+<rect x="214" y="657.766" width="259.268" height="39.0857" fill="white"/>
+<rect x="214" y="696.852" width="259.268" height="1.30286" fill="#D9E0E4"/>
+<rect x="214" y="698.154" width="259.268" height="39.0857" fill="#FAFBFB"/>
+<rect x="214" y="737.24" width="259.268" height="1.30286" fill="#D9E0E4"/>
+<rect x="214" y="738.542" width="259.268" height="39.0857" fill="white"/>
+<rect x="214" y="777.628" width="259.268" height="1.30286" fill="#D9E0E4"/>
+<rect x="214" y="778.931" width="259.268" height="39.0857" fill="#FAFBFB"/>
+<rect x="214" y="818.017" width="259.268" height="1.30286" fill="#D9E0E4"/>
+</g>
+<g clip-path="url(#clip14_6206_44244)">
+<g clip-path="url(#clip15_6206_44244)">
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="16.9371" letter-spacing="0px"><tspan x="222.579" y="602.79">20--Maine&#10;</tspan><tspan x="222.579" y="643.179">30--California&#10;</tspan><tspan x="222.579" y="683.567">40--Florida&#10;</tspan><tspan x="222.579" y="723.956">30--California&#10;</tspan><tspan x="222.579" y="764.344">40--Florida&#10;</tspan><tspan x="222.579" y="804.733">40--Florida&#10;</tspan></text>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip16_6206_44244)">
+<rect x="354" y="491" width="241" height="1.30286" fill="#CCD6DB"/>
+<rect width="241" height="83.3827" transform="translate(354 492.303)" fill="#E6EBED"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="16.9371" letter-spacing="0px"><tspan x="364.423" y="520.345">Entity A IER</tspan></text>
+<g clip-path="url(#clip17_6206_44244)">
+<g clip-path="url(#clip18_6206_44244)">
+<rect x="364.423" y="531.389" width="187" height="33.8742" rx="5.21142" fill="white"/>
+</g>
+<rect x="365.074" y="532.04" width="185.697" height="32.5714" rx="4.55999" stroke="#668494" stroke-width="1.30286"/>
+</g>
+<rect x="593.697" y="492.303" width="1.30286" height="83.3827" fill="#CCD6DB"/>
+<path d="M354 575.686L354 817.415" stroke="#CCD6DB" stroke-width="1.20264"/>
+<rect x="354" y="575.686" width="241" height="1.30286" fill="#CCD6DB"/>
+<g clip-path="url(#clip19_6206_44244)">
+<rect x="354" y="576.988" width="312.685" height="39.0857" fill="white"/>
+<rect x="354" y="616.074" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="354" y="617.377" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="354" y="656.463" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="354" y="657.766" width="312.685" height="39.0857" fill="white"/>
+<rect x="354" y="696.852" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="354" y="698.154" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="354" y="737.24" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="354" y="738.542" width="312.685" height="39.0857" fill="white"/>
+<rect x="354" y="777.628" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="354" y="778.931" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="354" y="818.017" width="312.685" height="1.30286" fill="#D9E0E4"/>
+</g>
+<g clip-path="url(#clip20_6206_44244)">
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="16.9371" letter-spacing="0px"><tspan x="364.497" y="602.79">1115.02--Due From Entity 20&#10;</tspan><tspan x="364.497" y="643.179">1115.03--Due From Entity 30&#10;</tspan><tspan x="364.497" y="683.567">1115.04--Due From Entity 40&#10;</tspan><tspan x="364.497" y="723.956">1115.03--Due From Entity 30&#10;</tspan><tspan x="364.497" y="764.344">1115.04--Due From Entity 40&#10;</tspan><tspan x="364.497" y="804.733">1115.04--Due From Entity 40&#10;</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip21_6206_44244)">
+<rect x="595" y="491.001" width="237" height="1.30286" fill="#CCD6DB"/>
+<rect width="237" height="83.3827" transform="translate(595 492.304)" fill="#E6EBED"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="16.9371" letter-spacing="0px"><tspan x="605.423" y="520.346">Entity A IEP</tspan></text>
+<g clip-path="url(#clip22_6206_44244)">
+<g clip-path="url(#clip23_6206_44244)">
+<rect x="605.423" y="531.39" width="150" height="33.8742" rx="5.21142" fill="white"/>
+</g>
+<rect x="606.074" y="532.041" width="148.697" height="32.5714" rx="4.55999" stroke="#668494" stroke-width="1.30286"/>
+</g>
+<rect x="830.697" y="492.304" width="1.30286" height="83.3827" fill="#CCD6DB"/>
+<rect x="595" y="575.687" width="237" height="1.30286" fill="#CCD6DB"/>
+<g clip-path="url(#clip24_6206_44244)">
+<rect x="595" y="576.989" width="312.685" height="39.0857" fill="white"/>
+<rect x="595" y="616.075" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="595" y="617.378" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="595" y="656.464" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="595" y="657.767" width="312.685" height="39.0857" fill="white"/>
+<rect x="595" y="696.853" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="595" y="698.155" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="595" y="737.241" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="595" y="738.543" width="312.685" height="39.0857" fill="white"/>
+<rect x="595" y="777.629" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="595" y="778.932" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="595" y="818.018" width="312.685" height="1.30286" fill="#D9E0E4"/>
+</g>
+<g clip-path="url(#clip25_6206_44244)">
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="16.9371" letter-spacing="0px"><tspan x="605.423" y="602.801">2005.02--Due From Entity 20&#10;</tspan><tspan x="605.423" y="643.19">2005.03--Due From Entity 30&#10;</tspan><tspan x="605.423" y="683.578">2005.04--Due From Entity 40&#10;</tspan><tspan x="605.423" y="723.967">2005.03--Due From Entity 30&#10;</tspan><tspan x="605.423" y="764.355">2005.04--Due From Entity 40&#10;</tspan><tspan x="605.423" y="804.744">2005.04--Due From Entity 40&#10;</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip26_6206_44244)">
+<rect x="832" y="491" width="312.685" height="1.30286" fill="#CCD6DB"/>
+<rect width="312.685" height="83.3827" transform="translate(832 492.303)" fill="#E6EBED"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="16.9371" letter-spacing="0px"><tspan x="842.423" y="520.345">Entity B IER</tspan></text>
+<g clip-path="url(#clip27_6206_44244)">
+<g clip-path="url(#clip28_6206_44244)">
+<rect x="842.423" y="531.389" width="211" height="33.8742" rx="5.21142" fill="white"/>
+</g>
+<rect x="843.074" y="532.04" width="209.697" height="32.5714" rx="4.55999" stroke="#668494" stroke-width="1.30286"/>
+</g>
+<rect x="832" y="575.686" width="312.685" height="1.30286" fill="#CCD6DB"/>
+<g clip-path="url(#clip29_6206_44244)">
+<rect x="832" y="576.988" width="312.685" height="39.0857" fill="white"/>
+<rect x="832" y="616.074" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="832" y="617.377" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="832" y="656.463" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="832" y="657.766" width="312.685" height="39.0857" fill="white"/>
+<rect x="832" y="696.852" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="832" y="698.154" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="832" y="737.24" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="832" y="738.542" width="312.685" height="39.0857" fill="white"/>
+<rect x="832" y="777.628" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="832" y="778.931" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="832" y="818.017" width="312.685" height="1.30286" fill="#D9E0E4"/>
+</g>
+<g clip-path="url(#clip30_6206_44244)">
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="16.9371" letter-spacing="0px"><tspan x="843.427" y="602.791">1115.01--Due From Entity 10&#10;</tspan><tspan x="843.427" y="643.18">1115.01--Due From Entity 10&#10;</tspan><tspan x="843.427" y="683.568">1115.01--Due From Entity 10&#10;</tspan><tspan x="843.427" y="723.957">1115.02--Due From Entity 20&#10;</tspan><tspan x="843.427" y="764.345">1115.02--Due From Entity 20&#10;</tspan><tspan x="843.427" y="804.734">1115.03--Due From Entity 30&#10;</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip31_6206_44244)">
+<rect x="1080" y="491" width="312.685" height="1.30286" fill="#CCD6DB"/>
+<rect width="312.685" height="83.3827" transform="translate(1080 492.303)" fill="#E6EBED"/>
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica-Neue" font-size="16.9371" letter-spacing="0px"><tspan x="1090.42" y="520.345">Entity B IEP</tspan></text>
+<g clip-path="url(#clip32_6206_44244)">
+<g clip-path="url(#clip33_6206_44244)">
+<rect x="1090.42" y="531.389" width="248.845" height="33.8742" rx="5.21142" fill="white"/>
+</g>
+<rect x="1091.07" y="532.04" width="247.542" height="32.5714" rx="4.55999" stroke="#668494" stroke-width="1.30286"/>
+</g>
+<rect x="1080" y="575.686" width="312.685" height="1.30286" fill="#CCD6DB"/>
+<g clip-path="url(#clip34_6206_44244)">
+<rect x="1080" y="576.988" width="312.685" height="39.0857" fill="white"/>
+<rect x="1080" y="616.074" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="1080" y="617.377" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="1080" y="656.463" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="1080" y="657.766" width="312.685" height="39.0857" fill="white"/>
+<rect x="1080" y="696.852" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="1080" y="698.154" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="1080" y="737.24" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="1080" y="738.542" width="312.685" height="39.0857" fill="white"/>
+<rect x="1080" y="777.628" width="312.685" height="1.30286" fill="#D9E0E4"/>
+<rect x="1080" y="778.931" width="312.685" height="39.0857" fill="#FAFBFB"/>
+<rect x="1080" y="818.017" width="312.685" height="1.30286" fill="#D9E0E4"/>
+</g>
+<g clip-path="url(#clip35_6206_44244)">
+<g clip-path="url(#clip36_6206_44244)">
+<text fill="#1A1A1A" style="white-space: pre" xml:space="preserve" font-family="Helvetica Neue" font-size="16.9371" letter-spacing="0px"><tspan x="1092.29" y="602.791">2005.01--Due From Entity 10&#10;</tspan><tspan x="1092.29" y="643.18">2005.01--Due From Entity 10&#10;</tspan><tspan x="1092.29" y="683.568">2005.01--Due From Entity 10&#10;</tspan><tspan x="1092.29" y="723.957">2005.02--Due From Entity 20&#10;</tspan><tspan x="1092.29" y="764.345">2005.02--Due From Entity 20&#10;</tspan><tspan x="1092.29" y="804.734">2005.03--Due From Entity 30&#10;</tspan></text>
+</g>
+</g>
+</g>
+<path d="M213 576.387L213 818.116" stroke="#CCD6DB" stroke-width="1.20264"/>
+<path d="M353.16 576.387L353.16 818.116" stroke="#CCD6DB" stroke-width="1.20264"/>
+<path d="M594 576.387L594 818.116" stroke="#CCD6DB" stroke-width="1.20264"/>
+<path d="M832 576.387L832 818.116" stroke="#CCD6DB" stroke-width="1.20264"/>
+<path d="M1077 491L1077 818" stroke="#CCD6DB" stroke-width="1.20264"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_6206_44244" cx="0" cy="0" r="1" gradientTransform="matrix(10.5 9.5 -7.88115 9.9214 1295.5 28)" gradientUnits="userSpaceOnUse">
+<stop offset="0.341666" stop-color="#9D60FF"/>
+<stop offset="0.72" stop-color="#00D6DE"/>
+<stop offset="0.896666" stop-color="#00D639"/>
+</radialGradient>
+<linearGradient id="paint1_linear_6206_44244" x1="1282.5" y1="53.9995" x2="1294.47" y2="25.5347" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00D639"/>
+<stop offset="0.4" stop-color="#00D6DE"/>
+<stop offset="0.9" stop-color="#9D60FF"/>
+</linearGradient>
+<clipPath id="clip0_6206_44244">
+<rect width="1440" height="920" rx="20" fill="white"/>
+</clipPath>
+<clipPath id="clip1_6206_44244">
+<rect width="1440" height="69.3333" fill="white"/>
+</clipPath>
+<clipPath id="clip2_6206_44244">
+<rect width="333.333" height="53.3333" fill="white" transform="translate(130.667 66.833)"/>
+</clipPath>
+<clipPath id="clip3_6206_44244">
+<rect x="24" y="184" width="1392" height="672" rx="6.70215" fill="white"/>
+</clipPath>
+<clipPath id="clip4_6206_44244">
+<rect width="127" height="328" fill="white" transform="translate(87 491)"/>
+</clipPath>
+<clipPath id="clip5_6206_44244">
+<rect x="97.4229" y="531.39" width="94" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip6_6206_44244">
+<rect x="97.4229" y="531.39" width="94" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip7_6206_44244">
+<rect width="127" height="403.408" fill="white" transform="translate(87 576.989)"/>
+</clipPath>
+<clipPath id="clip8_6206_44244">
+<rect width="127" height="282" fill="white" transform="translate(87 576.99)"/>
+</clipPath>
+<clipPath id="clip9_6206_44244">
+<rect width="106.154" height="282" fill="white" transform="translate(97.4229 576.99)"/>
+</clipPath>
+<clipPath id="clip10_6206_44244">
+<rect width="140" height="328" fill="white" transform="translate(214 491)"/>
+</clipPath>
+<clipPath id="clip11_6206_44244">
+<rect x="224.423" y="531.389" width="121" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip12_6206_44244">
+<rect x="224.423" y="531.389" width="121" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip13_6206_44244">
+<rect width="140" height="403.408" fill="white" transform="translate(214 576.988)"/>
+</clipPath>
+<clipPath id="clip14_6206_44244">
+<rect width="140" height="282" fill="white" transform="translate(212.156 576.989)"/>
+</clipPath>
+<clipPath id="clip15_6206_44244">
+<rect width="119.154" height="282" fill="white" transform="translate(222.579 576.989)"/>
+</clipPath>
+<clipPath id="clip16_6206_44244">
+<rect width="241" height="328" fill="white" transform="translate(354 491)"/>
+</clipPath>
+<clipPath id="clip17_6206_44244">
+<rect x="364.423" y="531.389" width="187" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip18_6206_44244">
+<rect x="364.423" y="531.389" width="187" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip19_6206_44244">
+<rect width="241" height="403.408" fill="white" transform="translate(354 576.988)"/>
+</clipPath>
+<clipPath id="clip20_6206_44244">
+<rect width="241" height="282" fill="white" transform="translate(354.074 576.989)"/>
+</clipPath>
+<clipPath id="clip21_6206_44244">
+<rect width="237" height="328" fill="white" transform="translate(595 491)"/>
+</clipPath>
+<clipPath id="clip22_6206_44244">
+<rect x="605.423" y="531.39" width="150" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip23_6206_44244">
+<rect x="605.423" y="531.39" width="150" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip24_6206_44244">
+<rect width="237" height="403.408" fill="white" transform="translate(595 576.989)"/>
+</clipPath>
+<clipPath id="clip25_6206_44244">
+<rect width="225.056" height="282" fill="white" transform="translate(605.423 577)"/>
+</clipPath>
+<clipPath id="clip26_6206_44244">
+<rect width="248" height="328" fill="white" transform="translate(832 491)"/>
+</clipPath>
+<clipPath id="clip27_6206_44244">
+<rect x="842.423" y="531.389" width="211" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip28_6206_44244">
+<rect x="842.423" y="531.389" width="211" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip29_6206_44244">
+<rect width="312.685" height="403.885" fill="white" transform="translate(832 576.988)"/>
+</clipPath>
+<clipPath id="clip30_6206_44244">
+<rect width="312.685" height="282" fill="white" transform="translate(833.004 576.99)"/>
+</clipPath>
+<clipPath id="clip31_6206_44244">
+<rect width="273" height="328" fill="white" transform="translate(1080 491)"/>
+</clipPath>
+<clipPath id="clip32_6206_44244">
+<rect x="1090.42" y="531.389" width="248.845" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip33_6206_44244">
+<rect x="1090.42" y="531.389" width="248.845" height="33.8742" rx="5.21142" fill="white"/>
+</clipPath>
+<clipPath id="clip34_6206_44244">
+<rect width="312.685" height="403.885" fill="white" transform="translate(1080 576.988)"/>
+</clipPath>
+<clipPath id="clip35_6206_44244">
+<rect width="312.685" height="282" fill="white" transform="translate(1081.87 576.99)"/>
+</clipPath>
+<clipPath id="clip36_6206_44244">
+<rect width="291.84" height="282" fill="white" transform="translate(1092.29 576.99)"/>
+</clipPath>
+</defs>
+</svg>

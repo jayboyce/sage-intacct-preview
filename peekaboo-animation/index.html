@@ -428,13 +428,13 @@
   tl.call(()=> M.barGrowFromLeft(bars, { stagger: M.STAGGERS.loose }), null, 0.2);
   tl.call(()=> M.ringDraw(donutMask, { duration: M.DURATIONS.long }), null, 0.35);
   //     ...then, once the ring is complete, the leader lines + labels fade in
-  tl.call(()=> gsap.to(donutAnno, { opacity:1, duration: M.DURATIONS.base, ease: M.EASINGS.standard }), null, 1.1);
-  // 2 — dashboard dims back (starts right as the graphs/labels settle)
-  tl.call(()=>{ app.classList.add('recede'); veil.classList.add('on'); }, null, 2.0);
+  tl.call(()=> gsap.to(donutAnno, { opacity:1, duration: M.DURATIONS.base, ease: M.EASINGS.standard }), null, 0.95);
+  // 2 — dashboard dims back (starts right as the graphs/labels settle — no long hang)
+  tl.call(()=>{ app.classList.add('recede'); veil.classList.add('on'); }, null, 1.5);
   // 3 — the form comes in  →  fadeUp (Entrance — the standard reveal)
-  tl.call(()=> M.fadeUp(gate, {}), null, 2.4);
+  tl.call(()=> M.fadeUp(gate, {}), null, 1.9);
   // hold on the form
-  tl.to({}, { duration: 3.6 }, 2.4);
+  tl.to({}, { duration: 3.6 }, 1.9);
 
   const toggle=document.getElementById('toggle');
   const replay=document.getElementById('replay');

@@ -72,8 +72,38 @@
   @keyframes blink{50%{opacity:0}}
   .continue{margin-top:15px;height:clamp(38px,5vw,50px);border-radius:28px;background:var(--sage);color:#fff;
     font-family:'Sage Headline','Sage Text',sans-serif;font-weight:900;font-size:clamp(12px,1.5vw,15px);
-    display:flex;align-items:center;justify-content:center;width:46%;
+    display:flex;align-items:center;justify-content:center;width:46%;cursor:pointer;
     box-shadow:0 8px 18px -6px rgba(13,122,69,.55);}
+
+  /* ---- multi-step sign-up form ---- */
+  .gate{max-height:88%;overflow-y:auto;}
+  .gstep{display:none}
+  .gate[data-gstep="1"] .gstep-1,
+  .gate[data-gstep="2"] .gstep-2,
+  .gate[data-gstep="3"] .gstep-3{display:block}
+  .steps .st{color:#aeb9b4;font-weight:700}
+  .gate[data-gstep="1"] .st1,
+  .gate[data-gstep="2"] .st2,
+  .gate[data-gstep="3"] .st3{color:#3a453f}
+  .ginput{width:100%;box-sizing:border-box;margin:7px 0 13px;height:clamp(34px,5vw,46px);
+    border-radius:10px;border:1.5px solid #cdd6d1;background:#fff;padding:0 13px;
+    font-family:inherit;font-size:clamp(11px,1.3vw,14px);color:#33413c;}
+  select.ginput{appearance:none;-webkit-appearance:none;cursor:pointer;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%2333413c' stroke-width='1.6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 13px center;}
+  label.flabel{display:block}
+  .gcheck{display:flex;align-items:center;gap:9px;margin:4px 0 13px;cursor:pointer;
+    font-size:clamp(11px,1.3vw,13px);color:#33413c;font-weight:400;}
+  .gcheck input{width:16px;height:16px;flex:0 0 auto;accent-color:var(--sage);}
+  .gphone{display:flex;gap:8px}
+  .gphone .gcode{flex:0 0 clamp(56px,7vw,84px);width:auto}
+  .gfine{margin:2px 0 8px;font-size:clamp(9px,1.15vw,12px);color:var(--muted);line-height:1.45}
+  .gfine-q{color:#33413c;margin-top:12px}
+  .gactions{display:flex;align-items:center;gap:clamp(14px,2.2vw,22px);margin-top:6px}
+  .gactions .continue{width:auto;margin-top:0;padding:0 clamp(18px,3vw,30px)}
+  .glink{background:none;border:none;padding:0;cursor:pointer;font-family:inherit;
+    font-weight:700;font-size:clamp(11px,1.35vw,14px);color:#33413c;
+    text-decoration:underline;text-underline-offset:3px;}
 
   /* ---- controls ---- */
   .controls{display:flex;gap:10px;align-items:center}
@@ -332,14 +362,56 @@
     <div class="veil" id="veil"></div>
 
     <div class="gate-wrap">
-      <div class="gate" id="gate">
+      <div class="gate" id="gate" data-gstep="1">
         <h2>Take a self-led product tour</h2>
         <p>Explore the key features of Sage Intacct at your own pace, from reporting to month-end close.</p>
         <div class="rule"></div>
-        <div class="steps"><b>Step 1</b><span class="sep">&rsaquo;</span>Step 2<span class="sep">&rsaquo;</span>Step 3</div>
-        <div class="flabel">Email address</div>
-        <div class="field"><span class="caret"></span></div>
-        <div class="continue" id="continueBtn" role="button" tabindex="0">Continue</div>
+        <div class="steps"><span class="st st1">Step 1</span><span class="sep">&rsaquo;</span><span class="st st2">Step 2</span><span class="sep">&rsaquo;</span><span class="st st3">Step 3</span></div>
+
+        <!-- Step 1: email -->
+        <div class="gstep gstep-1">
+          <div class="flabel">Email address</div>
+          <div class="field"><span class="caret"></span></div>
+          <div class="gactions">
+            <div class="continue" id="continueBtn" role="button" tabindex="0">Continue</div>
+          </div>
+        </div>
+
+        <!-- Step 2: name / company -->
+        <div class="gstep gstep-2">
+          <label class="flabel">First name</label>
+          <input class="ginput" type="text" aria-label="First name">
+          <label class="flabel">Last name</label>
+          <input class="ginput" type="text" aria-label="Last name">
+          <label class="flabel">Company or organization</label>
+          <input class="ginput" type="text" aria-label="Company or organization">
+          <div class="gactions">
+            <div class="continue" id="step2Next" role="button" tabindex="0">Next</div>
+            <button class="glink" id="step2Prev" type="button">Previous</button>
+          </div>
+        </div>
+
+        <!-- Step 3: details -->
+        <div class="gstep gstep-3">
+          <label class="flabel">Number of employees</label>
+          <select class="ginput"><option value=""></option><option>1&ndash;50</option><option>51&ndash;200</option><option>201&ndash;1,000</option><option>1,000+</option></select>
+          <label class="gcheck"><input type="checkbox"><span>Nonprofit organization</span></label>
+          <label class="flabel">Industry</label>
+          <select class="ginput"><option value=""></option><option>Financial services</option><option>Non profit</option><option>Construction</option><option>Real Estate</option><option>SaaS &amp; Software</option><option>Professional Services</option><option>Hospitality</option><option>Healthcare</option></select>
+          <label class="flabel">Country</label>
+          <select class="ginput"><option>United States</option><option>Canada</option><option>United Kingdom</option></select>
+          <label class="flabel">State or province</label>
+          <select class="ginput"><option value=""></option><option>California</option><option>New York</option><option>Texas</option><option>Florida</option></select>
+          <label class="flabel">Business phone</label>
+          <div class="gphone"><select class="ginput gcode"><option>+1</option><option>+44</option></select><input class="ginput" type="text" aria-label="Business phone"></div>
+          <p class="gfine">By submitting this form, you agree to be contacted with marketing communications.</p>
+          <p class="gfine gfine-q">Would you like to receive SMS messages to learn more about Sage products and offers?</p>
+          <label class="gcheck"><input type="checkbox"><span>Yes please, I want to receive SMS communications</span></label>
+          <div class="gactions">
+            <div class="continue" id="startTourBtn" role="button" tabindex="0">Start product tour now</div>
+            <button class="glink" id="step3Prev" type="button">Previous</button>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -493,10 +565,18 @@
   function goNext(){ if(step < LAST){ step++; showSlide(step); } }
   function goBack(){ if(step > 1){ step--; showSlide(step); } else if(!tourOnly){ closeTour(); } }
 
-  if(continueBtn){
-    continueBtn.addEventListener('click', openTour);
-    continueBtn.addEventListener('keydown', e=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); openTour(); } });
+  // Multi-step form: Continue → 2, Next → 3, Previous ← back, Start product tour → tour.
+  function setGateStep(n){ gate.setAttribute('data-gstep', String(n)); gate.scrollTop = 0; }
+  function bindActivate(el, fn){
+    if(!el) return;
+    el.addEventListener('click', fn);
+    el.addEventListener('keydown', e=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); fn(); } });
   }
+  bindActivate(continueBtn, ()=> setGateStep(2));
+  bindActivate(document.getElementById('step2Next'), ()=> setGateStep(3));
+  bindActivate(document.getElementById('step2Prev'), ()=> setGateStep(1));
+  bindActivate(document.getElementById('step3Prev'), ()=> setGateStep(2));
+  bindActivate(document.getElementById('startTourBtn'), openTour);
   if(tourNext) tourNext.addEventListener('click', goNext);
   if(tourBack) tourBack.addEventListener('click', goBack);
 

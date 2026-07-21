@@ -4,6 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sage Intacct</title>
+    <!-- Warm the DNS + TLS connection to Ceros so the product tours start
+         fetching sooner (they all load from view.ceros.com). -->
+    <link rel="preconnect" href="https://view.ceros.com" />
+    <link rel="preconnect" href="https://view.ceros.com" crossorigin />
+    <link rel="dns-prefetch" href="https://view.ceros.com" />
     <style>
       /* Local copies of Sage fonts — overrides the fonts.sage.com URLs in
          @sage/atomic-ui so they load without CORS issues in dev. */
@@ -48,8 +53,8 @@
 
       html, body { margin: 0; }
     </style>
-    <script type="module" crossorigin src="/sage-intacct-preview-internal-9fe9/assets/index-4VfLEX2D.js"></script>
-    <link rel="stylesheet" crossorigin href="/sage-intacct-preview-internal-9fe9/assets/index-1aiK6HZb.css">
+    <script type="module" crossorigin src="/sage-intacct-preview-internal-9fe9/assets/index-Cp_3fQs2.js"></script>
+    <link rel="stylesheet" crossorigin href="/sage-intacct-preview-internal-9fe9/assets/index-1IKgc9eo.css">
   </head>
   <body>
     <div id="root"></div>

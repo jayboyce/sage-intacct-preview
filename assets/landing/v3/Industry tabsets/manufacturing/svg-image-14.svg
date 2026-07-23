@@ -1,0 +1,132 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink"  class=" responsive-svg" aria-hidden="true" width="708" height="566" viewBox="0 0 708 566" fill="none" xmlns="http://www.w3.org/2000/svg" id="svgembed-0485017e9891431ba43411e506185739-0">
+<g filter="url(#filter0_d_1072_17436)">
+<rect x="90.332" y="413.417" width="527.336" height="92.7891" rx="22.0489" fill="#C4C4C4"></rect>
+</g>
+<g clip-path="url(#clip0_1072_17436)">
+<rect x="53.584" width="600.833" height="506.206" rx="28.0049" fill="#F2F5F6"></rect>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="18.3741" font-weight="bold" letter-spacing="0em"><tspan x="68.2832" y="63.1274">Sales Dashboard</tspan></text>
+<rect x="68.2832" y="81.7159" width="180.679" height="69.9108" rx="3.67482" fill="white"></rect>
+<rect x="97.3984" y="98.2972" width="36.7482" height="36.7482" rx="18.3741" fill="#F2F9F6"></rect>
+<path d="M118.086 114.297C119.354 114.297 120.675 115.277 121.041 116.497L122.504 121.373C123.235 123.807 121.774 125.781 119.241 125.781H112.334C109.802 125.781 108.341 123.807 109.07 121.373L110.533 116.497C110.898 115.282 112.212 114.297 113.488 114.297H118.086ZM116.05 107.539L118.084 108.555L119.871 107.662C120.152 107.52 120.265 107.639 120.126 107.917L117.765 112.64C117.624 112.921 117.262 113.15 116.941 113.15H114.634C114.32 113.15 113.95 112.918 113.811 112.64L111.45 107.917C111.309 107.635 111.423 107.522 111.705 107.662L113.229 108.423C113.375 108.495 113.616 108.493 113.756 108.423L115.525 107.538C115.671 107.465 115.913 107.468 116.053 107.538L116.05 107.539Z" fill="#198E59"></path>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="18.3741" font-weight="500" letter-spacing="0em"><tspan x="148.846" y="114.526">$18,215</tspan></text>
+<text fill="black" fill-opacity="0.65" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="148.846" y="134.694">YTD sales</tspan></text>
+<rect x="263.66" y="81.7159" width="180.679" height="69.9108" rx="3.67482" fill="white"></rect>
+<rect x="292.775" y="98.2972" width="36.7482" height="36.7482" rx="18.3741" fill="#D1FDE0"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M310 125.858L310 111.692L304.685 116.671L303.11 115.014L311.149 107.484L319.188 115.014L317.614 116.671L312.297 111.692L312.297 125.858L310 125.858V125.858V125.858Z" fill="#008A21"></path>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="18.3741" font-weight="500" letter-spacing="0em"><tspan x="344.223" y="114.526">$281.56</tspan></text>
+<text fill="black" fill-opacity="0.65" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="344.223" y="134.694">MTD sales</tspan></text>
+<rect x="459.039" y="81.7159" width="180.679" height="69.9108" rx="3.67482" fill="white"></rect>
+<rect x="486.654" y="98.2972" width="36.7482" height="36.7482" rx="18.3741" fill="#FCE3CB"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M502.158 114.375C503.743 114.375 505.029 113.089 505.029 111.504C505.029 109.918 503.743 108.633 502.158 108.633C500.572 108.633 499.287 109.918 499.287 111.504C499.287 113.089 500.572 114.375 502.158 114.375ZM508.471 119.8C508.472 119.779 508.473 119.758 508.474 119.737C508.464 119.471 508.383 119.213 508.24 118.968H507.427V118.105C506.259 117.239 504.253 116.671 502.135 116.671C498.863 116.671 495.861 118.026 495.842 119.893C495.842 119.96 495.847 120.026 495.855 120.091L495.855 124.71H496.891H507.418H508.474L508.471 119.8ZM508.467 117.82V116.671C508.467 116.671 511.159 117.001 512.449 117.743C513.396 118.288 514.214 119.779 514.216 119.8V124.71H513.07H509.623V117.82H508.467ZM509.622 111.504C509.622 113.089 508.337 114.375 506.752 114.375C505.88 114.375 506.14 113.986 506.551 113.373C506.888 112.87 507.326 112.217 507.326 111.504C507.326 110.79 506.888 110.137 506.551 109.635C506.14 109.021 505.88 108.633 506.752 108.633C508.337 108.633 509.622 109.918 509.622 111.504Z" fill="#FE5800"></path>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="18.3741" font-weight="500" letter-spacing="0em"><tspan x="538.102" y="114.526">12</tspan></text>
+<text fill="black" fill-opacity="0.65" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="538.102" y="134.694">New customers</tspan></text>
+<rect width="571.434" height="36.7482" transform="translate(68.2832 166.326)" fill="white"></rect>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="14.6993" font-weight="bold" letter-spacing="0em"><tspan x="82.9824" y="195.714">Sales process</tspan></text>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M613.994 188.389C614.497 188.389 614.92 188.217 615.265 187.872C615.638 187.499 615.825 187.054 615.825 186.537C615.825 186.021 615.645 185.583 615.286 185.224C614.927 184.865 614.497 184.686 613.994 184.686C613.492 184.686 613.061 184.865 612.702 185.224C612.343 185.583 612.164 186.021 612.164 186.537C612.164 187.054 612.343 187.492 612.702 187.851C613.061 188.21 613.492 188.389 613.994 188.389ZM613.994 193.901C614.497 193.901 614.927 193.722 615.286 193.363C615.645 193.004 615.825 192.566 615.825 192.05C615.825 191.533 615.645 191.095 615.286 190.736C614.927 190.377 614.497 190.198 613.994 190.198C613.492 190.198 613.054 190.384 612.681 190.758C612.336 191.102 612.164 191.533 612.164 192.05C612.164 192.566 612.343 193.004 612.702 193.363C613.061 193.722 613.492 193.901 613.994 193.901ZM615.286 198.875C614.927 199.234 614.497 199.414 613.994 199.414C613.492 199.414 613.061 199.234 612.702 198.875C612.343 198.516 612.164 198.079 612.164 197.562C612.164 197.045 612.336 196.614 612.681 196.27C613.054 195.897 613.492 195.71 613.994 195.71C614.497 195.71 614.927 195.889 615.286 196.248C615.645 196.607 615.825 197.045 615.825 197.562C615.825 198.079 615.645 198.516 615.286 198.875Z" fill="#878D94"></path>
+<mask id="mask0_1072_17436" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="612" y="184" width="4" height="16">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M613.994 188.389C614.497 188.389 614.92 188.217 615.265 187.872C615.638 187.499 615.825 187.054 615.825 186.537C615.825 186.021 615.645 185.583 615.286 185.224C614.927 184.865 614.497 184.686 613.994 184.686C613.492 184.686 613.061 184.865 612.702 185.224C612.343 185.583 612.164 186.021 612.164 186.537C612.164 187.054 612.343 187.492 612.702 187.851C613.061 188.21 613.492 188.389 613.994 188.389ZM613.994 193.901C614.497 193.901 614.927 193.722 615.286 193.363C615.645 193.004 615.825 192.566 615.825 192.05C615.825 191.533 615.645 191.095 615.286 190.736C614.927 190.377 614.497 190.198 613.994 190.198C613.492 190.198 613.054 190.384 612.681 190.758C612.336 191.102 612.164 191.533 612.164 192.05C612.164 192.566 612.343 193.004 612.702 193.363C613.061 193.722 613.492 193.901 613.994 193.901ZM615.286 198.875C614.927 199.234 614.497 199.414 613.994 199.414C613.492 199.414 613.061 199.234 612.702 198.875C612.343 198.516 612.164 198.079 612.164 197.562C612.164 197.045 612.336 196.614 612.681 196.27C613.054 195.897 613.492 195.71 613.994 195.71C614.497 195.71 614.927 195.889 615.286 196.248C615.645 196.607 615.825 197.045 615.825 197.562C615.825 198.079 615.645 198.516 615.286 198.875Z" fill="white"></path>
+</mask>
+<g mask="url(#mask0_1072_17436)">
+<rect x="602.969" y="181.025" width="22.0489" height="22.0489" fill="#878D94"></rect>
+</g>
+<rect width="571.434" height="91.8704" transform="translate(68.2832 203.074)" fill="white"></rect>
+<circle cx="108.706" cy="228.798" r="11.0245" fill="#198E59"></circle>
+<line x1="119.73" y1="228.338" x2="183.121" y2="228.338" stroke="#4DA77E" stroke-width="0.918704" stroke-dasharray="1.84 1.84"></line>
+<circle cx="194.146" cy="228.798" r="11.0245" fill="#198E59"></circle>
+<line x1="205.17" y1="228.338" x2="282.341" y2="228.338" stroke="#4DA77E" stroke-width="0.918704"></line>
+<circle cx="293.366" cy="228.798" r="11.0245" fill="#198E59"></circle>
+<line x1="304.391" y1="228.338" x2="378.806" y2="228.338" stroke="#4DA77E" stroke-width="0.918704"></line>
+<circle cx="389.829" cy="228.798" r="11.0245" fill="#198E59"></circle>
+<line x1="400.854" y1="228.338" x2="478.943" y2="228.338" stroke="#4DA77E" stroke-width="0.918704" stroke-dasharray="1.84 1.84"></line>
+<circle cx="489.968" cy="228.798" r="11.0245" fill="#198E59"></circle>
+<line x1="500.992" y1="228.338" x2="572.651" y2="228.338" stroke="#4DA77E" stroke-width="0.918704"></line>
+<circle cx="583.677" cy="228.798" r="11.0245" fill="#198E59"></circle>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="83.6871" y="265.288">Customer</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="166.367" y="265.288">Sales order</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="278.949" y="265.288">Sales </tspan><tspan x="269.017" y="278.288">shipment</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="358.944" y="265.288">Sales invoice</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="461.993" y="265.288">Sales return </tspan><tspan x="473.83" y="278.288">receipt</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="557.836" y="265.288">Sales credit </tspan><tspan x="571.02" y="278.288">memo</tspan></text>
+<g clip-path="url(#clip1_1072_17436)">
+<rect width="278.367" height="36.7482" transform="translate(68.2832 309.644)" fill="white"></rect>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="14.6993" font-weight="bold" letter-spacing="0em"><tspan x="82.9824" y="339.369">Order to deliver</tspan></text>
+<rect x="202.332" y="324.343" width="30.6993" height="18.6748" rx="9.33741" fill="#335B70"></rect>
+<text fill="white" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="209.682" y="338.658">20</tspan></text>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M320.928 331.707C321.43 331.707 321.854 331.535 322.198 331.19C322.572 330.817 322.758 330.372 322.758 329.855C322.758 329.338 322.579 328.901 322.22 328.542C321.861 328.183 321.43 328.003 320.928 328.003C320.425 328.003 319.995 328.183 319.636 328.542C319.277 328.901 319.098 329.338 319.098 329.855C319.098 330.372 319.277 330.81 319.636 331.169C319.995 331.528 320.425 331.707 320.928 331.707ZM320.928 337.219C321.43 337.219 321.861 337.04 322.22 336.681C322.579 336.322 322.758 335.884 322.758 335.367C322.758 334.851 322.579 334.413 322.22 334.054C321.861 333.695 321.43 333.516 320.928 333.516C320.425 333.516 319.988 333.702 319.614 334.075C319.27 334.42 319.098 334.851 319.098 335.367C319.098 335.884 319.277 336.322 319.636 336.681C319.995 337.04 320.425 337.219 320.928 337.219ZM322.22 342.193C321.861 342.552 321.43 342.731 320.928 342.731C320.425 342.731 319.995 342.552 319.636 342.193C319.277 341.834 319.098 341.396 319.098 340.88C319.098 340.363 319.27 339.932 319.614 339.588C319.988 339.214 320.425 339.028 320.928 339.028C321.43 339.028 321.861 339.207 322.22 339.566C322.579 339.925 322.758 340.363 322.758 340.88C322.758 341.396 322.579 341.834 322.22 342.193Z" fill="#878D94"></path>
+<mask id="mask1_1072_17436" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="319" y="328" width="4" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M320.928 331.707C321.43 331.707 321.854 331.535 322.198 331.19C322.572 330.817 322.758 330.372 322.758 329.855C322.758 329.338 322.579 328.901 322.22 328.542C321.861 328.183 321.43 328.003 320.928 328.003C320.425 328.003 319.995 328.183 319.636 328.542C319.277 328.901 319.098 329.338 319.098 329.855C319.098 330.372 319.277 330.81 319.636 331.169C319.995 331.528 320.425 331.707 320.928 331.707ZM320.928 337.219C321.43 337.219 321.861 337.04 322.22 336.681C322.579 336.322 322.758 335.884 322.758 335.367C322.758 334.851 322.579 334.413 322.22 334.054C321.861 333.695 321.43 333.516 320.928 333.516C320.425 333.516 319.988 333.702 319.614 334.075C319.27 334.42 319.098 334.851 319.098 335.367C319.098 335.884 319.277 336.322 319.636 336.681C319.995 337.04 320.425 337.219 320.928 337.219ZM322.22 342.193C321.861 342.552 321.43 342.731 320.928 342.731C320.425 342.731 319.995 342.552 319.636 342.193C319.277 341.834 319.098 341.396 319.098 340.88C319.098 340.363 319.27 339.932 319.614 339.588C319.988 339.214 320.425 339.028 320.928 339.028C321.43 339.028 321.861 339.207 322.22 339.566C322.579 339.925 322.758 340.363 322.758 340.88C322.758 341.396 322.579 341.834 322.22 342.193Z" fill="white"></path>
+</mask>
+<g mask="url(#mask1_1072_17436)">
+<rect x="309.902" y="324.343" width="22.0489" height="22.0489" fill="#878D94"></rect>
+</g>
+<rect width="278.367" height="144.196" transform="translate(68.2832 346.392)" fill="white"></rect>
+<rect x="83.4418" y="371.876" width="21.1302" height="21.1302" rx="3.21547" fill="white"></rect>
+<rect x="83.4418" y="371.876" width="21.1302" height="21.1302" rx="3.21547" stroke="#668494" stroke-width="0.918704"></rect>
+<text fill="#007E45" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" font-weight="500" letter-spacing="0em" text-decoration="underline"><tspan x="119.73" y="376.244">200</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="119.73" y="398.593">$10,000</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="270.537" y="371.858">22/03/2021</tspan></text>
+<rect x="270.252" y="381.441" width="61.6993" height="22.3496" rx="11.1748" fill="#EF6700"></rect>
+<text fill="white" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="277.602" y="397.593">Pending</tspan></text>
+<line x1="82.9824" y1="418.03" x2="331.951" y2="418.03" stroke="#E2E2E2" stroke-width="0.918704"></line>
+<rect x="83.4418" y="443.974" width="21.1302" height="21.1302" rx="3.21547" fill="white"></rect>
+<rect x="83.4418" y="443.974" width="21.1302" height="21.1302" rx="3.21547" stroke="#668494" stroke-width="0.918704"></rect>
+<text fill="#007E45" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" font-weight="500" letter-spacing="0em" text-decoration="underline"><tspan x="119.73" y="448.341">210</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="119.73" y="470.691">$96,100</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="270.537" y="443.956">22/03/2022</tspan></text>
+<rect x="270.252" y="453.539" width="61.6993" height="22.3496" rx="11.1748" fill="#008A21"></rect>
+<text fill="white" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="277.602" y="469.691">Pending</tspan></text>
+</g>
+<g clip-path="url(#clip2_1072_17436)">
+<rect width="278.367" height="36.7482" transform="translate(361.35 309.644)" fill="white"></rect>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="14.6993" font-weight="bold" letter-spacing="0em"><tspan x="376.049" y="339.369">Shipment to invoice</tspan></text>
+<rect x="524.398" y="324.343" width="30.6993" height="18.6748" rx="9.33741" fill="#335B70"></rect>
+<text fill="white" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="531.748" y="338.658">15</tspan></text>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M613.994 331.707C614.497 331.707 614.92 331.535 615.265 331.19C615.638 330.817 615.825 330.372 615.825 329.855C615.825 329.338 615.645 328.901 615.286 328.542C614.927 328.183 614.497 328.003 613.994 328.003C613.492 328.003 613.061 328.183 612.702 328.542C612.343 328.901 612.164 329.338 612.164 329.855C612.164 330.372 612.343 330.81 612.702 331.169C613.061 331.528 613.492 331.707 613.994 331.707ZM613.994 337.219C614.497 337.219 614.927 337.04 615.286 336.681C615.645 336.322 615.825 335.884 615.825 335.367C615.825 334.851 615.645 334.413 615.286 334.054C614.927 333.695 614.497 333.516 613.994 333.516C613.492 333.516 613.054 333.702 612.681 334.075C612.336 334.42 612.164 334.851 612.164 335.367C612.164 335.884 612.343 336.322 612.702 336.681C613.061 337.04 613.492 337.219 613.994 337.219ZM615.286 342.193C614.927 342.552 614.497 342.731 613.994 342.731C613.492 342.731 613.061 342.552 612.702 342.193C612.343 341.834 612.164 341.396 612.164 340.88C612.164 340.363 612.336 339.932 612.681 339.588C613.054 339.214 613.492 339.028 613.994 339.028C614.497 339.028 614.927 339.207 615.286 339.566C615.645 339.925 615.825 340.363 615.825 340.88C615.825 341.396 615.645 341.834 615.286 342.193Z" fill="#878D94"></path>
+<mask id="mask2_1072_17436" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="612" y="328" width="4" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M613.994 331.707C614.497 331.707 614.92 331.535 615.265 331.19C615.638 330.817 615.825 330.372 615.825 329.855C615.825 329.338 615.645 328.901 615.286 328.542C614.927 328.183 614.497 328.003 613.994 328.003C613.492 328.003 613.061 328.183 612.702 328.542C612.343 328.901 612.164 329.338 612.164 329.855C612.164 330.372 612.343 330.81 612.702 331.169C613.061 331.528 613.492 331.707 613.994 331.707ZM613.994 337.219C614.497 337.219 614.927 337.04 615.286 336.681C615.645 336.322 615.825 335.884 615.825 335.367C615.825 334.851 615.645 334.413 615.286 334.054C614.927 333.695 614.497 333.516 613.994 333.516C613.492 333.516 613.054 333.702 612.681 334.075C612.336 334.42 612.164 334.851 612.164 335.367C612.164 335.884 612.343 336.322 612.702 336.681C613.061 337.04 613.492 337.219 613.994 337.219ZM615.286 342.193C614.927 342.552 614.497 342.731 613.994 342.731C613.492 342.731 613.061 342.552 612.702 342.193C612.343 341.834 612.164 341.396 612.164 340.88C612.164 340.363 612.336 339.932 612.681 339.588C613.054 339.214 613.492 339.028 613.994 339.028C614.497 339.028 614.927 339.207 615.286 339.566C615.645 339.925 615.825 340.363 615.825 340.88C615.825 341.396 615.645 341.834 615.286 342.193Z" fill="white"></path>
+</mask>
+<g mask="url(#mask2_1072_17436)">
+<rect x="602.969" y="324.343" width="22.0489" height="22.0489" fill="#878D94"></rect>
+</g>
+<rect width="278.367" height="144.196" transform="translate(361.35 346.392)" fill="white"></rect>
+<rect x="376.508" y="371.876" width="21.1302" height="21.1302" rx="3.21547" fill="white"></rect>
+<rect x="376.508" y="371.876" width="21.1302" height="21.1302" rx="3.21547" stroke="#668494" stroke-width="0.918704"></rect>
+<text fill="#007E45" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" font-weight="500" letter-spacing="0em" text-decoration="underline"><tspan x="412.797" y="376.244">SH202109003</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="412.797" y="398.593">$50</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="551.603" y="371.858">30/09/2021</tspan></text>
+<rect x="539.318" y="381.441" width="85.6993" height="22.3496" rx="11.1748" fill="#EF6700"></rect>
+<text fill="white" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="546.668" y="397.593">Not invoiced</tspan></text>
+<line x1="376.049" y1="418.03" x2="625.018" y2="418.03" stroke="#E2E2E2" stroke-width="0.918704"></line>
+<rect x="376.508" y="443.974" width="21.1302" height="21.1302" rx="3.21547" fill="white"></rect>
+<rect x="376.508" y="443.974" width="21.1302" height="21.1302" rx="3.21547" stroke="#668494" stroke-width="0.918704"></rect>
+<text fill="#007E45" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" font-weight="500" letter-spacing="0em" text-decoration="underline"><tspan x="412.797" y="448.341">SH202109003</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="412.797" y="470.691">$138</tspan></text>
+<text fill="black" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="11.0245" letter-spacing="0em"><tspan x="551.603" y="443.956">30/09/2022</tspan></text>
+<rect x="539.318" y="453.539" width="85.6993" height="22.3496" rx="11.1748" fill="#008A21"></rect>
+<text fill="white" fill-opacity="0.9" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="12.8619" letter-spacing="0em"><tspan x="546.668" y="469.691">Not invoiced</tspan></text>
+</g>
+</g>
+<rect x="54.0433" y="0.459352" width="599.914" height="505.287" rx="27.5456" stroke="#E2E2E2" stroke-width="0.918704"></rect>
+<path d="M53.584 27.5611C53.584 12.3395 65.9235 0 81.1451 0H626.855C642.077 0 654.417 12.3395 654.417 27.5611V29.3985H53.584V27.5611Z" fill="#333333"></path>
+<defs>
+<filter id="filter0_d_1072_17436" x="53.5839" y="398.718" width="600.832" height="166.286" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="22.0489"></feOffset>
+<feGaussianBlur stdDeviation="18.3741"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1072_17436"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1072_17436" result="shape"></feBlend>
+</filter>
+<clipPath id="clip0_1072_17436">
+<rect x="53.584" width="600.833" height="506.206" rx="28.0049" fill="white"></rect>
+</clipPath>
+<clipPath id="clip1_1072_17436">
+<rect x="68.2832" y="309.644" width="278.367" height="180.944" rx="3.67482" fill="white"></rect>
+</clipPath>
+<clipPath id="clip2_1072_17436">
+<rect x="361.35" y="309.644" width="278.367" height="180.944" rx="3.67482" fill="white"></rect>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,129 @@
+<svg width="708" height="631" viewBox="0 0 708 631" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1303_32419)">
+<rect x="40" y="433" width="628" height="101" rx="20" fill="white"/>
+</g>
+<rect x="0.353885" y="0.353885" width="707.292" height="533.292" rx="13.8015" fill="#F2F5F6" stroke="#E2E2E2" stroke-width="0.70777"/>
+<path d="M408.314 338.585C408.314 330.676 414.744 324.265 422.675 324.265H665.369C673.3 324.265 679.73 330.676 679.73 338.585V499.68C679.73 507.589 673.3 514 665.369 514H422.675C414.744 514 408.314 507.589 408.314 499.68V338.585Z" fill="white"/>
+<path d="M361 328C361 325.791 362.791 324 365 324H681C683.209 324 685 325.791 685 328V419.333V509.582C685 511.791 683.209 513.582 681 513.582H365C362.791 513.582 361 511.791 361 509.582V328Z" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="14" font-weight="500" letter-spacing="0px"><tspan x="377" y="351.869">Customer Trend</tspan></text>
+<path d="M458.793 363.912H507.802V486.592H458.793V363.912Z" fill="#F7F7F7"/>
+<path d="M542.108 363.912H592.751V486.592H542.108V363.912Z" fill="#F7F7F7"/>
+<path d="M604.192 363.912H654.835V486.592H604.192V363.912Z" fill="#F7F7F7"/>
+<path d="M651.564 364.002L651.564 381.955L413.054 381.955L413.054 364.002L651.564 364.002Z" fill="#CBD95D"/>
+<path d="M663 384.862L663 402.815L413.054 402.815L413.054 384.862L663 384.862Z" fill="#5DB2B1"/>
+<path d="M651.564 405.806L651.564 423.759L413.054 423.759L413.054 405.806L651.564 405.806Z" fill="#FFB500"/>
+<path d="M627.059 426.756L627.059 444.709L413.053 444.709L413.053 426.756L627.059 426.756Z" fill="#EF6700"/>
+<path d="M617.254 447.69L617.254 465.643L413.05 465.643L413.05 447.69L617.254 447.69Z" fill="#0060A7"/>
+<path d="M609.089 470.139L609.089 486.596L413.053 486.596L413.053 470.139L609.089 470.139Z" fill="#CD384B"/>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="378" y="376.098">07.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="378" y="397.098">08.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="378" y="419.098">09.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="378" y="439.098">10.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="378" y="460.098">11.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="378" y="482.098">12.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="411" y="498.098">0</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="456" y="498.098">10</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="506" y="498.098">20</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="556" y="498.098">30</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="606" y="498.098">40</tspan></text>
+<rect x="0.353885" y="32.8265" width="707.292" height="48.0078" fill="white" stroke="#E6EBED" stroke-width="0.70777"/>
+<path d="M0 14.1554C0 6.33759 6.33759 0 14.1554 0H693.845C701.662 0 708 6.33758 708 14.1554V32.4771H0V14.1554Z" fill="#333333"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="21.6582" y="62.033">SaaS Intelligence</tspan></text>
+<path d="M22 328C22 325.791 23.7909 324 26 324H343C345.209 324 347 325.791 347 328V419.543V510C347 512.209 345.209 514 343 514H26C23.7909 514 22 512.209 22 510V328Z" fill="white"/>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="74" y="498.096">07.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="119" y="498.096">08.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="164" y="498.096">09.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="209" y="498.096">10.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="254" y="498.096">11.2023</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="299" y="498.096">12.2023</tspan></text>
+<path d="M74 390L74 371L329 371L329 390L74 390Z" fill="#F7F7F7"/>
+<path d="M74 416L74 397L329 397L329 416L74 416Z" fill="#F7F7F7"/>
+<path d="M74 442L74 423L329 423L329 442L74 442Z" fill="#F7F7F7"/>
+<path d="M74 465L74 445L329 445L329 465L74 465Z" fill="#F7F7F7"/>
+<path d="M74.1768 380.784H104.177V485.288H74.1768V380.784Z" fill="#CBD95D"/>
+<path d="M119.177 380.312H149.177V485.288H119.177V380.312Z" fill="#5DB2B1"/>
+<path d="M164.177 396.779H194.177V485.288H164.177V396.779Z" fill="#FFB500"/>
+<path d="M209.177 380.312H239.177V485.288H209.177V380.312Z" fill="#EF6700"/>
+<path d="M254.177 380.312H284.177V485.288H254.177V380.312Z" fill="#006388"/>
+<path d="M299.177 380.312H329.177V485.288H299.177V380.312Z" fill="#CD384B"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="14" font-weight="500" letter-spacing="0px"><tspan x="38" y="351.918">CMRR Trend</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="38.1094" y="378.096">$6,000</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="38.1094" y="396.096">$5,000</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="38.1094" y="414.096">$4,000</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="38.1094" y="432.096">$3,000</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="38.1094" y="450.096">$2,000</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="38.1094" y="468.096">$1,000</tspan></text>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8" font-weight="500" letter-spacing="0px"><tspan x="48.6016" y="486.096">0</tspan></text>
+<rect x="22" y="92.0001" width="663" height="71" rx="4" fill="white"/>
+<rect x="22" y="167" width="663" height="71" rx="4" fill="white"/>
+<rect x="22" y="242" width="663" height="71" rx="4" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187.542 159.184L187.542 95.9982L188.542 95.9982L188.542 159.184L187.542 159.184Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187.542 234.267L187.542 171.081L188.542 171.081L188.542 234.267L187.542 234.267Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187.542 309.719L187.542 246.533L188.542 246.533L188.542 309.719L187.542 309.719Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M353.768 159.184L353.768 95.9982L354.768 95.9982L354.768 159.184L353.768 159.184Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M353.768 233.905L353.768 170.72L354.768 170.72L354.768 233.905L353.768 233.905Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M353.768 308.854L353.768 245.668L354.768 245.668L354.768 308.854L353.768 308.854Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M518.875 159.184L518.875 95.9982L519.875 95.9982L519.875 159.184L518.875 159.184Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M518.875 234.267L518.875 171.081L519.875 171.081L519.875 234.267L518.875 234.267Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M518.875 309.719L518.875 246.533L519.875 246.533L519.875 309.719L518.875 309.719Z" fill="#E6EBED"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="210" y="112.644">CMRR</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="210" y="139.74">$225k</tspan></text>
+<path d="M260 149H210V153H260V149Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="209.736" y="262.644">Payback in Months</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="209.736" y="289.74">8</tspan></text>
+<path d="M259.736 299H209.736V303H259.736V299Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="374.85" y="262.644">New Customers</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="374.85" y="289.74">38</tspan></text>
+<path d="M424.85 299H374.85V303H424.85V299Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="539.958" y="262.644">Avg New CMRR / Customer</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="539.958" y="289.74">$1,939</tspan></text>
+<path d="M589.958 299H539.958V303H589.958V299Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="209.736" y="187.644">Revenue Churn</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="209.736" y="214.74">2.66%</tspan></text>
+<path d="M259.736 224H209.736V228H259.736V224Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="374.85" y="187.644">Customer Renewal</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="374.85" y="214.74">97.73%</tspan></text>
+<path d="M424.85 224H374.85V228H424.85V224Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="539.958" y="187.644">Revenue Renewal</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="539.958" y="214.74">102.58%</tspan></text>
+<path d="M589.958 224H539.958V228H589.958V224Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="45" y="112.644">CMRR per Customer</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="45" y="139.74">$5,248</tspan></text>
+<path d="M95 149H45V153H95V149Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="44.6289" y="262.644">CAC</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="44.6289" y="289.74">$29,833</tspan></text>
+<path d="M94.6289 299H44.6289V303H94.6289V299Z" fill="#D1DADE"/>
+<path d="M158.102 123.718C159.06 122.76 160.615 122.76 161.573 123.718L167.13 129.272C167.769 129.91 167.769 130.946 167.13 131.584C166.491 132.223 165.456 132.223 164.817 131.584L161.473 128.243V139.015C161.473 139.918 160.74 140.65 159.836 140.65C158.933 140.65 158.2 139.918 158.2 139.015V128.245L154.859 131.584C154.22 132.223 153.184 132.223 152.545 131.584C151.906 130.946 151.906 129.91 152.545 129.272L158.102 123.718Z" fill="#00D639"/>
+<path d="M158.102 198.718C159.06 197.76 160.615 197.76 161.573 198.718L167.13 204.272C167.769 204.91 167.769 205.946 167.13 206.584C166.491 207.223 165.456 207.223 164.817 206.584L161.473 203.243V214.015C161.473 214.918 160.74 215.65 159.836 215.65C158.933 215.65 158.2 214.918 158.2 214.015V203.245L154.859 206.584C154.22 207.223 153.184 207.223 152.545 206.584C151.906 205.946 151.906 204.91 152.545 204.272L158.102 198.718Z" fill="#CD384B"/>
+<path d="M158.102 290.282C159.06 291.24 160.615 291.24 161.573 290.282L167.13 284.728C167.769 284.09 167.769 283.054 167.13 282.416C166.491 281.777 165.456 281.777 164.817 282.416L161.473 285.758V274.985C161.473 274.082 160.74 273.35 159.836 273.35C158.933 273.351 158.2 274.082 158.2 274.985V285.756L154.859 282.416C154.22 281.777 153.184 281.777 152.545 282.416C151.906 283.054 151.906 284.09 152.545 284.728L158.102 290.282Z" fill="#00D639"/>
+<path d="M323.21 123.719C324.169 122.761 325.723 122.761 326.682 123.719L332.238 129.273C332.877 129.911 332.877 130.947 332.238 131.585C331.599 132.224 330.564 132.224 329.925 131.585L326.581 128.244V139.016C326.581 139.919 325.848 140.651 324.944 140.651C324.041 140.651 323.309 139.919 323.309 139.016V128.245L319.967 131.585C319.328 132.224 318.292 132.224 317.653 131.585C317.014 130.947 317.014 129.911 317.653 129.273L323.21 123.719Z" fill="#00D639"/>
+<path d="M323.21 198.718C324.169 197.76 325.723 197.76 326.682 198.718L332.238 204.272C332.877 204.91 332.877 205.946 332.238 206.584C331.599 207.223 330.564 207.223 329.925 206.584L326.581 203.243V214.015C326.581 214.918 325.848 215.65 324.944 215.65C324.041 215.65 323.309 214.918 323.309 214.015V203.245L319.967 206.584C319.328 207.223 318.292 207.223 317.653 206.584C317.014 205.946 317.014 204.91 317.653 204.272L323.21 198.718Z" fill="#CD384B"/>
+<path d="M323.21 273.718C324.169 272.76 325.723 272.76 326.682 273.718L332.238 279.272C332.877 279.91 332.877 280.946 332.238 281.584C331.599 282.223 330.564 282.223 329.925 281.584L326.581 278.243V289.015C326.581 289.918 325.848 290.65 324.944 290.65C324.041 290.65 323.309 289.918 323.309 289.015V278.245L319.967 281.584C319.328 282.223 318.292 282.223 317.653 281.584C317.014 280.946 317.014 279.91 317.653 279.272L323.21 273.718Z" fill="#CD384B"/>
+<path d="M488.318 123.716C489.277 122.758 490.832 122.758 491.79 123.716L497.347 129.27C497.986 129.908 497.986 130.944 497.347 131.582C496.708 132.221 495.672 132.221 495.033 131.582L491.69 128.241V139.013C491.689 139.916 490.956 140.648 490.053 140.648C489.149 140.648 488.417 139.916 488.417 139.013V128.243L485.075 131.582C484.436 132.221 483.401 132.221 482.762 131.582C482.123 130.944 482.123 129.908 482.762 129.27L488.318 123.716Z" fill="#00D639"/>
+<path d="M488.318 215.282C489.277 216.24 490.832 216.24 491.79 215.282L497.347 209.728C497.986 209.09 497.986 208.054 497.347 207.416C496.708 206.777 495.672 206.777 495.033 207.416L491.69 210.758V199.985C491.689 199.082 490.956 198.35 490.053 198.35C489.149 198.351 488.417 199.082 488.417 199.985V210.756L485.075 207.416C484.436 206.777 483.401 206.777 482.762 207.416C482.123 208.054 482.123 209.09 482.762 209.728L488.318 215.282Z" fill="#CD384B"/>
+<path d="M488.318 273.718C489.277 272.76 490.832 272.76 491.79 273.718L497.347 279.272C497.986 279.91 497.986 280.946 497.347 281.584C496.708 282.223 495.672 282.223 495.033 281.584L491.69 278.243V289.015C491.689 289.918 490.956 290.65 490.053 290.65C489.149 290.65 488.417 289.918 488.417 289.015V278.245L485.075 281.584C484.436 282.223 483.401 282.223 482.762 281.584C482.123 280.946 482.123 279.91 482.762 279.272L488.318 273.718Z" fill="#00D639"/>
+<path d="M656.901 123.716C655.942 122.758 654.387 122.758 653.429 123.716L647.872 129.27C647.233 129.908 647.233 130.944 647.872 131.582C648.511 132.221 649.547 132.221 650.186 131.582L653.53 128.241L653.53 139.013C653.53 139.916 654.263 140.648 655.166 140.648C656.07 140.648 656.802 139.916 656.802 139.013L656.802 128.243L660.144 131.582C660.783 132.221 661.818 132.221 662.457 131.582C663.096 130.944 663.096 129.908 662.457 129.27L656.901 123.716Z" fill="#00D639"/>
+<path d="M656.901 198.718C655.942 197.76 654.387 197.76 653.429 198.718L647.872 204.272C647.233 204.91 647.233 205.946 647.872 206.584C648.511 207.223 649.547 207.223 650.186 206.584L653.529 203.243L653.529 214.015C653.53 214.918 654.263 215.65 655.166 215.65C656.07 215.65 656.802 214.918 656.802 214.015L656.802 203.245L660.144 206.584C660.783 207.223 661.818 207.223 662.457 206.584C663.096 205.946 663.096 204.91 662.457 204.272L656.901 198.718Z" fill="#00D639"/>
+<path d="M656.901 290.282C655.942 291.24 654.387 291.24 653.429 290.282L647.872 284.728C647.233 284.09 647.233 283.054 647.872 282.416C648.511 281.777 649.547 281.777 650.186 282.416L653.529 285.758L653.529 274.985C653.53 274.082 654.263 273.35 655.166 273.35C656.07 273.351 656.802 274.082 656.802 274.985L656.802 285.756L660.144 282.416C660.783 281.777 661.818 281.777 662.457 282.416C663.096 283.054 663.096 284.09 662.457 284.728L656.901 290.282Z" fill="#CD384B"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="44" y="187.644">Customer Churn</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="44" y="214.74">2.27%</tspan></text>
+<path d="M94 224H44V228H94V224Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="539.958" y="112.644">New CMRR</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="539.958" y="139.74">$83,386</tspan></text>
+<path d="M589.958 149H539.958V153H589.958V149Z" fill="#D1DADE"/>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="374.85" y="112.644">Annualized CMRR</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="374.85" y="139.74">$2,708</tspan></text>
+<path d="M424.85 149H374.85V153H424.85V149Z" fill="#D1DADE"/>
+<defs>
+<filter id="filter0_d_1303_32419" x="0" y="417" width="708" height="181" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="24"/>
+<feGaussianBlur stdDeviation="20"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1303_32419"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1303_32419" result="shape"/>
+</filter>
+</defs>
+</svg>

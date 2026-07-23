@@ -1,0 +1,120 @@
+<svg width="708" height="427" viewBox="0 0 708 427" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="708" height="426.921" rx="21.6514" fill="#F2F5F6"/>
+<path d="M0 21.6514C0 9.69366 9.69365 0 21.6514 0H686.349C698.306 0 708 9.69365 708 21.6514V37.1236H0V21.6514Z" fill="#333333"/>
+<rect x="0.541285" y="32.9632" width="706.917" height="47.554" fill="white" stroke="#E6EBED" stroke-width="1.08257"/>
+<path d="M453.596 51.8767H410.293V57.2808H453.596V51.8767Z" fill="#D1DADE"/>
+<path d="M388.645 51.8767H345.342V57.2808H388.645V51.8767Z" fill="#D1DADE"/>
+<path d="M518.549 51.8767H475.246V57.2808H518.549V51.8767Z" fill="#D1DADE"/>
+<path d="M583.502 51.8767H540.199V57.2808H583.502V51.8767Z" fill="#D1DADE"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="19.4862" font-weight="bold" letter-spacing="0px"><tspan x="36.8086" y="62.6854">New Channel Scenario</tspan></text>
+<ellipse cx="25.4413" cy="54.5785" rx="3.78899" ry="3.78285" fill="#00D639"/>
+<rect x="605.59" y="43.6642" width="76.7853" height="22.9596" fill="#F7F7F7"/>
+<rect x="605.59" y="43.6642" width="76.7853" height="22.9596" stroke="#CCD6DB" stroke-width="0.866055"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.8257" font-weight="500" letter-spacing="0px"><tspan x="616.089" y="59.3336">Add widget</tspan></text>
+<rect x="21.2148" y="124.627" width="323.506" height="249.258" rx="15.9101" fill="white"/>
+<line x1="74.248" y1="330.917" x2="320.855" y2="330.917" stroke="#CCD6DB" stroke-width="1.08257"/>
+<line x1="74.248" y1="301.748" x2="320.855" y2="301.748" stroke="#CCD6DB" stroke-width="1.08257"/>
+<line x1="74.248" y1="272.58" x2="320.855" y2="272.58" stroke="#CCD6DB" stroke-width="1.08257"/>
+<line x1="74.248" y1="243.411" x2="320.855" y2="243.411" stroke="#CCD6DB" stroke-width="1.08257"/>
+<line x1="74.248" y1="214.243" x2="320.855" y2="214.243" stroke="#CCD6DB" stroke-width="1.08257"/>
+<line x1="74.248" y1="185.074" x2="320.855" y2="185.074" stroke="#CCD6DB" stroke-width="1.08257"/>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="37.1862" y="246.602">$1.5M</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="46.1884" y="217.433">$2M</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="37.1862" y="189.591">$2.5M</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="46.1884" y="274.445">$1M</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="35.1666" y="303.613">$500K</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="54.2066" y="331.456">$0</tspan></text>
+<path d="M97.4307 346.942H75.7793V352.346H97.4307V346.942Z" fill="#CCD6DB"/>
+<path d="M142.896 346.942H121.245V352.346H142.896V346.942Z" fill="#CCD6DB"/>
+<path d="M188.364 346.942H166.713V352.346H188.364V346.942Z" fill="#CCD6DB"/>
+<path d="M233.833 346.942H212.182V352.346H233.833V346.942Z" fill="#CCD6DB"/>
+<path d="M279.301 346.942H257.649V352.346H279.301V346.942Z" fill="#CCD6DB"/>
+<path d="M324.768 346.942H303.116V352.346H324.768V346.942Z" fill="#CCD6DB"/>
+<rect x="75.5762" y="289.779" width="21.2135" height="40.3538" fill="#2982A6"/>
+<rect x="75.5762" y="248.303" width="21.2135" height="40.3538" fill="#44ED90"/>
+<rect x="75.5762" y="206.829" width="21.2135" height="40.3538" fill="#00B866"/>
+<rect x="120.652" y="289.779" width="21.2135" height="40.3538" fill="#2982A6"/>
+<rect x="120.652" y="248.303" width="21.2135" height="40.3538" fill="#44ED90"/>
+<rect x="120.652" y="206.829" width="21.2135" height="40.3538" fill="#00B866"/>
+<rect x="165.732" y="286.74" width="21.2135" height="43.3912" fill="#2982A6"/>
+<rect x="165.732" y="242.144" width="21.2135" height="43.3912" fill="#44ED90"/>
+<rect x="165.732" y="197.548" width="21.2135" height="43.3912" fill="#00B866"/>
+<rect x="212.135" y="286.74" width="21.2135" height="43.3912" fill="#2982A6"/>
+<rect x="212.135" y="242.144" width="21.2135" height="43.3912" fill="#44ED90"/>
+<rect x="212.135" y="197.548" width="21.2135" height="43.3912" fill="#00B866"/>
+<rect x="257.217" y="289.779" width="21.2135" height="40.3538" fill="#2982A6"/>
+<rect x="257.217" y="248.304" width="21.2135" height="40.3538" fill="#44ED90"/>
+<rect x="257.217" y="206.829" width="21.2135" height="40.3538" fill="#00B866"/>
+<rect x="299.643" y="289.779" width="21.2135" height="40.3538" fill="#2982A6"/>
+<rect x="299.643" y="248.304" width="21.2135" height="40.3538" fill="#44ED90"/>
+<rect x="299.643" y="206.829" width="21.2135" height="40.3538" fill="#00B866"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.9101" font-weight="bold" letter-spacing="0px"><tspan x="42.4287" y="156.194">Operating expenses</tspan></text>
+<rect x="216.446" y="143.52" width="85.1418" height="17.5263" fill="white"/>
+<rect x="216.446" y="143.52" width="85.1418" height="17.5263" stroke="#C6C6C6" stroke-width="0.663371"/>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="7.95506" font-weight="500" letter-spacing="0px"><tspan x="224.423" y="155.362">By Department</tspan></text>
+<g clip-path="url(#clip0_1303_31229)">
+<path d="M287.163 151.665L290.065 154.567L292.968 151.665" stroke="#5E5E5E" stroke-width="0.829214"/>
+</g>
+<rect x="363.283" y="124.627" width="323.506" height="249.258" rx="15.9101" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.9101" font-weight="bold" letter-spacing="0px"><tspan x="384.497" y="156.194">Bookings growth</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="387.695" y="265.164">$5M</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="376.995" y="296.984">$2.5M</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="376.995" y="233.344">$7.5M</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="381.989" y="200.829">$10M</tspan></text>
+<text fill="black" fill-opacity="0.6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0px"><tspan x="401.229" y="328.803">0</tspan></text>
+<path d="M434.88 343.391H421.621V348.694H434.88V343.391Z" fill="#CCD6DB"/>
+<path d="M453.442 343.391H441.51V348.694H453.442V343.391Z" fill="#CCD6DB"/>
+<path d="M473.329 343.391H460.07V348.694H473.329V343.391Z" fill="#CCD6DB"/>
+<path d="M490.565 343.391H479.958V348.694H490.565V343.391Z" fill="#CCD6DB"/>
+<path d="M510.452 343.391H497.193V348.694H510.452V343.391Z" fill="#CCD6DB"/>
+<path d="M529.015 343.391H517.082V348.694H529.015V343.391Z" fill="#CCD6DB"/>
+<path d="M548.901 343.391H535.643V348.694H548.901V343.391Z" fill="#CCD6DB"/>
+<path d="M567.464 343.391H555.531V348.694H567.464V343.391Z" fill="#CCD6DB"/>
+<path d="M587.35 343.391H574.092V348.694H587.35V343.391Z" fill="#CCD6DB"/>
+<path d="M604.587 343.391H593.98V348.694H604.587V343.391Z" fill="#CCD6DB"/>
+<path d="M624.476 343.391H611.218V348.694H624.476V343.391Z" fill="#CCD6DB"/>
+<path d="M643.036 343.391H631.104V348.694H643.036V343.391Z" fill="#CCD6DB"/>
+<path d="M662.925 343.391H649.667V348.694H662.925V343.391Z" fill="#CCD6DB"/>
+<line x1="418.97" y1="230.153" x2="665.576" y2="230.153" stroke="#D1DADE" stroke-width="1.08257"/>
+<line x1="418.97" y1="197.007" x2="665.576" y2="197.007" stroke="#D1DADE" stroke-width="1.08257"/>
+<line x1="418.97" y1="297.771" x2="665.576" y2="297.771" stroke="#D1DADE" stroke-width="1.08257"/>
+<line x1="418.97" y1="332.243" x2="665.576" y2="332.243" stroke="#D1DADE" stroke-width="1.08257"/>
+<line x1="418.97" y1="264.625" x2="665.576" y2="264.625" stroke="#D1DADE" stroke-width="1.08257"/>
+<rect x="652.318" y="201.527" width="10.6067" height="129.933" fill="#00A65C"/>
+<rect x="632.431" y="220.089" width="11.9326" height="111.371" fill="#00A65C"/>
+<rect x="613.87" y="235.999" width="10.6067" height="95.4607" fill="#00A65C"/>
+<rect x="593.981" y="246.605" width="11.9326" height="84.8539" fill="#00A65C"/>
+<rect x="575.421" y="255.886" width="10.6067" height="75.573" fill="#00A65C"/>
+<rect x="555.532" y="265.167" width="11.9326" height="66.2921" fill="#00A65C"/>
+<rect x="536.97" y="271.796" width="10.6067" height="59.6629" fill="#00A65C"/>
+<rect x="517.083" y="285.055" width="11.9326" height="46.4045" fill="#00A65C"/>
+<rect x="498.521" y="291.684" width="10.6067" height="39.7753" fill="#00A65C"/>
+<rect x="478.634" y="298.313" width="11.9326" height="33.1461" fill="#00A65C"/>
+<rect x="460.071" y="302.291" width="10.6067" height="29.1685" fill="#00A65C"/>
+<rect x="440.185" y="311.572" width="11.9326" height="19.8876" fill="#00A65C"/>
+<rect x="421.622" y="324.83" width="10.6067" height="6.62921" fill="#00A65C"/>
+<rect x="533.323" y="143.52" width="73.1418" height="17.5263" fill="white"/>
+<rect x="533.323" y="143.52" width="73.1418" height="17.5263" stroke="#C6C6C6" stroke-width="0.663371"/>
+<text fill="black" fill-opacity="0.65" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="7.95506" font-weight="500" letter-spacing="0px"><tspan x="541.577" y="155.362">By Location</tspan></text>
+<g clip-path="url(#clip1_1303_31229)">
+<path d="M592.04 151.665L594.942 154.568L597.845 151.665" stroke="#5E5E5E" stroke-width="0.829214"/>
+</g>
+<rect x="177.002" y="185.086" width="175.929" height="121.623" rx="3.82455" fill="white" stroke="#44ED90" stroke-width="1.32584"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0em"><tspan x="188.707" y="210.115">Jun 22</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" font-weight="bold" letter-spacing="0em"><tspan x="289.701" y="229.524">$679.06K</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" font-weight="bold" letter-spacing="0em"><tspan x="295.887" y="248.941">$715.1K</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" font-weight="bold" letter-spacing="0em"><tspan x="289.701" y="268.355">$842.67K</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" font-weight="bold" letter-spacing="0em"><tspan x="300.006" y="287.764">$2.24M</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0em"><tspan x="188.707" y="229.524">Engineering</tspan></text>
+<text fill="#00B866" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0em"><tspan x="188.707" y="248.941">General &#38; Admin</tspan></text>
+<text fill="#2982A6" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" letter-spacing="0em"><tspan x="188.707" y="268.355">Sales &#38; Marketing</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.6067" font-weight="bold" letter-spacing="0em"><tspan x="188.707" y="287.764">Total Budget</tspan></text>
+<defs>
+<clipPath id="clip0_1303_31229">
+<rect width="7.46293" height="7.46293" fill="white" transform="translate(286.332 148.552)"/>
+</clipPath>
+<clipPath id="clip1_1303_31229">
+<rect width="7.46293" height="7.46293" fill="white" transform="translate(591.209 148.552)"/>
+</clipPath>
+</defs>
+</svg>

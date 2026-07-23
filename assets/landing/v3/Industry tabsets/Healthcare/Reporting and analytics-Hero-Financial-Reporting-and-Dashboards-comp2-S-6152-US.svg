@@ -1,0 +1,184 @@
+<svg width="708" height="620" viewBox="0 0 708 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1303_31581)">
+<rect x="61.0889" y="477.767" width="585.823" height="48.5575" rx="17.2924" fill="white"/>
+</g>
+<path d="M0 22.6591C0 10.1572 10.1597 0.0224609 22.6923 0.0224609H685.308C697.84 0.0224609 708 10.1572 708 22.6591V503.687C708 516.189 697.84 526.323 685.308 526.323H22.6923C10.1597 526.323 0 516.189 0 503.687V22.6591Z" fill="#F2F5F6"/>
+<mask id="mask0_1303_31581" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="708" height="527">
+<path d="M0 22.6591C0 10.1572 10.1597 0.0224609 22.6923 0.0224609H685.308C697.84 0.0224609 708 10.1572 708 22.6591V503.687C708 516.189 697.84 526.323 685.308 526.323H22.6923C10.1597 526.323 0 516.189 0 503.687V22.6591Z" fill="#F2F5F6"/>
+</mask>
+<g mask="url(#mask0_1303_31581)">
+<path d="M359.494 366.55C359.494 356.169 367.91 347.754 378.291 347.754H676.644C687.025 347.754 695.441 356.169 695.441 366.55V488.725C695.441 499.106 687.025 507.522 676.644 507.522H378.291C367.91 507.522 359.494 499.106 359.494 488.725V366.55Z" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="14.0973" font-weight="bold" letter-spacing="0px"><tspan x="378.34" y="374.237">Income Statement</tspan></text>
+<line x1="377.824" y1="384.253" x2="675.478" y2="384.253" stroke="#CCD6DB" stroke-width="1.04576"/>
+<path d="M418.981 440.032H384.286V445.097H418.981V440.032Z" fill="#D1DADE"/>
+<path d="M624.849 440.032H590.154V445.097H624.849V440.032Z" fill="#D1DADE"/>
+<path d="M418.981 419.781H384.286V424.846H418.981V419.781Z" fill="#D1DADE"/>
+<path d="M624.849 419.781H601.719V424.846H624.849V419.781Z" fill="#D1DADE"/>
+<path d="M418.981 450.167H384.286V455.231H418.981V450.167Z" fill="#D1DADE"/>
+<path d="M624.849 450.167H601.719V455.231H624.849V450.167Z" fill="#D1DADE"/>
+<path d="M418.981 429.908H384.286V434.973H418.981V429.908Z" fill="#D1DADE"/>
+<path d="M624.849 429.908H601.719V434.973H624.849V429.908Z" fill="#D1DADE"/>
+<path d="M488.379 440.032H442.119V445.097H488.379V440.032Z" fill="#D1DADE"/>
+<path d="M476.814 419.781H442.119V424.846H476.814V419.781Z" fill="#D1DADE"/>
+<path d="M476.814 450.167H442.119V455.231H476.814V450.167Z" fill="#D1DADE"/>
+<path d="M488.379 429.908H442.119V434.973H488.379V429.908Z" fill="#D1DADE"/>
+<path d="M418.981 460.288H384.286V465.352H418.981V460.288Z" fill="#D1DADE"/>
+<path d="M624.849 460.288H590.154V465.352H624.849V460.288Z" fill="#D1DADE"/>
+<path d="M418.981 480.539H384.286V485.603H418.981V480.539Z" fill="#D1DADE"/>
+<path d="M624.849 480.539H601.719V485.603H624.849V480.539Z" fill="#D1DADE"/>
+<path d="M418.981 470.409H384.286V475.473H418.981V470.409Z" fill="#D1DADE"/>
+<path d="M624.849 470.409H601.719V475.473H624.849V470.409Z" fill="#D1DADE"/>
+<path d="M671.106 440.032H647.976V445.097H671.106V440.032Z" fill="#D1DADE"/>
+<path d="M671.106 419.781H647.976V424.845H671.106V419.781Z" fill="#D1DADE"/>
+<path d="M671.106 450.167H647.976V455.231H671.106V450.167Z" fill="#D1DADE"/>
+<path d="M671.106 429.908H647.976V434.973H671.106V429.908Z" fill="#D1DADE"/>
+<path d="M671.106 460.288H647.976V465.352H671.106V460.288Z" fill="#D1DADE"/>
+<path d="M671.106 480.539H647.976V485.603H671.106V480.539Z" fill="#D1DADE"/>
+<path d="M671.106 470.409H647.976V475.473H671.106V470.409Z" fill="#D1DADE"/>
+<path d="M578.58 440.032H555.45V445.097H578.58V440.032Z" fill="#D1DADE"/>
+<path d="M578.58 419.781H543.885V424.846H578.58V419.781Z" fill="#D1DADE"/>
+<path d="M578.58 450.167H543.885V455.231H578.58V450.167Z" fill="#D1DADE"/>
+<path d="M578.58 429.908H555.45V434.973H578.58V429.908Z" fill="#D1DADE"/>
+<path d="M578.58 460.288H543.885V465.352H578.58V460.288Z" fill="#D1DADE"/>
+<path d="M578.58 480.539H555.45V485.603H578.58V480.539Z" fill="#D1DADE"/>
+<path d="M578.58 470.409H555.45V475.473H578.58V470.409Z" fill="#D1DADE"/>
+<path d="M476.814 460.288H442.119V465.352H476.814V460.288Z" fill="#D1DADE"/>
+<path d="M488.379 480.539H442.119V485.603H488.379V480.539Z" fill="#D1DADE"/>
+<path d="M476.814 470.409H442.119V475.473H476.814V470.409Z" fill="#D1DADE"/>
+<rect x="377.348" y="392.437" width="300.69" height="21.2652" fill="#F7F7F7"/>
+<path d="M418.981 400.544H384.286V405.608H418.981V400.544Z" fill="#D1DADE"/>
+<path d="M476.814 400.544H442.119V405.608H476.814V400.544Z" fill="#D1DADE"/>
+<path d="M578.58 400.544H543.885V405.608H578.58V400.544Z" fill="#D1DADE"/>
+<path d="M624.849 400.544H590.154V405.608H624.849V400.544Z" fill="#D1DADE"/>
+<path d="M671.106 400.544H636.411V405.608H671.106V400.544Z" fill="#D1DADE"/>
+<path d="M359.494 192.024C359.494 186.332 363.309 181.719 369.306 181.719H686.676C692.673 181.719 695.441 186.332 695.441 192.024V328.049C695.441 333.74 692.673 338.354 686.676 338.354H369.306C363.309 338.354 359.494 333.74 359.494 328.049V192.024Z" fill="white"/>
+<path d="M463.1 324.258H444.262V327.391H463.1V324.258Z" fill="#CCD6DB"/>
+<path d="M551.02 324.258H533.752V327.391H551.02V324.258Z" fill="#CCD6DB"/>
+<path d="M594.966 324.258H577.697V327.391H594.966V324.258Z" fill="#CCD6DB"/>
+<path d="M507.056 324.258H488.218V327.391H507.056V324.258Z" fill="#CCD6DB"/>
+<path d="M638.926 324.258H620.088V327.391H638.926V324.258Z" fill="#CCD6DB"/>
+<path d="M416.013 225.576H384.616V231.842H416.013V225.576Z" fill="#CCD6DB"/>
+<path d="M416.013 250.639H384.616V256.904H416.013V250.639Z" fill="#CCD6DB"/>
+<path d="M416.013 275.699H384.616V281.965H416.013V275.699Z" fill="#CCD6DB"/>
+<path d="M416.013 300.762H384.616V307.027H416.013V300.762Z" fill="#CCD6DB"/>
+<rect x="422.319" y="205.851" width="244.42" height="23.3524" fill="white"/>
+<rect x="422.295" y="292.92" width="244.896" height="21.9289" fill="white"/>
+<rect x="422.295" y="270.998" width="244.896" height="21.9289" fill="#F7F7F7"/>
+<rect x="422.295" y="249.068" width="244.896" height="21.9289" fill="white"/>
+<rect x="422.295" y="227.139" width="244.896" height="21.9289" fill="#F7F7F7"/>
+<rect x="441.129" y="225.569" width="25.1175" height="90.8485" fill="#37B5B3"/>
+<rect x="485.084" y="266.297" width="25.1175" height="50.1233" fill="#00A65C"/>
+<rect x="529.04" y="281.962" width="25.1175" height="34.4598" fill="#FFB500"/>
+<rect x="572.997" y="292.92" width="25.1175" height="23.4953" fill="#EF6700"/>
+<rect x="616.954" y="303.886" width="25.1175" height="12.5308" fill="#2982A6"/>
+<line x1="422.295" y1="316.106" x2="667.191" y2="316.106" stroke="#D1DADE" stroke-width="0.626549"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="14.0973" font-weight="bold" letter-spacing="0px"><tspan x="378.327" y="208.209">AP Analysis</tspan></text>
+<path d="M12.5693 192.024C12.5693 186.332 16.3841 181.719 22.3809 181.719H339.751C345.748 181.719 348.516 186.332 348.516 192.024V328.049C348.516 333.74 345.748 338.354 339.751 338.354H22.3809C16.3841 338.354 12.5693 333.74 12.5693 328.049V192.024Z" fill="white"/>
+<path d="M69.0883 225.576H37.6914V231.842H69.0883V225.576Z" fill="#CCD6DB"/>
+<path d="M69.0883 250.64H37.6914V256.905H69.0883V250.64Z" fill="#CCD6DB"/>
+<path d="M69.0883 275.699H37.6914V281.965H69.0883V275.699Z" fill="#CCD6DB"/>
+<path d="M69.0883 300.762H37.6914V307.027H69.0883V300.762Z" fill="#CCD6DB"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="14.0973" font-weight="bold" letter-spacing="0px"><tspan x="31.4023" y="208.209">Customer Aging</tspan></text>
+<path d="M136.584 216.183H186.819V319.562H136.584V216.183Z" fill="#F7F7F7"/>
+<path d="M227.642 216.183H277.877V319.562H227.642V216.183Z" fill="#F7F7F7"/>
+<path d="M266.887 219.313L266.887 238.11L81.645 238.11L81.645 219.313L266.887 219.313Z" fill="#44ED90"/>
+<path d="M326.543 244.375L326.543 263.171L81.6472 263.171L81.6472 244.375L326.543 244.375Z" fill="#00CA71"/>
+<path d="M254.331 269.436L254.331 288.233L81.6481 288.233L81.6481 269.436L254.331 269.436Z" fill="#008347"/>
+<path d="M194.674 294.498L194.674 313.294L81.645 313.294L81.645 294.498L194.674 294.498Z" fill="#004321"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81.0098 319.562L81.0098 216.183L81.6377 216.183L81.6377 319.562L81.0098 319.562Z" fill="#D1DADE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81.6461 318.931L332.821 318.931L332.821 319.559L81.6461 319.559L81.6461 318.931Z" fill="#D1DADE"/>
+<path d="M100.475 324.258H81.6367V327.391H100.475V324.258Z" fill="#CCD6DB"/>
+<path d="M191.529 324.258H174.261V327.391H191.529V324.258Z" fill="#CCD6DB"/>
+<path d="M237.051 324.258H219.782V327.391H237.051V324.258Z" fill="#CCD6DB"/>
+<path d="M146.009 324.258H127.171V327.391H146.009V324.258Z" fill="#CCD6DB"/>
+<path d="M284.156 324.258H265.318V327.391H284.156V324.258Z" fill="#CCD6DB"/>
+<path d="M329.678 324.258H310.84V327.391H329.678V324.258Z" fill="#CCD6DB"/>
+<path d="M12.5674 358.265C12.5674 352.46 18.8344 347.754 26.5652 347.754H334.516C342.247 347.754 348.514 352.46 348.514 358.265V497.011C348.514 502.816 342.247 507.522 334.516 507.522H26.5652C18.8344 507.522 12.5674 502.816 12.5674 497.011V358.265Z" fill="white"/>
+<path d="M150.801 408.75L143.493 402.074H105.718" stroke="#CCD6DB" stroke-width="0.646474" stroke-linecap="round"/>
+<path d="M205.354 405.423L212.662 398.747H240.419" stroke="#CCD6DB" stroke-width="0.646474" stroke-linecap="round"/>
+<path d="M220.921 435.466L225.635 428.79H249.307" stroke="#CCD6DB" stroke-width="0.646474" stroke-linecap="round"/>
+<path d="M199.774 471.066L201.425 484.418H215.359" stroke="#CCD6DB" stroke-width="0.646474" stroke-linecap="round"/>
+<path d="M219.598 450.478C217.251 458.037 212.789 464.767 206.737 469.871C200.686 474.975 193.298 478.24 185.449 479.281C177.6 480.321 169.616 479.093 162.443 475.742C155.27 472.391 149.207 467.056 144.97 460.369L157.581 452.388C160.292 456.667 164.172 460.081 168.763 462.226C173.354 464.371 178.463 465.157 183.487 464.491C188.511 463.825 193.238 461.735 197.111 458.469C200.984 455.202 203.841 450.895 205.342 446.057L219.598 450.478Z" fill="#008347"/>
+<path d="M219.471 450.878C221.451 444.72 221.962 438.184 220.962 431.793C219.962 425.403 217.479 419.335 213.713 414.076L201.576 422.76C203.986 426.126 205.575 430.009 206.215 434.099C206.855 438.189 206.528 442.372 205.261 446.313L219.471 450.878Z" fill="#44ED90"/>
+<path d="M213.794 414.189C209.944 408.776 204.85 404.366 198.939 401.332C193.028 398.298 186.474 396.728 179.829 396.755L179.89 411.675C184.143 411.657 188.337 412.662 192.12 414.603C195.903 416.545 199.164 419.368 201.628 422.832L213.794 414.189Z" fill="#58CAC7"/>
+<path d="M179.999 396.755C172.576 396.755 165.288 398.747 158.898 402.523C152.508 406.3 147.25 411.722 143.672 418.223C140.094 424.724 138.328 432.067 138.558 439.483C138.788 446.9 141.006 454.118 144.981 460.385L157.587 452.398C155.044 448.387 153.624 443.767 153.477 439.02C153.329 434.274 154.46 429.575 156.75 425.414C159.039 421.253 162.405 417.783 166.495 415.366C170.584 412.949 175.248 411.674 179.999 411.674L179.999 396.755Z" fill="#004321"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.39823" letter-spacing="0px"><tspan x="75.8505" y="403.427">Maine</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.39823" letter-spacing="0px"><tspan x="244.306" y="402.316">Florida</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.39823" letter-spacing="0px"><tspan x="254.315" y="432.352">California</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.39823" letter-spacing="0px"><tspan x="220.921" y="486.883">Texas</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="14.0973" font-weight="bold" letter-spacing="0px"><tspan x="31.4004" y="374.244">Revenue by Entity</tspan></text>
+</g>
+<path d="M0 33.9736H708V84.906H0V33.9736Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M706.865 35.1055H1.13462V83.7741H706.865V35.1055ZM0 33.9736V84.906H708V33.9736H0Z" fill="#E6EBED"/>
+<path d="M0 22.6591C0 10.1572 10.1597 0.0224609 22.6923 0.0224609H685.308C697.84 0.0224609 708 10.1572 708 22.6591V33.9774H0V22.6591Z" fill="#333333"/>
+<rect x="521.2" y="45.7093" width="91.0672" height="24.0637" fill="#F7F7F7"/>
+<rect x="521.2" y="45.7093" width="91.0672" height="24.0637" stroke="#CCD6DB" stroke-width="0.836607"/>
+<path d="M573.07 54.0811H531.239V61.4014H573.07V54.0811Z" fill="#CCD6DB"/>
+<g clip-path="url(#clip0_1303_31581)">
+<path d="M593.668 56.1654V62.1981H584.883V56.1654H593.668ZM595.024 54.8706H583.526V63.4929H595.024V54.8706Z" fill="black"/>
+<path d="M595.03 53.4004H583.526V55.4635H595.03V53.4004Z" fill="black"/>
+<path d="M587.727 52.2615H584.895V54.8748H587.727V52.2615Z" fill="white"/>
+<path d="M587.067 51.9895H585.568V54.2532H587.067V51.9895Z" fill="black"/>
+<path d="M593.656 52.2615H590.823V54.8749H593.656V52.2615Z" fill="white"/>
+<path d="M592.989 51.9895H591.49V54.2533H592.989V51.9895Z" fill="black"/>
+<path d="M587.875 57.0737H586.376V58.8045H587.875V57.0737Z" fill="black"/>
+<path d="M590.024 57.0757H588.525V58.8065H590.024V57.0757Z" fill="black"/>
+<path d="M590.025 59.5562H588.526V61.2869H590.025V59.5562Z" fill="black"/>
+<path d="M592.18 57.0757H590.681V58.8065H592.18V57.0757Z" fill="black"/>
+<path d="M587.875 59.5562H586.376V61.2869H587.875V59.5562Z" fill="black"/>
+<path d="M592.179 59.5562H590.68V61.2869H592.179V59.5562Z" fill="black"/>
+</g>
+<path d="M680.78 54.3574H635.396V60.0179H680.78V54.3574Z" fill="#D1DADE"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="21.9292" font-weight="bold" letter-spacing="0em"><tspan x="37.2246" y="66.471">Controller Dashboard</tspan></text>
+<path d="M30.6298 57.1938C30.6298 59.3816 28.8519 61.1552 26.6587 61.1552C24.4654 61.1552 22.6875 59.3816 22.6875 57.1938C22.6875 55.006 24.4654 53.2324 26.6587 53.2324C28.8519 53.2324 30.6298 55.006 30.6298 57.1938Z" fill="#00D639"/>
+<path d="M15.6992 106.531C15.6992 99.6103 21.3095 94 28.2302 94H681.341C688.262 94 693.872 99.6103 693.872 106.531V156.654C693.872 163.575 688.262 169.185 681.341 169.185H28.2302C21.3095 169.185 15.6992 163.575 15.6992 156.654V106.531Z" fill="white"/>
+<line x1="157.382" y1="103.395" x2="157.382" y2="159.783" stroke="#E6EBED" stroke-width="0.783186"/>
+<line x1="289.239" y1="103.395" x2="289.239" y2="159.783" stroke="#E6EBED" stroke-width="0.783186"/>
+<line x1="421.107" y1="103.395" x2="421.107" y2="159.783" stroke="#E6EBED" stroke-width="0.783186"/>
+<line x1="552.977" y1="103.395" x2="552.977" y2="159.783" stroke="#E6EBED" stroke-width="0.783186"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.5033" letter-spacing="0px"><tspan x="37.6777" y="117.986">Cash on Hand</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.6637" font-weight="bold" letter-spacing="0px"><tspan x="36.9131" y="142.361">$5,086,913</tspan></text>
+<rect width="17.7779" height="18.8236" transform="translate(127.178 126.888)" fill="white"/>
+<line x1="136.03" y1="132.739" x2="136.03" y2="142.998" stroke="#00D639" stroke-width="3.06407" stroke-linecap="round"/>
+<path d="M141.818 134.74L136.597 129.7C136.301 129.415 135.832 129.415 135.537 129.7L130.315 134.74" stroke="#00D639" stroke-width="3.06765" stroke-linecap="round"/>
+<path d="M79.5081 152.065H37.6777V157.294H79.5081V152.065Z" fill="#CCD6DB"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.5033" letter-spacing="0px"><tspan x="169.546" y="117.986">Revenue YTD</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.6637" font-weight="bold" letter-spacing="0px"><tspan x="168.781" y="142.361">$1,015,540</tspan></text>
+<rect width="17.7779" height="18.8236" transform="translate(259.046 126.888)" fill="white"/>
+<line x1="267.898" y1="132.739" x2="267.898" y2="142.998" stroke="#00D639" stroke-width="3.06407" stroke-linecap="round"/>
+<path d="M273.687 134.74L268.465 129.7C268.169 129.415 267.7 129.415 267.405 129.7L262.183 134.74" stroke="#00D639" stroke-width="3.06765" stroke-linecap="round"/>
+<path d="M211.376 152.065H169.546V157.294H211.376V152.065Z" fill="#CCD6DB"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.5033" letter-spacing="0px"><tspan x="301.415" y="117.986">Cost of Sales</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.6637" font-weight="bold" letter-spacing="0px"><tspan x="301.415" y="142.361">$32,868</tspan></text>
+<rect width="17.7779" height="18.8236" transform="translate(368.681 126.888)" fill="white"/>
+<line x1="377.533" y1="132.739" x2="377.533" y2="142.998" stroke="#00D639" stroke-width="3.06407" stroke-linecap="round"/>
+<path d="M383.321 134.74L378.1 129.7C377.804 129.415 377.335 129.415 377.039 129.7L371.818 134.74" stroke="#00D639" stroke-width="3.06765" stroke-linecap="round"/>
+<path d="M343.245 152.065H301.415V157.294H343.245V152.065Z" fill="#CCD6DB"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.5033" letter-spacing="0px"><tspan x="433.272" y="117.986">Gross Profit</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.6637" font-weight="bold" letter-spacing="0px"><tspan x="433.272" y="142.361">$982,671</tspan></text>
+<rect width="17.7779" height="18.8236" transform="translate(509.538 126.888)" fill="white"/>
+<line x1="518.39" y1="132.739" x2="518.39" y2="142.998" stroke="#00D639" stroke-width="3.06407" stroke-linecap="round"/>
+<path d="M524.179 134.74L518.957 129.7C518.661 129.415 518.193 129.415 517.897 129.7L512.675 134.74" stroke="#00D639" stroke-width="3.06765" stroke-linecap="round"/>
+<path d="M475.103 152.065H433.272V157.294H475.103V152.065Z" fill="#CCD6DB"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.5033" letter-spacing="0px"><tspan x="565.141" y="117.986">Net Income YTD</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.6637" font-weight="bold" letter-spacing="0px"><tspan x="565.141" y="142.361">$815,481</tspan></text>
+<rect width="17.7779" height="18.8236" transform="translate(641.406 126.888)" fill="white"/>
+<line x1="650.259" y1="132.739" x2="650.259" y2="142.998" stroke="#00D639" stroke-width="3.06407" stroke-linecap="round"/>
+<path d="M656.047 134.74L650.825 129.7C650.53 129.415 650.061 129.415 649.765 129.7L644.544 134.74" stroke="#00D639" stroke-width="3.06765" stroke-linecap="round"/>
+<path d="M606.971 152.065H565.141V157.294H606.971V152.065Z" fill="#CCD6DB"/>
+<defs>
+<filter id="filter0_d_1303_31581" x="26.5041" y="463.933" width="654.993" height="117.727" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="20.7508"/>
+<feGaussianBlur stdDeviation="17.2924"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1303_31581"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1303_31581" result="shape"/>
+</filter>
+<clipPath id="clip0_1303_31581">
+<rect width="11.5033" height="11.5033" fill="white" transform="translate(583.526 51.9895)"/>
+</clipPath>
+</defs>
+</svg>

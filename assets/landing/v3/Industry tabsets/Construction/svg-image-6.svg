@@ -1,0 +1,91 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink"  class=" responsive-svg" aria-hidden="true" width="708" height="498" viewBox="0 0 708 498" fill="none" xmlns="http://www.w3.org/2000/svg" id="svgembed-5283927cd51041549aa10a776f61d79f-0">
+<g clip-path="url(#clip0_678_64838)">
+<path d="M24 0.501953H684C696.978 0.501953 707.498 11.0224 707.498 24V474C707.498 486.978 696.978 497.498 684 497.498H24C11.0224 497.498 0.501953 486.978 0.501953 474V24C0.501961 11.0224 11.0224 0.501953 24 0.501953Z" fill="#F2F5F6" stroke="#E2E2E2" stroke-width="1.00394"></path>
+<path d="M16 90C16 87.7909 17.7909 86 20 86H688C690.209 86 692 87.7909 692 90V150.869V211C692 213.209 690.209 215 688 215H20C17.7908 215 16 213.209 16 211V90Z" fill="white"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.0793 110.179C42.1508 110.175 42.2222 110.162 42.2929 110.141C42.4477 110.094 42.5826 110.022 42.8096 109.81L48.2096 104.413C48.5016 104.121 48.5869 103.97 48.6405 103.793C48.6941 103.616 48.6941 103.435 48.6405 103.258C48.5936 103.104 48.5224 102.969 48.3097 102.742L48.2096 102.639L47.8625 102.291C47.5705 101.999 47.4196 101.914 47.2427 101.861C47.0658 101.807 46.885 101.807 46.7081 101.861C46.5534 101.907 46.4184 101.979 46.1915 102.191L46.0883 102.291L42.0003 106.378L37.9128 102.291C37.6208 101.999 37.4698 101.914 37.2929 101.861C37.1161 101.807 36.9352 101.807 36.7584 101.861C36.5815 101.914 36.4305 101.999 36.1385 102.291L35.7915 102.639C35.4995 102.931 35.4141 103.081 35.3605 103.258C35.3069 103.435 35.3069 103.616 35.3605 103.793C35.4141 103.97 35.4995 104.121 35.7915 104.413L41.0883 109.71C41.3803 110.002 41.5312 110.087 41.7081 110.141C41.7788 110.162 41.8502 110.175 41.9217 110.179H42.0793Z" fill="#1B1B1B"></path>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="58" y="111.692">Summary</tspan></text>
+<path d="M16 271C16 268.791 17.7909 267 20 267H688C690.209 267 692 268.791 692 271V375.114V478C692 480.209 690.209 482 688 482H20C17.7908 482 16 480.209 16 478V271Z" fill="white"></path>
+<g clip-path="url(#clip1_678_64838)">
+<g clip-path="url(#clip2_678_64838)">
+<rect x="32.5" y="307.5" width="80" height="65" fill="#E7EBEE" stroke="#E2E2E2"></rect>
+<rect x="42.5" y="343.5" width="60" height="19" fill="white" stroke="#C6C6C6"></rect>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="42" y="328.644">Record ID</tspan></text>
+<rect x="113.5" y="307.5" width="132" height="65" fill="#E7EBEE" stroke="#E2E2E2"></rect>
+<rect x="123.5" y="343.5" width="109" height="19" fill="white" stroke="#C6C6C6"></rect>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="123" y="328.644">Project</tspan></text>
+<rect x="246.5" y="307.5" width="132" height="65" fill="#E7EBEE" stroke="#E2E2E2"></rect>
+<rect x="256.5" y="343.5" width="109" height="19" fill="white" stroke="#C6C6C6"></rect>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="256" y="328.644">Project manager</tspan></text>
+<rect x="379.5" y="307.5" width="98" height="65" fill="#E7EBEE" stroke="#E2E2E2"></rect>
+<rect x="389.5" y="343.5" width="78" height="19" fill="white" stroke="#C6C6C6"></rect>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="389" y="328.644">Estimated cost</tspan></text>
+<rect x="478.5" y="307.5" width="98" height="65" fill="#E7EBEE" stroke="#E2E2E2"></rect>
+<rect x="488.5" y="343.5" width="78" height="19" fill="white" stroke="#C6C6C6"></rect>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="488" y="328.644">Total contract..</tspan></text>
+<rect x="577.5" y="307.5" width="98" height="65" fill="#E7EBEE" stroke="#E2E2E2"></rect>
+<rect x="587.5" y="343.5" width="78" height="19" fill="white" stroke="#C6C6C6"></rect>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="587" y="328.644">PM forecast c..</tspan></text>
+</g>
+<rect x="32.5" y="372.5" width="643" height="29" fill="#F1F5F6" stroke="#E2E2E2"></rect>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="45" y="391.644">144</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="123" y="391.644">24-003--Big Yellow S..</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="256" y="391.644">EMP10025--Allen, Pa..</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="389" y="391.644">1,068,885.00</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="587" y="391.644">1,068,885.00</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="488" y="391.644">1,270,800.00</tspan></text>
+<rect x="32.5" y="401.5" width="643" height="29" fill="white" stroke="#E2E2E2"></rect>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="45" y="420.644">145</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="123" y="420.644">24-003--Travelodge ..</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="256" y="420.644">EMP10022--Jones, A..</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="389" y="420.644">937,838.75</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="587" y="420.644">937,838.75</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="488" y="420.644">937,575.00</tspan></text>
+<rect x="32.5" y="430.5" width="643" height="29" fill="#F1F5F6" stroke="#E2E2E2"></rect>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="45" y="449.644">146</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="123" y="449.644">24-004--Barratt Ho..</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="256" y="449.644">EMP10025--Allen, Pa..</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="389" y="449.644">793,514.54</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="587" y="449.644">793,514.54</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="488" y="449.644">174,400.00</tspan></text>
+<rect x="32.5" y="459.5" width="643" height="29" fill="white" stroke="#E2E2E2"></rect>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="45" y="478.644">147</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="123" y="478.644">24-006--Best West..</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="256" y="478.644">EMP10022--Jones, A..</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="389" y="478.644">285.138.99</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="587" y="478.644">285.138.99</tspan></text>
+<text fill="#008146" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="488" y="478.644">327,110.00</tspan></text>
+</g>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="32" y="292.692">WIP projects</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="18" font-weight="bold" letter-spacing="0px"><tspan x="16" y="65.966">Edit WIP schedule</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="116" y="245.692">Post preview</tspan></text>
+<path d="M0 24C0 10.7452 10.7452 0 24 0H684C697.255 0 708 10.7452 708 24V32H0V24Z" fill="#303030"></path>
+<line x1="32" y1="125.5" x2="676" y2="125.5" stroke="#C6C6C6"></line>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="35" y="149.644">Period name:
+</tspan><tspan x="35" y="163.644">Month Ended April 2026</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="35" y="186.644">Period end:
+</tspan><tspan x="35" y="200.644">30/04/2026</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="185" y="149.644">Comment</tspan></text>
+<rect x="185.5" y="157.5" width="143" height="19" fill="white" stroke="#C6C6C6"></rect>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="185" y="193.644">End-of-year WIP schedule</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="351" y="149.644">State:
+</tspan><tspan x="351" y="163.644">Unposted
+</tspan><tspan x="351" y="177.644">Prior period WIP schedule</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="507" y="149.644">Last refresh
+</tspan><tspan x="507" y="163.644">09/05/2026</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12" letter-spacing="0px"><tspan x="507" y="186.644">Level of detail for project costs:
+</tspan><tspan x="507" y="200.644">Tasks and cost types</tspan></text>
+<text fill="black" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="21" y="245.692">Overview</tspan></text>
+<line x1="18" y1="252" x2="92" y2="252" stroke="#008146" stroke-width="2"></line>
+</g>
+<defs>
+<clipPath id="clip0_678_64838">
+<rect width="708" height="498" fill="white"></rect>
+</clipPath>
+<clipPath id="clip1_678_64838">
+<rect width="644" height="175" fill="white" transform="translate(32 307)"></rect>
+</clipPath>
+<clipPath id="clip2_678_64838">
+<rect width="644" height="66" fill="white" transform="translate(32 307)"></rect>
+</clipPath>
+</defs>
+</svg>

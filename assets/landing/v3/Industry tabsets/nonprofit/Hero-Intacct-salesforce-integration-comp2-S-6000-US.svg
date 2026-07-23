@@ -1,0 +1,82 @@
+<svg width="708" height="638" viewBox="0 0 708 638" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1300_35006)">
+<rect x="60.8096" y="425.751" width="584.933" height="81.0953" rx="28.9989" fill="white"/>
+</g>
+<mask id="mask0_1300_35006" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="708" height="507">
+<rect width="708" height="506.846" rx="23.1991" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_1300_35006)">
+<rect x="-0.905556" y="0.543175" width="708.362" height="625.954" rx="21.1838" fill="white" stroke="#E2E2E2" stroke-width="1.08635"/>
+<path d="M66.8962 109.027H639.652C641.152 109.027 642.368 110.243 642.368 111.743V604.8H64.1804V111.743C64.1806 110.243 65.3965 109.027 66.8962 109.027Z" fill="white" stroke="#E6EBED" stroke-width="1.08635"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.2089" font-weight="500" letter-spacing="0px"><tspan x="86.4172" y="211.245">Reseller Account Types</tspan></text>
+<rect x="513.009" y="210.459" width="107.935" height="23.3234" fill="white"/>
+<rect x="513.009" y="210.459" width="107.935" height="23.3234" stroke="#D1DADE" stroke-width="0.543175"/>
+<rect x="520.342" y="218.319" width="54.3175" height="7.60445" fill="#D1DADE"/>
+<g clip-path="url(#clip0_1300_35006)">
+<rect width="10.8635" height="11.9498" transform="translate(602.747 216.146)" fill="white"/>
+<path d="M603.834 220.491L607.795 224.453C608.007 224.665 608.351 224.665 608.563 224.453L612.525 220.491" stroke="#99ADB7" stroke-width="1.30362" stroke-linecap="round"/>
+</g>
+<rect x="85.3335" y="225.655" width="303.739" height="7.59493" fill="#D1DADE"/>
+<rect x="85.3335" y="238.667" width="229.974" height="7.59493" fill="#D1DADE"/>
+<path d="M631.52 267.956H75.0285C74.7285 267.956 74.4853 268.199 74.4853 268.499C74.4853 268.799 74.7285 269.042 75.0284 269.042H631.52C631.82 269.042 632.064 268.799 632.064 268.499C632.064 268.199 631.82 267.956 631.52 267.956Z" fill="#E6EBED"/>
+<path d="M631.52 180.075H75.0285C74.7285 180.075 74.4853 180.318 74.4853 180.618C74.4853 180.918 74.7285 181.161 75.0284 181.161H631.52C631.82 181.161 632.064 180.918 632.064 180.618C632.064 180.318 631.82 180.075 631.52 180.075Z" fill="#E6EBED"/>
+<path d="M134.148 177.903H74.4853V181.158H134.148V177.903Z" fill="#00A65C"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.8635" letter-spacing="0px"><tspan x="85.3335" y="167.998">General</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.8635" letter-spacing="0px"><tspan x="144.995" y="167.998">Order Entry</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.8635" letter-spacing="0px"><tspan x="222.016" y="167.998">Contact</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.8635" letter-spacing="0px"><tspan x="282.764" y="167.998">Object Field Mappings</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.2089" font-weight="500" letter-spacing="0px"><tspan x="86.4172" y="295.866">Sync Records for Unmapped Users</tspan></text>
+<rect x="85.3335" y="310.27" width="303.739" height="7.59493" fill="#D1DADE"/>
+<rect x="85.3335" y="323.281" width="229.974" height="7.59493" fill="#D1DADE"/>
+<path d="M631.52 352.577H75.0285C74.7285 352.577 74.4853 352.82 74.4853 353.12C74.4853 353.42 74.7285 353.663 75.0284 353.663H631.52C631.82 353.663 632.064 353.42 632.064 353.12C632.064 352.82 631.82 352.577 631.52 352.577Z" fill="#E6EBED"/>
+<text fill="#303D64" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.6908" letter-spacing="0px"><tspan x="587.604" y="318.633">Disabled</tspan></text>
+<rect x="587.59" y="292.921" width="32.5435" height="13.0181" rx="6.50907" fill="#A2AAB5"/>
+<ellipse cx="594.096" cy="299.422" rx="5.42391" ry="5.42423" fill="white"/>
+<path d="M66.8958 109.027H639.652C641.152 109.027 642.367 110.243 642.367 111.743V140.486H64.18V111.743C64.1801 110.243 65.3961 109.027 66.8958 109.027Z" fill="#F7F7F7" stroke="#E6EBED" stroke-width="1.08635"/>
+<path d="M328.865 109.027V140.486H173.743V109.027H328.865Z" fill="white" stroke="#E6EBED" stroke-width="1.08635"/>
+<path d="M174.285 130.182H328.324V141.031H174.285V130.182Z" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.0872" letter-spacing="0px"><tspan x="85.3334" y="127.949">Main Settings</tspan></text>
+<text fill="#006738" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.0872" letter-spacing="0px" text-decoration="underline"><tspan x="194.896" y="127.949">Intacct Synchronization</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.8635" letter-spacing="0px"><tspan x="351.104" y="127.863">Renewal</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.8635" letter-spacing="0px"><tspan x="434.634" y="127.863">Custom Mappings</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.2089" font-weight="500" letter-spacing="0px"><tspan x="86.4172" y="378.321">Add New Accounts to Intacct</tspan></text>
+<rect x="85.3335" y="392.725" width="303.739" height="7.59493" fill="#D1DADE"/>
+<rect x="85.3335" y="405.736" width="229.974" height="7.59493" fill="#D1DADE"/>
+<path d="M631.52 435.032H75.0285C74.7285 435.032 74.4853 435.275 74.4853 435.575C74.4853 435.875 74.7285 436.118 75.0284 436.118H631.52C631.82 436.118 632.064 435.875 632.064 435.575C632.064 435.275 631.82 435.032 631.52 435.032Z" fill="#E6EBED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M607.114 380.79H596.266V382.96H607.114V380.79ZM605.062 394.269C604.012 393.793 602.887 393.554 601.69 393.554C600.492 393.554 599.368 393.793 598.317 394.269C597.255 394.746 596.331 395.399 595.546 396.227C594.76 397.055 594.141 398.029 593.689 399.15C593.237 400.258 593.011 401.444 593.011 402.707C593.011 403.97 593.237 405.155 593.689 406.263C594.141 407.384 594.76 408.358 595.546 409.186C596.331 410.015 597.255 410.667 598.317 411.144C599.368 411.62 600.492 411.859 601.69 411.859C602.887 411.859 604.012 411.62 605.062 411.144C606.125 410.667 607.049 410.015 607.834 409.186C608.619 408.358 609.238 407.384 609.69 406.263C610.142 405.155 610.368 403.97 610.368 402.707C610.368 401.444 610.142 400.258 609.69 399.15C609.238 398.029 608.619 397.055 607.834 396.227C607.049 395.399 606.125 394.746 605.062 394.269Z" fill="#A2AAB5"/>
+<text fill="#303D64" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.6908" letter-spacing="0px"><tspan x="587.604" y="401.088">Disabled</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="15.2089" font-weight="500" letter-spacing="0px"><tspan x="86.4172" y="461.846">Sync Account / Contact First</tspan></text>
+<rect x="85.3335" y="476.25" width="303.739" height="7.59493" fill="#D1DADE"/>
+<rect x="85.3335" y="489.261" width="229.974" height="7.59493" fill="#D1DADE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M605.062 482.351C604.012 481.874 602.887 481.636 601.69 481.636C600.492 481.636 599.368 481.874 598.317 482.351C597.255 482.827 596.331 483.48 595.546 484.308C594.76 485.136 594.141 486.111 593.689 487.231C593.237 488.339 593.011 489.525 593.011 490.788C593.011 492.051 593.237 493.236 593.689 494.345C594.141 495.465 594.76 496.439 595.546 497.268C596.331 498.096 597.255 498.748 598.317 499.225C599.368 499.702 600.492 499.94 601.69 499.94C602.887 499.94 604.012 499.702 605.062 499.225C606.125 498.748 607.049 498.096 607.834 497.268C608.619 496.439 609.238 495.465 609.69 494.345C610.142 493.236 610.368 492.051 610.368 490.788C610.368 489.525 610.142 488.339 609.69 487.231C609.238 486.111 608.619 485.136 607.834 484.308C607.049 483.48 606.125 482.827 605.062 482.351ZM600.165 491.859L605.521 486.211L607.063 487.838L600.148 495.113L598.623 493.486L596.266 490.983L597.809 489.374L600.165 491.859Z" fill="#008C4E"/>
+<text fill="#303D64" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.6908" letter-spacing="0px"><tspan x="588.885" y="484.614">Enabled</tspan></text>
+<path d="M686.303 96.5493H20.2468V99.8043H686.303V96.5493Z" fill="#E2E2E2"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="13.0362" font-weight="500" letter-spacing="0px"><tspan x="48.4509" y="85.7369">Sage Intacct</tspan></text>
+<path opacity="0.1" d="M513.823 70.5205H394.497V96.5568H513.823V70.5205Z" fill="#A4FBC2"/>
+<path d="M513.823 67.2656H394.497V70.5206H513.823V67.2656Z" fill="#008146"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10.8635" letter-spacing="0px"><tspan x="403.174" y="86.6439">Intacct Configuration</tspan></text>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23.5 78.1217V74.8672H20.2456V78.1217H23.5ZM23.5 79.749V83.0035H20.2456V79.749H23.5ZM23.5 84.6308V87.8853H20.2456V84.6308H23.5ZM28.3815 84.6308V87.8853H25.1271V84.6308H28.3815ZM33.263 87.8853V84.6308H30.0086V87.8853H33.263ZM28.3815 83.0035V79.749H25.1271V83.0035H28.3815ZM33.263 79.749V83.0035H30.0086V79.749H33.263ZM28.3815 74.8672V78.1217H25.1271V74.8672H28.3815ZM33.263 78.1217V74.8672H30.0086V78.1217H33.263Z" fill="black"/>
+<path d="M211.168 78.1121H156.928V85.707H211.168V78.1121Z" fill="#D1DADE"/>
+<path d="M290.357 78.1121H236.118V85.707H290.357V78.1121Z" fill="#D1DADE"/>
+<path d="M369.546 78.1121H315.307V85.707H369.546V78.1121Z" fill="#D1DADE"/>
+<path d="M596.265 78.1121H542.025V85.707H596.265V78.1121Z" fill="#D1DADE"/>
+<path d="M675.454 78.1121H621.215V85.707H675.454V78.1121Z" fill="#D1DADE"/>
+<path d="M25.6792 47.8332C26.4928 46.9226 27.6806 46.3391 28.9834 46.3391C30.6757 46.3391 32.1879 47.3688 32.9852 48.8617C33.6686 48.5185 34.4496 48.3469 35.2643 48.3469C38.3549 48.3469 40.8607 51.0239 40.8607 54.3187C40.8607 57.6134 38.3538 60.2904 35.2459 60.2904C34.8716 60.2904 34.4984 60.2401 34.1394 60.1715C33.4397 61.51 32.1054 62.4023 30.5596 62.4023C29.9087 62.4023 29.3067 62.2307 28.7697 61.9733C28.0548 63.7419 26.3951 64.9752 24.4577 64.9752C22.4411 64.9752 20.7152 63.6378 20.0643 61.7502C19.7714 61.82 19.4785 61.836 19.1694 61.836C16.7785 61.836 14.8248 59.7768 14.8248 57.2027C14.8248 55.4867 15.7046 53.9938 17.0052 53.1872C16.7286 52.5351 16.5822 51.8144 16.5822 51.0754C16.5822 48.1238 18.8602 45.7568 21.6264 45.7568C23.2861 45.7568 24.718 46.5622 25.6618 47.8161" fill="#439BDA"/>
+<path d="M-1.44873 21.727C-1.44873 9.72751 8.27878 0 20.2783 0H686.272C698.272 0 707.999 9.72751 707.999 21.727V32.5454H-1.44873V21.727Z" fill="#333333"/>
+</g>
+<defs>
+<filter id="filter0_d_1300_35006" x="2.81186" y="402.552" width="700.928" height="197.091" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="34.7987"/>
+<feGaussianBlur stdDeviation="28.9989"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1300_35006"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1300_35006" result="shape"/>
+</filter>
+<clipPath id="clip0_1300_35006">
+<rect width="10.8635" height="11.9498" fill="white" transform="translate(602.747 216.146)"/>
+</clipPath>
+</defs>
+</svg>

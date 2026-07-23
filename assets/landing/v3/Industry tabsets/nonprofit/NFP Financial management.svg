@@ -1,0 +1,93 @@
+<svg width="708" height="540" viewBox="0 0 708 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1300_34593)">
+<mask id="mask0_1300_34593" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="708" height="540">
+<path d="M708 0H0V539.119H708V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1300_34593)">
+<g filter="url(#filter0_d_1300_34593)">
+<path d="M643.045 395.138H64.9541C52.9963 395.138 43.3027 404.832 43.3027 416.789V448.184C43.3027 460.142 52.9963 469.835 64.9541 469.835H643.045C655.003 469.835 664.697 460.142 664.697 448.184V416.789C664.697 404.832 655.003 395.138 643.045 395.138Z" fill="white"/>
+</g>
+<path d="M686.348 0.54129H21.6514C9.99257 0.54129 0.54126 9.9926 0.54126 21.6514V448.183C0.54126 459.842 9.99257 469.293 21.6514 469.293H686.348C698.007 469.293 707.458 459.842 707.458 448.183V21.6514C707.458 9.9926 698.007 0.54129 686.348 0.54129Z" fill="#F2F5F6" stroke="#E2E2E2" stroke-width="1.08257"/>
+<path d="M21.6514 114.211H686.349" stroke="#D1DADE" stroke-width="1.08257"/>
+<path d="M0 21.6514C0 9.69366 9.69365 0 21.6514 0H686.349C698.306 0 708 9.69365 708 21.6514V32.4771H0V21.6514Z" fill="#333333"/>
+<path d="M68.2018 111.505H21.6514V114.752H68.2018V111.505Z" fill="#0060A7"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12.9908" letter-spacing="0em"><tspan x="21.6514" y="105.083">Grant</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12.9908" letter-spacing="0em"><tspan x="80.6514" y="105.083">Additional info</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12.9908" letter-spacing="0em"><tspan x="187.651" y="105.083">Resources &#38; pricing</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12.9908" letter-spacing="0em"><tspan x="324.651" y="105.083">Grant summary</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12.9908" letter-spacing="0em"><tspan x="437.651" y="105.083">Invoice options</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="12.9908" letter-spacing="0em"><tspan x="548.651" y="105.083">Task</tspan></text>
+<path d="M682.752 135.541H25.2477C23.753 135.541 22.5413 136.753 22.5413 138.247V444.752C22.5413 446.246 23.753 447.458 25.2477 447.458H682.752C684.247 447.458 685.458 446.246 685.458 444.752V138.247C685.458 136.753 684.247 135.541 682.752 135.541Z" fill="white" stroke="#E6EBED" stroke-width="1.08257"/>
+<path d="M242.317 351.527H230.858V362.986H242.317V351.527Z" fill="white"/>
+<path d="M242.317 351.527H230.858V362.986H242.317V351.527Z" stroke="#D1DADE" stroke-width="0.541284"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10" letter-spacing="0em"><tspan x="246.587" y="360.997">Time Satisfaction Scheduled</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="381.054">Is there a right of return?</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="395.054">Yes</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="415.054">How Right of Return Identified</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="429.054">Contract</tspan></text>
+<g filter="url(#filter1_d_1300_34593)">
+<path d="M371.738 210H229.262C220.281 210 213 217.281 213 226.262V327.738C213 336.719 220.281 344 229.262 344H371.738C380.719 344 388 336.719 388 327.738V226.262C388 217.281 380.719 210 371.738 210Z" fill="white"/>
+</g>
+<path d="M371.738 176.542H229.262C220.58 176.542 213.542 183.58 213.542 192.262V327.738C213.542 336.42 220.58 343.458 229.262 343.458H371.738C380.42 343.458 387.458 336.42 387.458 327.738V192.262C387.458 183.58 380.42 176.542 371.738 176.542Z" fill="white" stroke="#E6EBED" stroke-width="1.08415"/>
+<path d="M707.458 33.0183H0.54126V80.6513H707.458V33.0183Z" fill="white" stroke="#E6EBED" stroke-width="1.08257"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.9999" y="194.798">Grant ID</tspan></text>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M82.5 196C81.879 196 81.2961 195.883 80.7512 195.648C80.2003 195.414 79.7212 195.093 79.314 194.686C78.9067 194.279 78.5859 193.8 78.3516 193.249C78.1172 192.704 78 192.121 78 191.5C78 190.879 78.1172 190.296 78.3516 189.751C78.5859 189.2 78.9067 188.721 79.314 188.314C79.7212 187.907 80.2003 187.586 80.7512 187.352C81.2961 187.117 81.879 187 82.5 187C83.121 187 83.7039 187.117 84.2488 187.352C84.7997 187.586 85.2787 187.907 85.686 188.314C86.0932 188.721 86.4141 189.2 86.6484 189.751C86.8828 190.296 87 190.879 87 191.5C87 192.121 86.8828 192.704 86.6484 193.249C86.4141 193.8 86.0932 194.279 85.686 194.686C85.2787 195.093 84.7997 195.414 84.2488 195.648C83.7039 195.883 83.121 196 82.5 196ZM83.0629 194.181V193.32C83.0629 193.284 83.0498 193.254 83.0235 193.227C82.9973 193.201 82.9665 193.188 82.9313 193.188H82.0701C82.0349 193.188 82.0041 193.201 81.9779 193.227C81.9516 193.254 81.9385 193.284 81.9385 193.32V194.181C81.9385 194.216 81.9516 194.247 81.9779 194.273C82.0041 194.299 82.0349 194.312 82.0701 194.312H82.9313C82.9665 194.312 82.9973 194.299 83.0235 194.273C83.0498 194.247 83.0629 194.216 83.0629 194.181ZM83.9018 191.118C83.817 191.232 83.7101 191.339 83.5811 191.439H83.5822L83.301 191.659C83.2485 191.7 83.2046 191.744 83.1694 191.791C83.1341 191.837 83.1077 191.89 83.0901 191.949L83.0726 192.155V192.485C83.073 192.526 83.0584 192.561 83.0287 192.59C82.9991 192.62 82.9639 192.634 82.923 192.634L82.0618 192.617C82.0386 192.617 82.0181 192.614 82.0005 192.608C81.9829 192.602 81.9683 192.59 81.9566 192.572C81.939 192.561 81.9272 192.545 81.9212 192.524C81.9152 192.503 81.9122 192.484 81.9122 192.467C81.9182 192.262 81.9285 192.059 81.9431 191.86C81.9578 191.661 81.9797 191.521 82.0089 191.438C82.0442 191.351 82.1029 191.26 82.185 191.166C82.2671 191.072 82.3755 190.973 82.5101 190.867L82.7649 190.674C82.7942 190.65 82.8234 190.624 82.8527 190.595C82.8819 190.565 82.9084 190.536 82.932 190.507C82.9672 190.454 82.9995 190.393 83.0287 190.322C83.058 190.252 83.0726 190.187 83.0726 190.129C83.0722 190.059 83.0561 189.967 83.0243 189.852C82.9924 189.738 82.821 189.681 82.5101 189.681C82.1992 189.681 82.0234 189.751 81.9825 189.892C81.9416 190.032 81.9212 190.144 81.9212 190.226C81.9216 190.267 81.9069 190.302 81.8773 190.331C81.8477 190.361 81.8124 190.375 81.7716 190.375L80.9627 190.384C80.9451 190.384 80.9259 190.381 80.9053 190.375C80.8847 190.369 80.8686 190.357 80.8569 190.34C80.8393 190.328 80.8275 190.312 80.8215 190.291C80.8155 190.271 80.8125 190.252 80.8125 190.234C80.8301 189.883 80.8697 189.594 80.9312 189.368C80.9927 189.143 81.1406 188.954 81.375 188.801C81.5156 188.708 81.6885 188.662 81.8936 188.665C82.0988 188.668 82.3039 188.67 82.509 188.67C82.7783 188.67 83.0053 188.673 83.1902 188.679C83.3751 188.685 83.5582 188.755 83.7397 188.89C83.9332 189.024 84.0592 189.188 84.1178 189.382C84.1762 189.575 84.2055 189.804 84.2055 190.068C84.2055 190.232 84.1967 190.39 84.1791 190.542C84.1614 190.695 84.1116 190.829 84.0294 190.947L83.9018 191.118Z" fill="black"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="260.137">Grant category</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="208.779">142</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="241.256">Federal Grant #1</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="274.21">Contract</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="291.531">Grant type</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="305.531">Grant </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="320.531">Description</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="334.531">WinterHolcombe Grant</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="349.531">Customer</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="363.531">C-108--Holcombe Foundation</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="378.531">Begin date</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="392.531">--</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="407.531">End date</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="421.531">--</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="37.8901" y="227.183">Grant name</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="231" y="208.779">140--Claremont Impact Study</tspan></text>
+<path d="M242.73 221.271H231.271V232.73H242.73V221.271Z" fill="white"/>
+<path d="M242.73 221.271H231.271V232.73H242.73V221.271Z" stroke="#D1DADE" stroke-width="0.541284"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="10" letter-spacing="0em"><tspan x="247" y="230.74">Invoice with parent</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="194.707">Parent grant</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="251.054">Restriction Expiration Years</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="265.054">&#x2013;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="285.054">First Restriction Expiration</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="299.054">&#x2013;</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="319.054">Temp Restriction Type</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" letter-spacing="0em"><tspan x="230.587" y="333.054">&#x2013;</tspan></text>
+<path d="M38 170.459H670" stroke="#D1DADE" stroke-width="1.08257"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="14" letter-spacing="0em"><tspan x="56" y="158.836">Grant info</tspan></text>
+<path d="M48 150.5H38V161.5H48V150.5Z" fill="white"/>
+<path d="M39 154.5L42.6464 158.146C42.8417 158.342 43.1583 158.342 43.3536 158.146L47 154.5" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="19.4862" font-weight="bold" letter-spacing="0em"><tspan x="22" y="63.5962">Grant Information</tspan></text>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1300_34593" x="-0.000125885" y="377.817" width="708" height="161.303" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="25.9817"/>
+<feGaussianBlur stdDeviation="21.6514"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1300_34593"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1300_34593" result="shape"/>
+</filter>
+<filter id="filter1_d_1300_34593" x="195.654" y="201.327" width="209.693" height="168.693" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="8.67316"/>
+<feGaussianBlur stdDeviation="8.67316"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1300_34593"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1300_34593" result="shape"/>
+</filter>
+<clipPath id="clip0_1300_34593">
+<rect width="708" height="540" fill="white"/>
+</clipPath>
+</defs>
+</svg>

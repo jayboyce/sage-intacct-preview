@@ -1,0 +1,164 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink"  class=" responsive-svg" aria-hidden="true" width="708" height="562" viewBox="0 0 708 562" fill="none" xmlns="http://www.w3.org/2000/svg" id="svgembed-4a80bd51e7644c12a3d34387f3747844-0">
+<g clip-path="url(#clip0_4108_9027)">
+<g filter="url(#filter0_d_4108_9027)">
+<rect x="57.7316" y="394.547" width="592.541" height="110.08" rx="21.798" fill="white"></rect>
+</g>
+<rect x="14.7074" y="0.544707" width="678.59" height="504.624" rx="21.2531" fill="#F2F5F6" stroke="#E2E2E2" stroke-width="1.0899"></rect>
+<path d="M36 205.079C36 197.856 41.8556 192 49.0788 192H658.921C666.144 192 672 197.856 672 205.079V365.921C672 373.144 666.144 379 658.921 379H49.0788C41.8556 379 36 373.144 36 365.921V205.079Z" fill="white"></path>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" font-weight="bold" letter-spacing="0px"><tspan x="57.7291" y="218.776">Additional Information</tspan></text>
+<path opacity="0.3" d="M176.173 286.98H57.7398V292.429H176.173V286.98Z" fill="#008146"></path>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="57.7261" y="279.169">Project ID</tspan></text>
+<path d="M382.061 287H263.627V292.45H382.061V287Z" fill="#CCD6DB"></path>
+<path opacity="0.3" d="M587.946 287H469.512V292.45H587.946V287Z" fill="#008146"></path>
+<path opacity="0.3" d="M587.945 321H469.512V326.45H587.945V321Z" fill="#008146"></path>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="263.593" y="278.718">Price effective date</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="469.456" y="278.718">Project contract ID</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="469.456" y="312.718">Project contract ID</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="57.7262" y="244.933">Change request ID</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="263.593" y="244.933">Description</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="469.456" y="244.933">Project contract line</tspan></text>
+<path d="M176.173 252.745H57.7399V258.195H176.173V252.745Z" fill="#CCD6DB"></path>
+<path d="M382.061 252.745H263.627V258.195H382.061V252.745Z" fill="#CCD6DB"></path>
+<path d="M587.946 252.745H469.512V258.195H587.946V252.745Z" fill="#CCD6DB"></path>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="57.7276" y="313.406">Change request date</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="263.591" y="313.406">Cost effective date</tspan></text>
+<path d="M123.102 321.215H57.7408V326.665H123.102V321.215Z" fill="#CCD6DB"></path>
+<path d="M328.986 321.215H263.626V326.665H328.986V321.215Z" fill="#CCD6DB"></path>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="57.7276" y="347.406">Change request type</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="263.591" y="347.406">Change request template</tspan></text>
+<path opacity="0.3" d="M123.102 355.215H57.7408V360.665H123.102V355.215Z" fill="#008146"></path>
+<path d="M328.986 355.215H263.626V360.665H328.986V355.215Z" fill="#CCD6DB"></path>
+<mask id="mask0_4108_9027" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="20" y="383" width="668" height="113">
+<path d="M20.6957 383.647H687.305V474.108C687.305 486.147 677.546 495.906 665.507 495.906H42.4937C30.455 495.906 20.6957 486.147 20.6957 474.108V383.647Z" fill="#C4C4C4"></path>
+</mask>
+<g mask="url(#mask0_4108_9027)">
+<path d="M35.9422 396.726C35.9422 389.502 41.7978 383.647 49.021 383.647H658.974C666.197 383.647 672.053 389.502 672.053 396.726V482.828C672.053 490.051 666.197 495.907 658.974 495.907H49.021C41.7978 495.907 35.9422 490.051 35.9422 482.828V396.726Z" fill="white"></path>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" font-weight="bold" letter-spacing="0px"><tspan x="57.7269" y="407.445">Entries</tspan></text>
+<rect x="57.7269" y="416.343" width="603.434" height="17.4384" fill="#F0F0F0"></rect>
+<rect x="0.5" y="-0.5" width="602" height="36" transform="matrix(1 0 0 -1 58.0001 470)" fill="white" stroke="#F0F0F0"></rect>
+<rect x="69.0001" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="113" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="172" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="224" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="315" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="422" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="450" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="498" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="552" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<rect x="594" y="416" width="1" height="54" fill="#F0F0F0"></rect>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="61.6549" y="457.332">1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="74.0001" y="457.332">2-003</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="126" y="457.332">12 30 00 </tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="179" y="457.741">SUB-Subc</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="231" y="457.332">PJCN-00003--Five...</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="319" y="457.332">34-Change Order 2 -- Ca..</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="425" y="457.741">Sub..</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="457" y="456.741">--</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="505" y="457.741">57,675.00</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="560" y="457.332">66,350</tspan></text>
+<text fill="#008146" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px" text-decoration="underline"><tspan x="601" y="457.332">EST00015</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="72.0001" y="428.374">Project</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="125.587" y="428.374">Cost Code</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="179.173" y="428.374">Cost type</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="230.825" y="428.374">Project contract ID</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="320.139" y="428.374">Project contract line ID</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="425.337" y="428.374">Item</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="457.328" y="428.374">Quantity</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="505.107" y="428.374">Cost</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="559.693" y="428.374">Price</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="602.096" y="428.374">Estimate ID</tspan></text>
+</g>
+<g filter="url(#filter1_d_4108_9027)">
+<rect x="41.3906" y="99.9685" width="627.397" height="76.2931" rx="16.3485" fill="white"></rect>
+</g>
+<rect x="0.544951" y="93.7144" width="706.91" height="88.0901" rx="15.8036" fill="white" stroke="#E6EBED" stroke-width="1.0899"></rect>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="21.7827" y="130.494">Change request ID</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10" font-weight="bold" letter-spacing="0px"><tspan x="34.7388" y="151.443">COR-000017</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="165.558" y="130.494">Project</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10" font-weight="bold" letter-spacing="0px"><tspan x="138.19" y="151.443">22-003--Five Oaks</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="266.355" y="130.494">Total cost</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10" font-weight="bold" letter-spacing="0px"><tspan x="265.787" y="151.443">57,675.00</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="355.248" y="130.494">Change request </tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10" font-weight="bold" letter-spacing="0px"><tspan x="346.831" y="151.443">COR - Change ord...</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="454.163" y="130.494">Change request status</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10" font-weight="bold" letter-spacing="0px"><tspan x="485.069" y="151.443">Approved</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="623.151" y="130.494">State</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10" font-weight="bold" letter-spacing="0px"><tspan x="619.399" y="151.443">Posted</tspan></text>
+<line x1="124.718" y1="109.969" x2="124.718" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<line x1="241.266" y1="109.969" x2="241.266" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<line x1="339.295" y1="109.969" x2="339.295" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<line x1="448.218" y1="109.969" x2="448.218" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<line x1="570.212" y1="109.969" x2="570.212" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<g filter="url(#filter2_d_4108_9027)">
+<rect x="41.3909" y="109.969" width="627.397" height="76.2931" rx="16.3485" fill="white"></rect>
+</g>
+<rect x="0.544951" y="88.7144" width="706.91" height="98.0911" rx="15.8036" fill="white" stroke="#E6EBED" stroke-width="1.0899"></rect>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="21.7828" y="130.494">Change request ID</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="13.0788" font-weight="bold" letter-spacing="0px"><tspan x="25.4619" y="154.635">COR-000017</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="165.558" y="130.494">Project</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="13.0788" font-weight="bold" letter-spacing="0px"><tspan x="141.468" y="154.635">22-003--Five</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="266.355" y="130.494">Total cost</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="13.0788" font-weight="bold" letter-spacing="0px"><tspan x="258.957" y="154.635">57,675.00</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="355.248" y="130.494">Change request </tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="13.0788" font-weight="bold" letter-spacing="0px"><tspan x="348.13" y="154.635">Change orde...</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="454.163" y="130.494">Change request status</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="13.0788" font-weight="bold" letter-spacing="0px"><tspan x="477.823" y="154.635">Approved</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="10.899" letter-spacing="0px"><tspan x="623.151" y="130.494">State</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="13.0788" font-weight="bold" letter-spacing="0px"><tspan x="614.709" y="154.635">Posted</tspan></text>
+<line x1="124.718" y1="109.969" x2="124.718" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<line x1="241.266" y1="109.969" x2="241.266" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<line x1="339.296" y1="109.969" x2="339.296" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<line x1="448.218" y1="109.969" x2="448.218" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<line x1="570.212" y1="109.969" x2="570.212" y2="165.553" stroke="#D1DADE" stroke-width="1.0899"></line>
+<text opacity="0.6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="193.886" y="479.13">-</tspan></text>
+<text opacity="0.6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" font-weight="500" letter-spacing="0px"><tspan x="344.195" y="479.13">-</tspan></text>
+<path d="M14.163 21.7998C14.163 9.76103 23.9223 0.00170898 35.961 0.00170898H672.045C684.084 0.00170898 693.843 9.76102 693.843 21.7997V32.6988H14.163V21.7998Z" fill="#333333"></path>
+<rect x="14.7043" y="33.2423" width="678.59" height="47.9557" fill="white" stroke="#E6EBED" stroke-width="1.0899"></rect>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="19.6182" font-weight="bold" letter-spacing="0px"><tspan x="35.9432" y="63.1738">Change Request</tspan></text>
+<rect x="456.846" y="46.214" width="72.9261" height="23.1059" fill="white"></rect>
+<rect x="456.846" y="46.214" width="72.9261" height="23.1059" stroke="#008146" stroke-width="0.871921"></rect>
+<text fill="#008146" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="467.309" y="61.1413">Print or Email</tspan></text>
+<rect x="536.093" y="46.214" width="40.9261" height="23.1059" fill="white"></rect>
+<rect x="536.093" y="46.214" width="40.9261" height="23.1059" stroke="#008146" stroke-width="0.871921"></rect>
+<text fill="#008146" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="546.556" y="61.1413">Done</tspan></text>
+<rect x="583.341" y="46.214" width="93.8141" height="23.1059" fill="white"></rect>
+<rect x="583.341" y="46.214" width="93.8141" height="23.1059" stroke="#008146" stroke-width="0.871921"></rect>
+<text fill="#008146" xml:space="preserve" style="white-space: pre" font-family="Sage UI" font-size="8.71921" letter-spacing="0px"><tspan x="593.804" y="61.1413">More actions</tspan></text>
+<path d="M656.883 58.312L660.343 61.2777C660.547 61.4527 660.848 61.4527 661.052 61.2777L664.512 58.312" stroke="#008146" stroke-width="1.30788" stroke-linecap="round"></path>
+</g>
+<defs>
+<filter id="filter0_d_4108_9027" x="14.1355" y="377.108" width="679.734" height="197.272" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="26.1576"></feOffset>
+<feGaussianBlur stdDeviation="21.798"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4108_9027"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4108_9027" result="shape"></feBlend>
+</filter>
+<filter id="filter1_d_4108_9027" x="23.9522" y="91.2493" width="662.274" height="111.17" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="8.71921"></feOffset>
+<feGaussianBlur stdDeviation="8.71921"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4108_9027"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4108_9027" result="shape"></feBlend>
+</filter>
+<filter id="filter2_d_4108_9027" x="23.9524" y="101.249" width="662.274" height="111.17" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="8.71921"></feOffset>
+<feGaussianBlur stdDeviation="8.71921"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4108_9027"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4108_9027" result="shape"></feBlend>
+</filter>
+<clipPath id="clip0_4108_9027">
+<rect width="708" height="562" fill="white"></rect>
+</clipPath>
+</defs>
+</svg>

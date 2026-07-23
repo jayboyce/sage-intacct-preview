@@ -1,0 +1,183 @@
+<svg width="708" height="554" viewBox="0 0 708 554" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1303_32225)">
+<path d="M600.593 390.285H107.404C92.7523 390.285 80.875 402.162 80.875 416.814V438.096C80.875 452.748 92.7523 464.625 107.404 464.625H600.593C615.245 464.625 627.122 452.748 627.122 438.096V416.814C627.122 402.162 615.245 390.285 600.593 390.285Z" fill="white"/>
+<path d="M686.303 0.542542H21.7045C10.0192 0.542542 0.546387 10.0153 0.546387 21.7006V456.199C0.546387 467.885 10.0192 477.358 21.7045 477.358H686.303C697.989 477.358 707.461 467.885 707.461 456.199V21.7006C707.461 10.0153 697.989 0.542542 686.303 0.542542Z" fill="#F2F5F6" stroke="#E2E2E2" stroke-width="1.08503"/>
+<path d="M707.461 32.9781H0.546387V80.5466H707.461V32.9781Z" fill="white" stroke="#E6EBED" stroke-width="1.08503"/>
+<path d="M0.00390625 21.7006C0.00390625 9.7157 9.71962 0 21.7046 0H686.303C698.288 0 708.004 9.71571 708.004 21.7006V32.4356H0.00390625V21.7006Z" fill="#333333"/>
+<path d="M572.446 43.767H485.426V66.7316H572.446V43.767Z" fill="#F7F7F7"/>
+<path d="M539.245 51.4521H495.844V59.0475H539.245V51.4521Z" fill="#CCD6DB"/>
+<path d="M560.616 53.6139V59.8732H551.501V53.6139H560.616ZM562.023 52.2705H550.094V61.2166H562.023V52.2705Z" fill="black"/>
+<path d="M562.029 50.7451H550.094V52.8857H562.029V50.7451Z" fill="black"/>
+<path d="M554.454 49.5636H551.516V52.275H554.454V49.5636Z" fill="white"/>
+<path d="M553.77 49.2812H552.215V51.6301H553.77V49.2812Z" fill="black"/>
+<path d="M560.607 49.5636H557.668V52.2751H560.607V49.5636Z" fill="white"/>
+<path d="M559.915 49.2812H558.359V51.6301H559.915V49.2812Z" fill="black"/>
+<path d="M554.606 54.5576H553.051V56.3534H554.606V54.5576Z" fill="black"/>
+<path d="M556.836 54.5597H555.281V56.3555H556.836V54.5597Z" fill="black"/>
+<path d="M556.836 57.1338H555.281V58.9296H556.836V57.1338Z" fill="black"/>
+<path d="M559.071 54.5597H557.516V56.3555H559.071V54.5597Z" fill="black"/>
+<path d="M554.606 57.1338H553.051V58.9296H554.606V57.1338Z" fill="black"/>
+<path d="M559.071 57.1338H557.516V58.9296H559.071V57.1338Z" fill="black"/>
+<path d="M572.446 43.767H485.426V66.7316H572.446V43.767Z" stroke="#CCD6DB" stroke-width="0.868026"/>
+<path d="M627.622 43.6042H583.779V66.8943H627.622V43.6042Z" fill="white"/>
+<path d="M621.977 52.5371H589.426V57.9623H621.977V52.5371Z" fill="#D1DADE"/>
+<path d="M627.622 43.6042H583.779V66.8943H627.622V43.6042Z" stroke="#D1DADE" stroke-width="0.542516"/>
+<path d="M682.021 51.999H638.719V57.4155H682.021V51.999Z" fill="#D1DADE"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="20.65" font-weight="bold" letter-spacing="0em"><tspan x="21.6562" y="63.6661">VP Services - Projects View</tspan></text>
+<path d="M22.125 95.8756C22.125 92.6171 24.7665 89.9756 28.025 89.9756H188.8C192.058 89.9756 194.7 92.6171 194.7 95.8756V281.726C194.7 284.984 192.058 287.626 188.8 287.626H28.025C24.7665 287.626 22.125 284.984 22.125 281.726V95.8756Z" fill="white"/>
+<path d="M32.4531 121.255C32.4531 119.457 33.9105 118 35.7082 118H181.123C182.921 118 184.378 119.457 184.378 121.255V274.045C184.378 275.843 182.921 277.3 181.123 277.3H35.7082C33.9105 277.3 32.4531 275.843 32.4531 274.045V121.255Z" fill="#FAFAFA"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.8" font-weight="bold" letter-spacing="0em"><tspan x="32.4805" y="108.685">Revenue by  Service Items</tspan></text>
+<path d="M106.78 225.741C118.738 225.741 128.431 216.041 128.431 204.075C128.431 192.109 118.738 182.409 106.78 182.409C94.8223 182.409 85.1287 192.109 85.1287 204.075C85.1287 216.041 94.8223 225.741 106.78 225.741Z" fill="#CBD95D"/>
+<path d="M129.904 205.55C129.904 206.458 129.847 207.365 129.734 208.265L108.253 205.55H129.904Z" fill="white"/>
+<path d="M128.27 208.19C128.215 208.641 128.146 209.089 128.062 209.535L106.78 205.55L128.27 208.19Z" fill="#FFB500"/>
+<path d="M130.172 204.535L150.518 197.125" stroke="#8099A6" stroke-width="0.542516" stroke-linecap="round"/>
+<path d="M82.7148 169.562L100.451 181.99" stroke="#8099A6" stroke-width="0.542516" stroke-linecap="round"/>
+<path d="M130.25 209.181L150.596 216.591" stroke="#8099A6" stroke-width="0.542516" stroke-linecap="round"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="47.321" y="160.119">Business </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="39.7173" y="170.119">Consulting</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="146.836" y="182.867">Project </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="146.836" y="192.867">Fee</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="137.094" y="227.283">Technical </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="137.094" y="237.283">Consulting</tspan></text>
+<path d="M513.305 95.8756C513.305 92.6171 515.946 89.9756 519.205 89.9756H679.98C683.238 89.9756 685.88 92.6171 685.88 95.8756V281.726C685.88 284.984 683.238 287.626 679.98 287.626H519.205C515.946 287.626 513.305 284.984 513.305 281.726V95.8756Z" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.8" font-weight="bold" letter-spacing="0em"><tspan x="523.969" y="108.685">Customer A/R</tspan></text>
+<path d="M576.786 183.657C581.601 178.839 587.808 175.657 594.529 174.561C601.25 173.466 608.146 174.512 614.24 177.552C620.334 180.593 625.32 185.473 628.491 191.503C631.662 197.533 632.859 204.409 631.912 211.157L599.751 206.638L576.786 183.657Z" fill="#CBD95D"/>
+<path d="M631.977 210.669C631.335 215.804 629.478 220.711 626.559 224.982C623.64 229.254 619.744 232.766 615.195 235.227C610.646 237.688 605.576 239.026 600.406 239.13C595.236 239.235 590.115 238.102 585.471 235.827C580.826 233.552 576.792 230.2 573.703 226.049C570.615 221.899 568.561 217.071 567.713 211.967C566.865 206.862 567.248 201.629 568.829 196.702C570.409 191.775 573.143 187.297 576.802 183.641L599.751 206.638L631.977 210.669Z" fill="#ED7D43"/>
+<path d="M632.228 206.638C632.228 208 632.142 209.36 631.971 210.711L599.751 206.638H632.228Z" fill="#5DB2B1"/>
+<path d="M576.786 183.657C577.267 183.176 577.763 182.71 578.273 182.26L599.751 206.638L576.786 183.657Z" fill="#FFB500"/>
+<path d="M562.941 164.39H567.285L577.015 181.722" stroke="#8099A6" stroke-width="0.542516" stroke-linecap="round"/>
+<path d="M626.812 157.668H622.985L612.914 175.529" stroke="#8099A6" stroke-width="0.542516" stroke-linecap="round"/>
+<path d="M653.965 209.02L633.471 209.223" stroke="#8099A6" stroke-width="0.542516" stroke-linecap="round"/>
+<path d="M569.438 254.51H573.265L583.336 236.649" stroke="#8099A6" stroke-width="0.542516" stroke-linecap="round"/>
+<path d="M559.691 173.057H564.035L574.847 184.431" stroke="#8099A6" stroke-width="0.542516" stroke-linecap="round"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="541.13" y="165.93">1-30</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="533.637" y="175.678">31-60</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="542.301" y="255.846">61-90</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="657.959" y="210.343">91-</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="630.896" y="160.513">0-0</tspan></text>
+<path d="M203.551 95.8756C203.551 92.6171 206.192 89.9756 209.451 89.9756H498.551C501.809 89.9756 504.451 92.6171 504.451 95.8756V281.726C504.451 284.984 501.809 287.626 498.551 287.626H209.451C206.192 287.626 203.551 284.984 203.551 281.726V95.8756Z" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.8" font-weight="bold" letter-spacing="0em"><tspan x="214.352" y="108.685">Project Financial Summary All PM</tspan></text>
+<path d="M213.875 121.256C213.875 119.458 215.332 118.001 217.13 118.001L490.87 117.997C492.668 117.997 494.125 119.454 494.125 121.252V274.038C494.125 275.836 492.668 277.293 490.87 277.294L217.13 277.297C215.332 277.297 213.875 275.84 213.875 274.042V121.256Z" fill="#FAFAFA"/>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="224.094" y="198.529">Dave Harrington</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="229.512" y="211.528">Been Verified</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="229.512" y="223.444">Cinium Financial Services</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="229.512" y="235.358">Conductor</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="351.781" y="223.444">138,250</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="351.781" y="235.358">235,500</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="395.414" y="223.444">36,450.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="395.414" y="235.358">25,450.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="470.592" y="223.444">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="351.781" y="211.528">272,750</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="390.085" y="211.528">207,750.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="447.375" y="211.528">65,000.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="447.375" y="235.358">11,781.32</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="229.512" y="247.279">Inteligent Audit</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="351.781" y="247.279">394,800</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="390.085" y="247.279">245,196.58</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="447.375" y="247.279">32,245.00</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="229.512" y="259.195">The HCI Group</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="357.094" y="259.195">57,850</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="418.627" y="259.195">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="470.592" y="259.195">0.00</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="229.512" y="272.198">Yellowhammer</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="351.781" y="272.198">425,500</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="390.085" y="272.198">260,752.61</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="442.054" y="272.198">115,785.00</tspan></text>
+<path d="M323.695 171.534H510.98" stroke="#CCD6DB" stroke-width="1.08503"/>
+<path d="M323.695 188.866H510.98" stroke="#CCD6DB" stroke-width="1.08503"/>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="224.094" y="143.28">Bashar Wahid</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="229.512" y="155.195">KENTECH Consultant</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="229.512" y="166.033">SalThru</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="224.094" y="181.194">Total Bashar Wahid</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="320.569" y="134.797">Contract Value</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="357.005" y="155.195">5,400</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="347.445" y="166.033">218,850</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="347.305" y="182.281">224,250</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="396.951" y="134.797">Receipts</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="396.4" y="155.195">5,515.67</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="391.082" y="166.033">54,792.13</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.85" letter-spacing="0em"><tspan x="388.021" y="183.243">60,307.80</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="469.716" y="134.797">A/R</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="466.268" y="155.195">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="443.043" y="166.033">85,683.39</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.85" letter-spacing="0em"><tspan x="439.989" y="183.243">85,683.39</tspan></text>
+<path d="M22.125 302.376C22.125 299.117 24.7665 296.476 28.025 296.476H188.8C192.058 296.476 194.7 299.117 194.7 302.376V452.826C194.7 456.084 192.058 458.726 188.8 458.726H28.025C24.7665 458.726 22.125 456.084 22.125 452.826V302.376Z" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4805" y="429.223">The HCI </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4805" y="437.903">Group</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="75.7773" y="428.8">Good</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="110.422" y="428.8">Net 30</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="167.12" y="428.8">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4805" y="450.893">33Across</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="75.7773" y="450.464">Good</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="110.422" y="450.464">Net 30</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="167.12" y="450.464">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4766" y="369.641">Buddy TV</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="75.7773" y="369.218">Poor</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="110.422" y="369.218">Net 30</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="167.12" y="369.218">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4766" y="384.812">KENTECH  </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4766" y="393.492">Consulting</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="75.7773" y="384.389">Good</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="110.422" y="384.389">Net 30</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="167.12" y="384.389">0.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4766" y="406.476">Yellow  </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4766" y="415.156">Hammer</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="75.7773" y="406.052">Good</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="110.422" y="406.052">Net 30</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="151.612" y="406.052">4,557.61</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.8" font-weight="bold" letter-spacing="0em"><tspan x="32.4766" y="316.659">Customer Health</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4766" y="333.473">Name</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4805" y="347.977">Glead  </tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="32.4805" y="356.657">Sciences</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="75.7773" y="347.555">Poor</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="110.422" y="347.555">Net 30</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="145.293" y="347.555">49,500.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="75.7773" y="333.473">Health</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="110.422" y="333.473">Term</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="151.446" y="333.473">Total Due</tspan></text>
+<path d="M513.305 302.376C513.305 299.117 515.946 296.476 519.205 296.476H679.98C683.238 296.476 685.88 299.117 685.88 302.376V452.826C685.88 456.084 683.238 458.726 679.98 458.726H519.205C515.946 458.726 513.305 456.084 513.305 452.826V302.376Z" fill="white"/>
+<path d="M524.129 335.48C524.129 333.682 525.586 332.225 527.384 332.225H672.433C674.231 332.225 675.689 333.682 675.689 335.48V359.302C675.689 361.1 674.231 362.557 672.433 362.557H527.384C525.586 362.557 524.129 361.1 524.129 359.302V335.48Z" fill="#FAFAFA"/>
+<path d="M625.891 404.265H675.689" stroke="#CCD6DB" stroke-width="1.08503"/>
+<path d="M625.891 420.514H675.689" stroke="#CCD6DB" stroke-width="1.08503"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.8" font-weight="bold" letter-spacing="0em"><tspan x="524.129" y="316.659">Revenue top 5 Customers</tspan></text>
+<path d="M664.866 350.642H643.215V356.058H664.866V350.642Z" fill="#CCD6DB"/>
+<path d="M664.868 339.807H632.391V345.223H664.868V339.807Z" fill="#CCD6DB"/>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="524.129" y="377.095">Customers</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="529.543" y="389.011">Renegade  </tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="529.543" y="399.011">Furniture Group</tspan></text>
+<text fill="#0060A7" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="634.824" y="399.847">25,250.00</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="524.129" y="415.013">Total</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.85" letter-spacing="0em"><tspan x="631.763" y="415.975">25,250.00</tspan></text>
+<path d="M203.547 302.377C203.547 299.118 206.188 296.477 209.447 296.477H498.547C501.805 296.477 504.447 299.118 504.447 302.377V452.827C504.447 456.085 501.805 458.727 498.547 458.727H209.447C206.188 458.727 203.547 456.085 203.547 452.827V302.377Z" fill="white"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="11.8" font-weight="bold" letter-spacing="0em"><tspan x="219.758" y="316.66">Project Profitability</tspan></text>
+<path d="M483.911 336.288H260.902V355.76H483.911V336.288Z" fill="white"/>
+<path d="M477.416 375.229H260.902V394.701H477.416V375.229Z" fill="white"/>
+<path d="M477.416 355.759H260.902V375.231H477.416V355.759Z" fill="#F7F7F7"/>
+<path d="M477.416 394.7H260.902V414.172H477.416V394.7Z" fill="#F7F7F7"/>
+<path d="M490.407 414.174H260.902V433.646H490.407V414.174Z" fill="white"/>
+<path d="M293.378 343.104H271.727V432.675H293.378V343.104Z" fill="#CBD95D"/>
+<path d="M325.85 423.91H304.199V432.672H325.85V423.91Z" fill="#5DB2B1"/>
+<path d="M358.331 395.678H336.68V432.675H358.331V395.678Z" fill="#FFB500"/>
+<path d="M390.811 428.776H369.16V432.67H390.811V428.776Z" fill="#ED7D43"/>
+<path d="M423.284 395.678H401.633V432.675H423.284V395.678Z" fill="#427E96"/>
+<path d="M455.76 409.307H434.109V432.673H455.76V409.307Z" fill="#CA4D63"/>
+<path d="M260.902 433.108H477.416" stroke="#D1DADE" stroke-width="1.08503"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="247.019" y="432.84">0</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="279.623" y="447.744">A</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="312.99" y="447.744">B</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="344.346" y="447.744">C</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="376.569" y="447.744">D</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="409.516" y="447.744">E</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="442.09" y="447.744">F</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="225.518" y="413.663">16,000</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="225.518" y="394.489">32,000</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="225.518" y="376.789">48,000</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="225.518" y="357.613">64,000</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.68026" letter-spacing="0em"><tspan x="225.518" y="338.44">80,000</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_1303_32225">
+<rect width="708" height="554" fill="white"/>
+</clipPath>
+</defs>
+</svg>

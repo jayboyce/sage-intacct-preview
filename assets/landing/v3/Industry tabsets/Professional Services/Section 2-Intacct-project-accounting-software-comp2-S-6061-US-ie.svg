@@ -1,0 +1,166 @@
+<svg width="708" height="550" viewBox="0 0 708 550" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1321_31373)">
+<g filter="url(#filter0_d_1321_31373)">
+<rect x="64.9541" y="231.67" width="578.092" height="218.679" rx="21.6514" fill="white"/>
+</g>
+<path d="M21.6514 0.541016H686.349C698.007 0.541016 707.459 9.99259 707.459 21.6514V430.862C707.459 442.521 698.007 451.973 686.349 451.973H21.6514C9.99259 451.973 0.541016 442.521 0.541016 430.862V21.6514C0.541016 9.99259 9.99259 0.54102 21.6514 0.541016Z" fill="white" stroke="#E6EBED" stroke-width="1.08257"/>
+<path d="M0 21.6514C0 9.69366 9.69365 0 21.6514 0H686.349C698.306 0 708 9.69365 708 21.6514V32.4771H0V21.6514Z" fill="#192327"/>
+<rect x="647.647" y="46.8212" width="43.844" height="23.2752" fill="white"/>
+<rect x="647.647" y="46.8212" width="43.844" height="23.2752" stroke="#D1DADE" stroke-width="0.541284"/>
+<path d="M685.807 55.7524H653.33V61.1653H685.807V55.7524Z" fill="#D1DADE"/>
+<rect x="548.05" y="46.8212" width="43.844" height="23.2752" fill="white"/>
+<rect x="548.05" y="46.8212" width="43.844" height="23.2752" stroke="#D1DADE" stroke-width="0.541284"/>
+<path d="M586.211 55.7524H553.734V61.1653H586.211V55.7524Z" fill="#D1DADE"/>
+<rect x="597.849" y="46.8212" width="43.844" height="23.2752" fill="white"/>
+<rect x="597.849" y="46.8212" width="43.844" height="23.2752" stroke="#D1DADE" stroke-width="0.541284"/>
+<path d="M636.009 55.7524H603.532V61.1653H636.009V55.7524Z" fill="#D1DADE"/>
+<rect x="498.252" y="46.8212" width="43.844" height="23.2752" fill="white"/>
+<rect x="498.252" y="46.8212" width="43.844" height="23.2752" stroke="#D1DADE" stroke-width="0.541284"/>
+<path d="M536.413 55.7524H503.936V61.1653H536.413V55.7524Z" fill="#D1DADE"/>
+<rect x="448.454" y="46.8212" width="43.844" height="23.2752" fill="white"/>
+<rect x="448.454" y="46.8212" width="43.844" height="23.2752" stroke="#D1DADE" stroke-width="0.541284"/>
+<path d="M486.615 55.7524H454.138V61.1653H486.615V55.7524Z" fill="#D1DADE"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="19.4862" font-weight="bold" letter-spacing="0px"><tspan x="37.8889" y="64.5092">Project Gantt Chart</tspan></text>
+<circle cx="25.4394" cy="56.8349" r="3.78899" fill="#00D639"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="223.009" y="99.6239">Status</tspan></text>
+<path d="M21.6504 153.725H686.348V172.129H21.6504V153.725Z" fill="white"/>
+<rect x="395.137" y="158.055" width="171.046" height="8.66055" fill="#EF8784"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="28.1458" y="165.324">1001- Been verifed Quick Start Implementaion</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="218.678" y="165.324">Completed</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="165.324">02/04/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="165.324">03/08/2023</tspan></text>
+<path d="M21.6504 172.129H686.348V190.532H21.6504V172.129Z" fill="white"/>
+<rect x="395.137" y="176.459" width="19.4862" height="8.66055" fill="#EF8784"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="38.9714" y="183.728">Define</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="218.678" y="183.728">In Progress</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="183.728">02/04/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="183.728">02/06/2023</tspan></text>
+<path d="M0 190.532H708V208.936H0V190.532Z" fill="white"/>
+<rect x="395.138" y="194.863" width="19.4862" height="8.66055" fill="#EF8784"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7981" y="202.131">009 - Donofria, Brian</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.477" y="202.131">02/04/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.605" y="202.131">02/06/2023</tspan></text>
+<path d="M21.6504 208.936H686.348V227.34H21.6504V208.936Z" fill="white"/>
+<rect x="395.137" y="213.266" width="19.4862" height="8.66055" fill="#EF8784"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7971" y="220.535">008 - Harrington, Dave</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="220.535">02/04/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="220.535">02/06/2023</tspan></text>
+<path d="M21.6504 227.339H686.348V245.743H21.6504V227.339Z" fill="white"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="38.9714" y="238.939">Educate</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="218.678" y="238.939">In Progress</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="238.939">02/11/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="238.939">02/13/2023</tspan></text>
+<rect x="430.861" y="231.67" width="19.4862" height="8.66055" fill="#59B0F8"/>
+<path d="M21.6504 245.743H686.348V264.147H21.6504V245.743Z" fill="white"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7971" y="257.343">027 - Roy, Amanda</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="257.343">02/11/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="257.343">02/13/2023</tspan></text>
+<rect x="430.861" y="250.073" width="19.4862" height="8.66055" fill="#59B0F8"/>
+<path d="M21.6504 264.147H686.348V282.55H21.6504V264.147Z" fill="white"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="40.054" y="275.746">Build</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="218.678" y="275.746">In Progress</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="275.746">02/18/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="275.746">02/22/2023</tspan></text>
+<rect x="466.586" y="268.477" width="30.3119" height="8.66055" fill="#59B0F8"/>
+<path d="M21.6504 282.551H686.348V300.954H21.6504V282.551Z" fill="white"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7971" y="294.15">009 - Donofria, Brian</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="294.15">02/18/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="294.15">02/22/2023</tspan></text>
+<rect x="466.586" y="286.881" width="30.3119" height="8.66055" fill="#5EC9C9"/>
+<path d="M21.6504 300.954H686.348V319.358H21.6504V300.954Z" fill="white"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7971" y="312.554">008 - Harrington, Dave</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="312.554">02/18/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="312.554">02/22/2023</tspan></text>
+<rect x="466.586" y="305.284" width="30.3119" height="8.66055" fill="#5EC9C9"/>
+<path d="M21.6504 319.358H686.348V337.762H21.6504V319.358Z" fill="white"/>
+<rect width="19.4862" height="8.66055" transform="translate(502.311 338.771)" fill="#59B0F8"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="40.054" y="330.957">Model</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="218.678" y="330.957">In Progress</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="330.957">02/25/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="330.957">02/28/2023</tspan></text>
+<path d="M21.6504 337.762H686.348V356.165H21.6504V337.762Z" fill="white"/>
+<rect width="19.4862" height="8.66055" transform="translate(502.311 357.175)" fill="#5EC9C9"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7971" y="349.361">008 - Harrington, Dave</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="349.361">02/25/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="349.361">02/28/2023</tspan></text>
+<path d="M21.6504 356.165H686.348V374.569H21.6504V356.165Z" fill="white"/>
+<rect width="19.4862" height="8.66055" transform="translate(502.311 375.578)" fill="#5EC9C9"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7971" y="367.764">009 - Donofria, Brian</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="367.764">02/25/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="367.764">02/28/2023</tspan></text>
+<path d="M21.6504 374.569H686.348V392.973H21.6504V374.569Z" fill="white"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="40.054" y="386.168">Deploy</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="218.678" y="386.168">In Progress</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="386.168">03/04/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="386.168">03/06/2023</tspan></text>
+<rect x="538.035" y="377.816" width="30.3119" height="8.66055" fill="#CCD6DB"/>
+<rect x="538.035" y="377.816" width="12.9908" height="8.66055" fill="#59B0F8"/>
+<path d="M21.6504 392.972H686.348V411.376H21.6504V392.972Z" fill="white"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7971" y="404.572">008 - Harrington, Dave</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.476" y="404.572">03/04/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.604" y="404.572">03/06/2023</tspan></text>
+<rect x="538.035" y="396.22" width="30.3119" height="8.66055" fill="#CCD6DB"/>
+<rect x="538.035" y="396.22" width="30.3119" height="8.66055" fill="#5EC9C9"/>
+<text fill="#3176C2" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" font-weight="500" letter-spacing="0px"><tspan x="49.7976" y="422.975">009 - Donofria, Brian</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="268.477" y="422.975">03/04/2023</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="8.66055" letter-spacing="0px"><tspan x="322.605" y="422.975">03/06/2023</tspan></text>
+<rect x="538.036" y="414.624" width="30.3119" height="8.66055" fill="#CCD6DB"/>
+<rect x="538.036" y="414.624" width="8.66055" height="8.66055" fill="#5EC9C9"/>
+<line x1="16.2388" y1="171.858" x2="691.762" y2="171.858" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="190.262" x2="691.762" y2="190.262" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="208.665" x2="691.762" y2="208.665" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="227.069" x2="691.762" y2="227.069" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="245.473" x2="691.762" y2="245.473" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="263.876" x2="691.762" y2="263.876" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="282.28" x2="691.762" y2="282.28" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="300.684" x2="691.762" y2="300.684" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="319.088" x2="691.762" y2="319.087" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="337.491" x2="691.762" y2="337.491" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="355.895" x2="691.762" y2="355.895" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="374.298" x2="691.762" y2="374.298" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="392.702" x2="691.762" y2="392.702" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="411.106" x2="691.762" y2="411.106" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="16.2388" y1="430.592" x2="691.762" y2="430.592" stroke="#CCD6DB" stroke-width="0.541284"/>
+<path d="M16.2388 81.1929H691.762V153.725H16.2388V81.1929Z" fill="#F7F7F7"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="268.477" y="120.193">Start</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="218.679" y="120.193">Status</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="322.606" y="120.193">Finish</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="520.716" y="112.615">Q1</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="448.184" y="131.018">February</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="395.139" y="148.34">Feb 04</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="430.864" y="148.34">Feb 10</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="466.588" y="148.34">Feb 17</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="502.313" y="148.34">Feb 24</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="538.038" y="148.34">Mar 03</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="574.845" y="148.34">Mar 10</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="611.652" y="148.34">Mar 17</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="648.46" y="148.34">Mar 24</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="598.661" y="131.018">March</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Sage UI" font-size="9.74312" font-weight="500" letter-spacing="0px"><tspan x="28.147" y="120.193">Project/Task/Resource</tspan></text>
+<line x1="395.138" y1="118.812" x2="691.762" y2="118.812" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="395.138" y1="100.409" x2="691.762" y2="100.409" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="395.409" y1="100.679" x2="395.409" y2="136.404" stroke="#CCD6DB" stroke-width="0.541284"/>
+<line x1="395.138" y1="136.133" x2="691.762" y2="136.133" stroke="#CCD6DB" stroke-width="0.541284"/>
+<mask id="mask0_1321_31373" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="15" y="75" width="624" height="342">
+<rect x="15" y="75" width="624" height="342" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_1321_31373)">
+<rect x="15.5" y="75.5" width="623" height="342" stroke="#E6EBED"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1321_31373" x="-4.3303" y="197.028" width="716.661" height="357.248" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="34.6422"/>
+<feGaussianBlur stdDeviation="34.6422"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1321_31373"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1321_31373" result="shape"/>
+</filter>
+<clipPath id="clip0_1321_31373">
+<rect width="708" height="550" fill="white"/>
+</clipPath>
+</defs>
+</svg>
